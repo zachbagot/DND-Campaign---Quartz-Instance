@@ -15,7 +15,7 @@ The mages call them death rattles. Nobody has explained where they come from or 
 
 ## Worth noticing
 
-The second one came true within the same arc. Two roads at the water is the ford at [[Session 06 - Blood Gulch Ridge]]. The party chose a side. Choosing neither would have meant drowning anyway.
+The second one came true within the same arc. Two roads at the water is the ford at [[Session 06 - The Battle of Blood Gulch Ridge]]. The party chose a side. Choosing neither would have meant drowning anyway.
 
 Which means the rattles are accurate.
 

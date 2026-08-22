@@ -60,4 +60,4 @@ The guards formed a phalanx and began assaulting the orcs on the ridge.
 The party was three rounds from the ridgeline, at the back of the caravan, with a decision to make.
 
 ---
-*Previous: [[Session 04 - The Iron Net]] · Next: [[Session 06 - Blood Gulch Ridge]]*
+*Previous: [[Session 04 - The Iron Net]] · Next: [[Session 06 - The Battle of Blood Gulch Ridge]]*

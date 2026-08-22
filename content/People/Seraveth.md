@@ -9,7 +9,7 @@ Four mages answered to him on the march: Orvyn, [[Liss]], Cabel, and Mourne, plu
 
 He is not a soldier. The soldiers belonged to [[Captain Aldric Renn]]. Seraveth was there in some other capacity, and what the mages were writing in their journals is the reason [[Polly]] broke into two tents. See [[Death Rattles]].
 
-**He was run down to a single hit point at [[Session 06 - Blood Gulch Ridge]].**
+**He was run down to a single hit point at [[Session 06 - The Battle of Blood Gulch Ridge]].**
 
 The party managed it inside the fog [[Enya]] had thrown across the field. He got a teleport off and vanished before they could finish him, but [[Polly]] took his arm off first and picked it up.
 

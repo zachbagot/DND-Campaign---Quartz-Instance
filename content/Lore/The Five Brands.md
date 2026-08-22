@@ -1,7 +1,7 @@
 ---
 type: lore
 ---
-The marks given to the party at the fire in [[Ghol Uzhak]] during [[Session 06 - Blood Gulch Ridge]], performed by [[Yagra Emberveil]].
+The marks given to the party at the fire in [[Ghol Uzhak]] during [[Session 06 - The Battle of Blood Gulch Ridge]], performed by [[Yagra Emberveil]].
 
 ## How it works
 

@@ -1,7 +1,7 @@
 ---
 type: place
 ---
-The overland route between the far shore and [[Dur Soleth]], and the setting of [[Session 05 - The Caravan]] and [[Session 06 - Blood Gulch Ridge]].
+The overland route between the far shore and [[Dur Soleth]], and the setting of [[Session 05 - The Caravan]] and [[Session 06 - The Battle of Blood Gulch Ridge]].
 
 Chulls pull the caravan wagons. Elder Bog Ashveil rides one at the front of the column.
 

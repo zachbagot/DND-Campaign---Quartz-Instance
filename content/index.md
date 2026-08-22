@@ -15,7 +15,7 @@ Six sessions played. The party is currently standing at the lake outside [[Ghol 
 | 3 | [[Session 03 - Beef's Beefy Doors]] | A broken door puts the party in debt to a thieves guild, and they rob a shop to clear it |
 | 4 | [[Session 04 - The Iron Net]] | [[Polly]] gropes a dignitary, the Duke sentences them to an escort job, and they cross the water |
 | 5 | [[Session 05 - The Caravan]] | A week walking with a forced march, a burglary, and three pages of prophecy |
-| 6 | [[Session 06 - Blood Gulch Ridge]] | The party picks a side, wins a battle, and is branded at a fire older than the world |
+| 6 | [[Session 06 - The Battle of Blood Gulch Ridge]] | The party picks a side, wins a battle, and is branded at a fire older than the world |
 
 ## The party
 
