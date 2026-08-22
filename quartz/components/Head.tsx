@@ -94,6 +94,32 @@ export default (() => {
         <meta name="generator" content="Quartz" />
 
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
+
+        {/*
+          Default the site to dark.
+
+          The darkmode plugin resolves the theme as
+            localStorage.getItem("theme") ?? (prefers-color-scheme: light ? "light" : "dark")
+          so a visitor whose OS is set to light gets a light site. The plugin
+          takes no options and the theme plugin's `mode` only controls which CSS
+          is emitted, so there is no configuration lever for this.
+
+          Seeding localStorage before that script runs makes dark the default for
+          anyone who has never chosen. The toggle and its persistence are
+          untouched: the moment a visitor flips it, their choice is written over
+          this and wins on every later visit.
+
+          This must stay above the beforeDOMReady scripts below, which is where
+          the darkmode inline script lives. Wrapped in try/catch because
+          localStorage throws in some privacy modes, where the fallback is simply
+          the old browser-preference behaviour.
+        */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `try{if(!localStorage.getItem("theme"))localStorage.setItem("theme","dark")}catch(e){}`,
+          }}
+        />
+
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")
           .map((res) => JSResourceToScriptElement(res, true))}
