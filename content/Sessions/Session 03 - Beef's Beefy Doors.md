@@ -35,7 +35,7 @@ The favour was a job. Break down the doors of Alden Merrik's **Traveler's Trove 
 
 The party scouted it first. [[Polly]] picked the back lock. [[Zaff]] identified a trap as a snack, and [[Throkk]] ate it and was poisoned. [[Polly]] found a potion that cured him.
 
-They came away with a haul:
+They came away with a haul, though the job was Beef's and the goods were hers:
 
 - Ever-Dry Socks, magical
 - An amulet of Feather Fall, single use
@@ -47,6 +47,8 @@ They came away with a haul:
 - An adventurer's journal
 
 They broke the shop's back door on the way out, as instructed.
+
+The ornamental axe, the iron-studded leather and the plate armour went back to [[Beef the Bard]]. She took the pieces worth reselling. The party kept the socks, the amulet, the healer's kit, the potions and the journal, which is the difference between a crew on a job and a band of adventurers who struck it rich.
 
 [[Throkk]] was spotted by a vagrant in the alley. He picked the man up, covered his mouth, and ran. The vagrant, [[Tharin]], was later let go with five copper and two goodberries.
 
