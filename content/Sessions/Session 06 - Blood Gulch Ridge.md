@@ -239,6 +239,16 @@ She had also said, earlier, that the fire had been expecting them.
 
 **She never said what for.**
 
+## After the fire
+
+What follows the branding is the quietest stretch of the campaign so far, and coming off Blood Gulch Ridge that is not a complaint.
+
+They stayed. They ate with the orcs and then they drank with them, and it went the way that goes. Everyone got thoroughly drunk. They slept it off inside a village no human had slept in for ten thousand years, and then they did much the same again.
+
+Nothing was decided. No revelation arrived. The fire did not explain itself, [[Yagra Emberveil]] did not elaborate on anything, and nobody came to fetch them.
+
+For a party that had spent a week walking beside people dying of exposure and then fought a battle in a river, two days of hospitality and hangovers is the whole event.
+
 ## Before they left
 
 They traded and stocked up on the way out.
@@ -249,7 +259,7 @@ Elder Senne Gorefang gave [[Polly]] fourteen grams of ashroot. The seven he had 
 
 ## Where they stand
 
-At the lake. Freshly branded. Marked as tribe by a fire older than the world, wanted by a human duchy they betrayed, carrying a mage's severed arm and no particular plan.
+At the lake. Freshly branded, well fed, badly hungover. Marked as tribe by a fire older than the world, wanted by a human duchy they betrayed, carrying a mage's severed arm and no particular plan.
 
 ---
 *Previous: [[Session 05 - The Caravan]]*
