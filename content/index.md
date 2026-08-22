@@ -1,6 +1,6 @@
 ---
-title: The Campaign
 type: index
+title: The Campaign
 ---
 A living record of the campaign, kept for the people at the table.
 
@@ -48,4 +48,4 @@ Things the party knows about and has not resolved.
 - The party is carrying [[Seraveth]]'s arm.
 - [[Liss]] is free and unaccounted for.
 - [[Captain Aldric Renn]] is a prisoner on the lake shore.
-- Nobody has asked [[Polly]] what she saw while she was dead.
+- Nobody has asked [[Polly]] what he saw while he was dead.

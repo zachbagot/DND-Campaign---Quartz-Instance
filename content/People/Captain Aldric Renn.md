@@ -9,6 +9,6 @@ Not to be confused with **Mayor Aldric** of [[Briarwood]], who is a different ma
 
 In [[Session 06 - Blood Gulch Ridge]] he spotted the party's betrayal directly and pulled a squad of Heavy Infantry out of formation, with Sergeant Dava, to kill them specifically. It did not work. He was taken alive.
 
-The party traded him to the orcs to get [[Liss]] released.
+The party traded him to [[Vorrak Stonebell]] to get [[Liss]] released.
 
 **He is currently a prisoner** in the shanty settlement on the lake shore, outside the pocket dimension of [[Ghol Uzhak]].

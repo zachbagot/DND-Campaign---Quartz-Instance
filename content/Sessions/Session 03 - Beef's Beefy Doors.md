@@ -15,7 +15,7 @@ That left them a day in [[Aquitaine]] with nothing to do.
 
 The **BB** coin that had been planted on [[Zaff]] on the road turned out to be a thieves guild token. Shown to the right person, it got them directions.
 
-Along the way [[Polly]] stopped at the orphanage she had helped on a previous visit. [[Thrain Battleborn]], an adult volunteer who grew up there, confirmed the coin came from **Beef's Beefy Doors**.
+Along the way [[Polly]] stopped at the orphanage he had helped on a previous visit. [[Thrain Battleborn]], an adult volunteer who grew up there, confirmed the coin came from **Beef's Beefy Doors**.
 
 ## The racket
 

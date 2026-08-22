@@ -9,6 +9,6 @@ She was decent to [[Polly]] on the march, and that relationship saved [[Polly]] 
 
 She survived the rout at [[Session 06 - Blood Gulch Ridge]] and was taken by the orcs.
 
-The party traded [[Captain Aldric Renn]] to get her released. She struck all five of them as a genuinely good person.
+The party traded [[Captain Aldric Renn]] to [[Vorrak Stonebell]] to get her released. She struck all five of them as a genuinely good person.
 
 **She ran, and she is free, and nobody knows where she went.**

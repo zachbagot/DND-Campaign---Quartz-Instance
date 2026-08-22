@@ -35,7 +35,7 @@ Before the expected ambush, the party went to find out what the mages were writi
 
 [[Throkk]] tried to distract the guards by urinating on them. He was arrested and taken to a jail wagon.
 
-[[Polly]] broke into [[Liss]]'s tent and was nearly caught. Her existing relationship with [[Liss]] saved her. She then broke into Mourne's tent and found two things: a journal, and a personal item of Mourne's that the table has not stopped talking about since.
+[[Polly]] broke into [[Liss]]'s tent and was nearly caught. His existing relationship with [[Liss]] saved him. He then broke into Mourne's tent and found two things: a journal, and a personal item of Mourne's that the table has not stopped talking about since.
 
 She copied three pages of the journal, all written in arcana, which nobody in the party could read.
 
@@ -43,7 +43,7 @@ She copied three pages of the journal, all written in arcana, which nobody in th
 
 ## The death rattles
 
-[[Polly]] tricked [[Liss]] into casting Comprehend Languages on her, and read the three stolen pages.
+[[Polly]] tricked [[Liss]] into casting Comprehend Languages on him, and read the three stolen pages.
 
 They are prophecies. The mages call them **death rattles**. Two were read aloud at the table and both are recorded in [[Death Rattles]].
 

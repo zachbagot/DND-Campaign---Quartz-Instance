@@ -42,7 +42,7 @@ The party found the goblin hideout and killed [[Skarnick]], the goblin prince wh
 - The dragon was searching for something and nobody knows what.
 - The redheaded mage in the ruins has never been identified.
 - [[Maris]] and her cat were never spoken to.
-- Nobody has asked [[Polly]] what she saw while she was dead.
+- Nobody has asked [[Polly]] what he saw while he was dead.
 
 ---
 *Next: [[Session 02 - The Road to Aquitaine]]*

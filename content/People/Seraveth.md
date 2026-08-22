@@ -9,6 +9,8 @@ Four mages answered to him on the march: Orvyn, [[Liss]], Cabel, and Mourne, plu
 
 He is not a soldier. The soldiers belonged to [[Captain Aldric Renn]]. Seraveth was there in some other capacity, and what the mages were writing in their journals is the reason [[Polly]] broke into two tents. See [[Death Rattles]].
 
-**He escaped the battle at one hit point, and he left his arm behind.**
+**He was run down to a single hit point at [[Session 06 - Blood Gulch Ridge]].**
 
-The party has the arm.
+The party managed it inside the fog [[Enya]] had thrown across the field. He got a teleport off and vanished before they could finish him, but [[Polly]] took his arm off first and picked it up.
+
+The party still has the arm. He is still out there, one arm lighter, and he knows exactly who did it.

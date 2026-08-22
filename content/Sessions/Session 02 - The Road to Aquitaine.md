@@ -9,7 +9,7 @@ The party loots the goblin cave, takes an escort job, and travels a long way wes
 
 The party stripped the hideout. They came away with a **Silver Gryphon Feather**, and [[Throkk]] found a biscuit that grants a bonus to his next persuasion attempt.
 
-Then [[Polly]] did something nobody has fully explained. She dismembered [[Skarnick]]'s body, cut out his heart, and drove it into the wall of the cave.
+Then [[Polly]] did something nobody has fully explained. He dismembered [[Skarnick]]'s body, cut out his heart, and drove it into the wall of the cave.
 
 A faint shudder ran through the whole cave at that moment.
 
