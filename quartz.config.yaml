@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics: null
   locale: en-US
-  baseUrl: zachbagot.github.io/Real-Deal-DND
+  baseUrl: zachbagot.github.io/DND-Campaign---Quartz-Instance
   ignorePatterns:
     - private
     - templates
