@@ -1,4 +1,5 @@
 ---
+title: The Campaign
 type: index
 ---
 # The Campaign
