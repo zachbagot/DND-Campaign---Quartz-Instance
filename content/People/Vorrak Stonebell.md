@@ -1,10 +1,13 @@
 ---
 type: npc
 faction: Ridge Orcs
+tags: [npc]
 ---
+# Vorrak Stonebell
+
 Orc resistance leader. Mid forties, six foot seven.
 
-He planned the ambush at the ford that became the battle in [[Session 06 - The Battle of Blood Gulch Ridge]], and he watched the party choose a side from the ridge.
+He planned the ambush at the ford that became the battle in [[Session 06 - Blood Gulch Ridge]], and he watched the party choose a side from the ridge.
 
 Afterward he did something no orc has done in ten thousand years. He invited five humans into [[Ghol Uzhak]].
 

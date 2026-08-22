@@ -2,8 +2,12 @@
 status: complete
 type: session
 session: 1
+real_date: 2025-11-16
+tags: [session]
 ---
-The campaign opens in [[Briarwood]], a quiet town with an inn called the Rusty Tankard, and ends with a goblin prince's head on the floor of a cave.
+# Session 01: The Burning of Briarwood
+
+The campaign opens in [[Briarwood]], a quiet town with an inn called the Rusty Tankard, and ends with the town gone, one of the party dead and raised inside the same hour, and six people walking into the hills after a kidnapped girl.
 
 ## The dragon
 
@@ -13,7 +17,19 @@ It did not attack immediately. It looked around, as though it were searching for
 
 By the end of it the entire town of [[Briarwood]] had been destroyed.
 
-Two other things were seen in the town that day and nobody has explained either. A tall redheaded mage appeared briefly and teleported away. And a woman named [[Maris]] was there with her cat, Tobby, an older woman with striking violet eyes who had clearly seen better days. Nobody spoke to her.
+A tall redheaded mage appeared briefly in the town that day and teleported away. Nobody has explained that either.
+
+## The woman at the bar
+
+There was an old woman sitting in the Rusty Tankard.
+
+Long grey hair and striking violet eyes. She had clearly been beautiful once, and just as clearly had not had an easy time of it since.
+
+She had a cat with her, called Tobby, and she was wearing an amulet.
+
+Her name is [[Maris]]. She was in the room when the dragon took the roof off.
+
+**Nobody in the party spoke to her.**
 
 ## The rival adventurers
 
@@ -21,21 +37,61 @@ Three adventurers were drinking at the Rusty Tankard: [[Lyra Blackthorn]], a sar
 
 All three rejected [[St. Joseph]]'s advances, and the party and the trio have been hostile ever since. A dwarf named Blonk tried to talk to them and got nowhere.
 
+## Who was there
+
+Six of them, not five.
+
+[[Throkk]], [[Polly]], [[Zaff]] and [[St. Joseph]] were in the Rusty Tankard, and so were two who no longer travel with the party: [[Gaia]] the sorcerer and [[Blonk]] the dwarf cleric.
+
+[[Enya]] had not joined yet. She arrives four sessions later, on the plains.
+
 ## The first death
 
 [[Polly]] died in this session.
 
-Blonk rolled a natural 1 on a guiding bolt and killed her outright. The same dwarf then resurrected her. She has not talked about what happened in between.
+[[Blonk]] cast a guiding bolt. **He rolled an 8.**
 
-Elsewhere in the fight [[Zaff]] transformed into a wolf and immediately rolled a natural 1, biting his own tail. [[Throkk]] charged into battle and threw his greataxe into the lake on another natural 1. [[St. Joseph]] levitated forty feet into the air. Gaia's witch bolt and firebolts killed four enemies.
+The gods read it as a 1.
+
+A clerical error, upstairs, in the handling of one dwarf's prayer. The bolt went somewhere it was never meant to go and struck [[Polly]] dead where he stood.
+
+Nobody at the table knew that. What they saw was a natural 1 and a dead gnome.
+
+### What brought him back
+
+Not [[Blonk]]. Blonk killed him and could not undo it.
+
+A **resurrection scroll** did. The party found it looting a body they had already killed, and used it on him.
+
+[[Polly]] has still never been asked what he saw in between.
+
+## The rest of the fight
+
+[[Gaia]] did the heavy lifting. Her witch bolt and her firebolts killed four of them.
+
+[[Zaff]] transformed into a wolf and immediately rolled a natural 1, biting his own tail. [[Throkk]] charged in and threw his greataxe into the lake on another natural 1. [[St. Joseph]] levitated forty feet into the air.
 
 ## The mayor's daughter
 
-Mayor Aldric of [[Briarwood]] survived the attack. His daughter [[Celeste Hawthorne]] did not stay free. The goblins the dragon dropped carried her off.
+The party came out of the Rusty Tankard into a town that was burning, and ran straight into [[Mayor Aldric Hawthorne]].
 
-He offered the party part of her dowry to bring her back.
+He had just worked out that his daughter was gone. [[Celeste Hawthorne]] had been taken in the chaos by the goblins the dragon dropped, and somebody had seen which way they ran.
 
-The party found the goblin hideout and killed [[Skarnick]], the goblin prince who had taken her.
+He begged the party to go after her, and offered part of her dowry to bring her home.
+
+The goblins had a name attached to them. **[[Skarnick]]**, a goblin prince known for debauchery, camped in the hills with a gang around him. Half a day's march. Close enough that Briarwood had always known roughly where he was.
+
+### Who was listening
+
+This conversation happened outside the bar, in the open, at normal volume.
+
+[[Lyra Blackthorn]], [[Garin]] and [[Viola]] were standing right there and heard all of it. The girl, the hills, the half-day march, and the size of the reward.
+
+### Setting out
+
+The session ends with the party leaving for the hills after her.
+
+What happens in that cave is [[Session 02 - The Road to Aquitaine]].
 
 ## Loose ends from this session
 

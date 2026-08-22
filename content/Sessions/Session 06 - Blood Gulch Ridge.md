@@ -2,8 +2,16 @@
 status: complete
 type: session
 session: 6
+real_date: 2026-07-11
+tags: [session]
 ---
-Played 27 June. The session the campaign turns on. Five people who had spent a week walking beside a column of prisoners decided they were not escorts any more, and by the end of the night they were tribe.
+# Session 06: Blood Gulch Ridge
+
+Played **11 July 2026**. The session the campaign turns on.
+
+**This is the second half of a battle.** The Battle of Blood Gulch Ridge began on 27 June in [[Session 05 - The Caravan]] and was too big to finish in one night. The party came back to the table two weeks later still standing in it. The account below covers the whole fight, both nights, so it reads in one piece.
+
+Five people who had spent a week walking beside a column of prisoners decided they were not escorts any more, and by the end of the night they were tribe.
 
 ## Where it started
 
@@ -31,39 +39,117 @@ It was too big to fight on a grid, so it was fought as two armies with numbers t
 
 **The orcs never lost the contest.** Not once, across the whole engagement. The dice were absurd and the party spent the entire battle pressing an advantage that only widened.
 
-They fought it from inside the caravan, which is the part the human command never accounted for. The guards were watching the ridge. The people wrecking them were already behind the line.
+The guards were disciplined about it. They locked into a heavy phalanx, shields set, and started grinding up the slope toward the ridge, which is exactly the correct answer to arrows coming down a hill. It is not the correct answer to five people already standing behind you.
 
-Somewhere in the middle of it a team of draft oxen was driven into the guards' backup lines, right where Elder Mara Duskstone was trying to get the orc civilians moving, and an entire squad of human archers went under the hooves.
+That was the whole shape of the fight. The human command spent it looking uphill.
 
-An orc sorcerer on the ridge worked out what was happening below and started throwing power down onto the party rather than at them.
+### The charge
 
-Then [[Kael Sorra]] came off the ridge and into the melee beside them, pressed something into a hand, and said the line the table has not forgotten:
+[[Throkk]] did not do subtle.
+
+He went in headfirst, straight at a disciplined squad of human heavy infantry, and a formation like that does exactly what a formation like that is built to do. It closed. Several of them got on him at once and beat him half to pieces before anybody could reach him.
+
+Then [[St. Joseph]] reached him.
+
+He got Throkk back on his feet inside the formation that had just taken him apart.
+
+Then he called up a **spiritual weapon** and set it loose in the human ranks. It went through the guards. It kept going through the guards. A blade with nobody holding it, moving on its own for the rest of the battle while he directed it from wherever he happened to be standing.
+
+### Inside the line
+
+In the first confusion, with the column breaking apart around him, [[Polly]] went into the mage tents and came out with Mourne's journal.
+
+Nobody was watching the baggage. Everybody was watching the ridge. The pages that had been the party's obsession for a week were sitting there for the taking while a battle happened forty feet away, and he took them.
+
+Then the oxen.
+
+The party got a team of draft animals panicked and pointed, and drove them straight through the guards' backup lines, right past where Elder Mara Duskstone was trying to get the orc civilians moving. An entire squad of human archers went under the hooves and did not get up.
+
+Up on the ridge, an orc sorcerer worked out what was happening at the bottom of the hill. She had been throwing fire at the caravan. She started throwing it **for** the party instead, dropping power down onto five humans wrecking a human column from the inside.
+
+Then [[Kael Sorra]] came off the ridge into the melee, pressed a pouch into a hand, and said the line the table has not forgotten:
 
 > *"Vorrak is watching from the ridge, make your strikes look good."*
 
-Elder Bog Ashveil rode his chull up alongside and rasped an order to put down a human knight holding the left flank, with a share of the caravan's hidden treasury for whoever managed it.
+Elder Bog Ashveil rode his chull up alongside them, an old orc with a scar across his throat leaning down off a warbeast mid-battle to offer a contract. Kill the human knight holding the left flank and there was a share of the caravan's hidden treasury in it.
 
-And near the end, [[Captain Aldric Renn]] finally understood exactly who had opened his line from the inside. He pulled a squad of Heavy Infantry out of formation, took Sergeant Dava with him, and came for the party personally with everything he had left.
+Orc wolf cavalry hit the flank not long after. The party were not fighting alone in a human column any more. They were the hinge of an army.
 
-## What they did
+### The dignitary
 
-**[[Enya]] put a cloud of fog across the field.** With a human army closing on them in the open, she took away the one thing that army had, which was sight. Everything the party managed after that happened inside her fog. For someone who had joined the campaign a session earlier, it was the call that decided the fight.
+[[Son Soleth]] was on that field.
 
-**[[Zaff]] slowed [[Son Soleth]].** The dignitary from [[Dur Soleth]], the same man [[Polly]] had groped at the Duke's court and whose outrage put the party on this road in the first place, was on the field. Zaff caught him and took his speed away.
+The wealthy dignitary from [[Dur Soleth]]. The man [[Polly]] had grabbed by the backside at the Duke's court in [[Aquitaine]], who had been so offended he demanded the party be punished, whose complaint is the single reason they were sent to the plains at all.
 
-**[[Enya]] killed him.** Slowed, in the fog, with nowhere to go. The man whose wounded pride sent them to the plains died on the plains, killed by the newest member of the party.
+There was a bounty on the fighting around him.
 
-**[[Polly]] took [[Seraveth]]'s arm.** Working inside the fog the party ran the mage overseeing the entire march down to a single hit point. He got a teleport off and vanished before they could finish it, but he did not leave whole. Polly cut the arm off and picked it up off the ground.
+[[Zaff]] caught him and slowed him. [[Enya]] killed him.
 
-The party still has it.
+The man whose wounded pride wrote the party's orders died under those orders, on the road he sent them down, killed by the member of the party who had joined most recently.
+
+### The golem
+
+[[Seraveth]] had been holding something back.
+
+With his column coming apart he unleashed a golem into it, which is the point where the fight stopped being soldiers against soldiers.
+
+So [[Enya]] cut him off from his own people.
+
+**She put a cloud of fog between [[Seraveth]] and his mages.**
+
+Seraveth had four mages and three apprentices, and a mage warden survives a battle because the casters around him keep him standing. Enya cut him off from all of them.
+
+They could not see him. They could not reach him. They could not help him.
+
+He was on his own, in the open, with five people walking toward him.
+
+### The stroke
+
+Then the thing that actually ended the battle.
+
+The orc archers on the ridge had the human mages' full attention. Every one of them was looking up the hill, working against arrows, holding the caravan's magical defence together against the thing they could see.
+
+[[Throkk]], [[Polly]], [[Zaff]], [[St. Joseph]] and [[Enya]] were already standing behind them.
+
+No roll to close the distance, no warning, no reaction. Just five people in position, and a line of mages with their backs turned.
+
+They destroyed the caravan's entire magical defence in one stroke. Two HP and two Morale in a single blow.
+
+**This is what broke the human line.**
+
+### The arm
+
+Then they went after [[Seraveth]] himself.
+
+The mage who had overseen the entire march, who had run the internment column across the plains, who had four mages and three apprentices under him and had just watched every one of them go down.
+
+[[Enya]] put an **arcane orb** into him, from the far side of the fog she had raised to keep his own mages out of it.
+
+[[St. Joseph]]'s spiritual weapon found him too, the same blade that had been carving through his guards all afternoon, arriving with nobody attached to it.
+
+Between them he went to a single hit point, alone, with help standing a few dozen feet away and no way through.
+
+He got a teleport off. He did not get all of himself out.
+
+[[Polly]] took the arm off and picked it up off the ground.
+
+**The party still has it.**
+
+### Renn
+
+Worn down and still lethal, [[Captain Aldric Renn]] finally saw it. Not the ridge. Not the orcs. The people who had walked beside his column for a week, turning on his own civilians in front of him.
+
+He and Sergeant Dava pulled a squad of Human Heavy Infantry out of formation and came for the party personally, with absolute fury, with the battle already lost behind him.
+
+It is the most human thing anybody did that day, and it did not work.
 
 ## How it ended
 
 **Not with the humans wiped out. With the humans breaking.**
 
-The line lost its nerve before it lost its numbers, and the moment it did, the retreat turned into a rout and the rout turned into a slaughter of men who were already running. Some got away. [[Liss]] was one of them.
+The line lost its nerve before it lost its numbers. There were still men standing and still swords in hands, and nobody was willing to be the one who kept holding.
 
-[[Seraveth]] teleported out at one hit point, one arm lighter.
+The retreat turned into a rout and the rout turned into a slaughter of men who were already running. Some got away. [[Liss]] was one of them.
 
 ## The trade
 
@@ -71,7 +157,9 @@ They took [[Captain Aldric Renn]] alive.
 
 A captured human officer is worth a great deal to an orc resistance, and [[Vorrak Stonebell]] wanted him. The party had something they wanted more.
 
-[[Liss]] had been decent to [[Polly]] on the march. Not strategically decent, not decent because it served her, just a person being kind in a column where kindness cost something. When the party broke into her tent she covered for them. The whole table read her as genuinely good, and now she was in orc hands with a war just finished around her.
+[[Liss]] had been decent to [[Polly]] on the march. Not strategically decent, not decent because it served her, just a person being kind in a column where kindness cost something. She covered for him when he broke into her tent.
+
+Now she was in orc hands with a war just finished around her.
 
 So they gave [[Vorrak Stonebell]] the captain and asked for the mage.
 
@@ -111,11 +199,9 @@ Before any ceremony, the party got invited into what the children of Ghol Uzhak 
 
 You run the scaffolding to the top. You jump. You reach up and touch the underside of the water that is the sky. Then you fall, and the netting catches you.
 
-All five of them did it. Each of them did it their own way, with their own flourish, in front of a village of orcs who had never had a human standing in it.
+All five did it, each with their own flourish, in front of a village that had never had a human standing in it.
 
 They got applause.
-
-That is the moment worth holding onto from this session. Not the battle. Five outsiders showing off for a crowd that three days earlier had every reason to kill them.
 
 ## The branding
 

@@ -2,16 +2,34 @@
 status: complete
 type: session
 session: 5
+real_date: 2026-06-27
+tags: [session]
 ---
-A week on the road with a forced march of orcs, a burglary, a prophecy, and a warhorn at the end of it.
+# Session 05: The Caravan
+
+A week in the desert with a forced march of orcs, a burglary, a prophecy, and a warhorn at the end of it.
 
 ## The march
 
-The caravan is a forced relocation. Orcs are being marched across the plains toward an internment quarter outside [[Dur Soleth]], guarded by [[Captain Aldric Renn]]'s soldiers and overseen by the mage [[Seraveth]] with four mages under him: Orvyn, [[Liss]], Cabel, and Mourne, plus three apprentices, Pip, Hara, and Voss.
+The caravan is a forced relocation. Orcs are being marched across [[The Desert Plains]] toward an internment quarter outside [[Dur Soleth]], guarded by [[Captain Aldric Renn]]'s soldiers and overseen by the mage [[Seraveth]] with four mages under him: Orvyn, [[Liss]], Cabel, and Mourne, plus three apprentices, Pip, Hara, and Voss.
 
-By the time the party had been walking with it for about a week, supplies were low and numerous orcs had died on the road.
+There is no shade out there and no water except what the column carries. By the time the party had been walking with it for about a week, supplies were low and orcs had been dying on the road.
 
 The party had been assigned as escorts. They spent the week learning the names of the people they were escorting.
+
+## Throkk's tax collectors
+
+This came out on the road, and it recontextualises the entire march.
+
+Years ago, in his own village, [[Throkk]] killed a party of human tax collectors.
+
+The response was more humans. A garrison presence where there had not been one, then more of it, then more. Every escalation justified by the one before it, until the village was under a boot it had never been under before and the whole thing ended in relocation.
+
+**The column the party is walking beside is the last stage of something Throkk started.**
+
+He is escorting his own people into a camp, under guard, on a road his village got put on because of what he did.
+
+**Nobody in that caravan knows.** Not the elders, not [[Vorrak Stonebell]], not [[Kael Sorra]], who grew up with him. Every orc on that road thinks the humans simply came.
 
 ## The warning
 
@@ -59,5 +77,9 @@ The guards formed a phalanx and began assaulting the orcs on the ridge.
 
 The party was three rounds from the ridgeline, at the back of the caravan, with a decision to make.
 
+They made it here. They chose the orcs and turned on the column from inside it, and the **Battle of Blood Gulch Ridge** started on this night.
+
+**It did not finish.** The fight was too large to resolve in one sitting, so the session ended mid-battle with the party inside a collapsing caravan and the outcome still open. It picks up in [[Session 06 - Blood Gulch Ridge]].
+
 ---
-*Previous: [[Session 04 - The Iron Net]] · Next: [[Session 06 - The Battle of Blood Gulch Ridge]]*
+*Previous: [[Session 04 - The Iron Net]] · Next: [[Session 06 - Blood Gulch Ridge]]*

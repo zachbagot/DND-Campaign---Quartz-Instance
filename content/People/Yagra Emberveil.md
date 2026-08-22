@@ -1,12 +1,15 @@
 ---
 type: npc
 faction: Ghol Uzhak
+tags: [npc]
 ---
+# Yagra Emberveil
+
 Shaman of [[Ghol Uzhak]] and keeper of the fire at the base of the great tusk.
 
 Ancient, small for an orc, bent like a root, both eyes clouded white. She tracks people precisely anyway, and looks directly at whoever enters.
 
-She performed the branding in [[Session 06 - The Battle of Blood Gulch Ridge]]. Her position on it is that she does not choose the marks.
+She performed the branding in [[Session 06 - Blood Gulch Ridge]]. Her position on it is that she does not choose the marks.
 
 > *"I do not choose the mark. I have never chosen a mark. I am the hand. The fire is the eye. If you do not like what it sees, it does not care. It has seen everything burn at least once. It is difficult to impress."*
 

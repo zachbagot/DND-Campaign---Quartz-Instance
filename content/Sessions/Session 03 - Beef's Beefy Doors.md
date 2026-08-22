@@ -2,7 +2,11 @@
 status: complete
 type: session
 session: 3
+real_date: 2026-03-22
+tags: [session]
 ---
+# Session 03: Beef's Beefy Doors
+
 The party comes to collect a dowry, gets pulled into [[Aquitaine]]'s criminal underworld instead, and robs a shop for a tiefling who sells doors.
 
 ## The Duke has no money today
@@ -25,7 +29,11 @@ Beef's Beefy Doors is a front, and the racket is elegant. Her people break your 
 
 [[Rylan]], older brother of [[Lyra Blackthorn]], put the party's name forward. The party had spared his sister, so the guild owed them a hearing.
 
-Then [[St. Joseph]] slammed one of Beef's doors into a bodyguard and broke it.
+Then [[St. Joseph]] cast **thaumaturgy** to slam one of Beef's doors.
+
+It hit her bodyguard, [[Krag Thundertusk]], and the door broke.
+
+Of all the doors in [[Aquitaine]] to break with a cantrip, he picked one belonging to the woman who sells doors.
 
 Beef was outraged. The party now owed her a favour.
 
@@ -48,9 +56,13 @@ They came away with a haul:
 
 They broke the shop's back door on the way out, as instructed.
 
-[[Throkk]] was spotted by a vagrant in the alley. He picked the man up, covered his mouth, and ran. The vagrant, [[Tharin]], was later let go with five copper and two goodberries.
+[[Throkk]] was spotted by a vagrant in the alley. He picked the man up, covered his mouth, and ran with him.
 
-The party threw a smokescreen into the alley and escaped back toward Beef's.
+The party threw a smokescreen behind them as they went, so nobody could see four adventurers sprinting through [[Aquitaine]] carrying a struggling man, and got clear back toward Beef's.
+
+The vagrant was [[Tharin]]. They let him go with five copper and two goodberries.
+
+The session ends in the alleyway outside Traveler's Trove.
 
 ## Notable in the city
 

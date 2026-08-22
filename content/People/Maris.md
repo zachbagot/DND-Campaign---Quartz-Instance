@@ -1,11 +1,18 @@
 ---
 type: npc
 location: Briarwood
+tags: [npc]
 ---
-An alchemist in [[Briarwood]], and mother of [[Seraphine]].
+# Maris
 
-Older, with long grey hair and beautiful violet eyes. A woman who has clearly seen better days. She has a cat named Tobby, who is very attached to her.
+An old woman the party saw sitting in the Rusty Tankard in [[Briarwood]], in [[Session 01 - The Burning of Briarwood]], and never spoke to.
 
-**She was present during the dragon attack in [[Session 01 - The Burning of Briarwood]] and the party never spoke to her.**
+Long grey hair and striking violet eyes. She was clearly beautiful once and just as clearly has not had an easy time since.
 
-She wears a magic amulet.
+She has a cat called Tobby, who is very attached to her.
+
+**She wears an amulet.**
+
+She was in the room when the dragon tore the roof off the inn.
+
+She is an alchemist in the town, and she is the mother of [[Seraphine]], the young woman the party later escorted to [[Aquitaine]] alongside [[Celeste Hawthorne]].
