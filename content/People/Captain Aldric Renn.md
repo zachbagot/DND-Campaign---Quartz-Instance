@@ -3,8 +3,6 @@ type: npc
 faction: The Human Vanguard
 status: prisoner
 ---
-# Captain Aldric Renn
-
 Commanding officer of the soldiers escorting the caravan in [[Session 05 - The Caravan]]. Late forties, five foot ten, lean. Principled, and by most accounts slowly waking up to what he was part of.
 
 Not to be confused with **Mayor Aldric** of [[Briarwood]], who is a different man entirely.

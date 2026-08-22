@@ -3,8 +3,6 @@ status: complete
 type: session
 session: 6
 ---
-# Session 06: Blood Gulch Ridge
-
 Played 27 June. The party picks a side, wins a battle, trades a prisoner, and walks into a place no human has entered in ten thousand years.
 
 ## The battle

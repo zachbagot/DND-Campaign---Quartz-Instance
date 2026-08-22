@@ -2,8 +2,6 @@
 type: npc
 faction: Ghol Uzhak
 ---
-# Yagra Emberveil
-
 Shaman of [[Ghol Uzhak]] and keeper of the fire at the base of the great tusk.
 
 Ancient, small for an orc, bent like a root, both eyes clouded white. She tracks people precisely anyway, and looks directly at whoever enters.

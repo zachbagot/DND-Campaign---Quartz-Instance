@@ -2,8 +2,6 @@
 type: pc
 brand: The Star Held in a Fist
 ---
-# Enya
-
 Sorcerer. The newest of the five. She joined during the caravan arc, shortly before the fighting started at the ford in [[Session 06 - Blood Gulch Ridge]].
 
 Sorcery is power that lives in the blood rather than power that is studied or granted, which makes her different in kind from the mages the party has been walking beside.

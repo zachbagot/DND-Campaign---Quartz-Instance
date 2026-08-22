@@ -19,3 +19,36 @@
 :root[saved-theme="dark"] {
   --lightgray: #3d4654 !important;
 }
+
+// Link affordance that does not depend on colour.
+//
+// The theme signals links with colour alone. Anyone with red-green colour
+// blindness sees the green shift toward grey-lavender, at which point a link
+// reads as merely highlighted text rather than something to click. WCAG 1.4.1
+// asks for a second, non-colour cue, so links in the article body carry an
+// underline. Navigation chrome (explorer, table of contents, backlinks) is
+// already unambiguous by position and is left alone.
+//
+// !important is required: the ITS theme strips underlines from links with a
+// selector that outranks a plain `article a.internal`, so a normal rule here
+// is silently dropped. Verified in a browser, not assumed.
+article {
+  a.internal,
+  a.external {
+    text-decoration: underline !important;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.18em;
+    text-decoration-color: color-mix(in srgb, currentColor 45%, transparent);
+    transition: text-decoration-color 0.15s ease;
+  }
+
+  a.internal:hover,
+  a.external:hover {
+    text-decoration-color: currentColor;
+  }
+
+  // Headings that link out should not gain a rule under the whole heading.
+  h1, h2, h3, h4, h5, h6 {
+    a.internal, a.external { text-decoration: none; }
+  }
+}

@@ -2,8 +2,6 @@
 type: pc
 brand: The Broken Tusk Made Whole
 ---
-# Throkk
-
 Orc. Originally from a village that was displaced, which turned out to matter a great deal once the party reached the plains.
 
 Throws himself at problems. In [[Session 01 - The Burning of Briarwood]] he charged into battle and threw his greataxe into a lake on a natural 1. In [[Session 03 - Beef's Beefy Doors]] he ate a trap that [[Zaff]] had identified as a snack and was poisoned for it. In [[Session 05 - The Caravan]] he attempted to distract a line of guards by urinating on them, was arrested, and paid ten silver in bail with an obligation to appear at trial in [[Dur Soleth]].

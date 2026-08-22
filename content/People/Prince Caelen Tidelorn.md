@@ -2,8 +2,6 @@
 type: npc
 location: Aquitaine
 ---
-# Prince Caelen Tidelorn
-
 Son of [[Duke Thalorien Tidelorn]] and heir to [[Aquitaine]]. Sharp features, storm-blue eyes, and a cold calculating manner.
 
 Beneath the polish is a bloodthirsty streak. He enjoys combat, intimidation, and any chance to prove dominance.

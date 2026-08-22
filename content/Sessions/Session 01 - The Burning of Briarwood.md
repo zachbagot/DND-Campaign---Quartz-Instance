@@ -3,8 +3,6 @@ status: complete
 type: session
 session: 1
 ---
-# Session 01: The Burning of Briarwood
-
 The campaign opens in [[Briarwood]], a quiet town with an inn called the Rusty Tankard, and ends with a goblin prince's head on the floor of a cave.
 
 ## The dragon

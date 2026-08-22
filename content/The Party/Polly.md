@@ -2,8 +2,6 @@
 type: pc
 brand: The Key of Smoke
 ---
-# Polly
-
 Rogue. Also called Poppy. The party's way into any room that is locked.
 
 **She has died once.** In [[Session 01 - The Burning of Briarwood]] a dwarf named Blonk rolled a natural 1 on a guiding bolt and killed her outright, then resurrected her. Nobody has asked her what happened in between.

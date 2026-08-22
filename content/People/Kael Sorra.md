@@ -2,8 +2,6 @@
 type: npc
 faction: Ridge Orcs
 ---
-# Kael Sorra
-
 Orc scout and tracker, late twenties, five foot four. A childhood acquaintance of [[Throkk]].
 
 In [[Session 05 - The Caravan]] he warned the party during a drinking game that an ambush was coming when the caravan crossed the river at the ford, and suggested they take action.

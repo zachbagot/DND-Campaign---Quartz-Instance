@@ -3,8 +3,6 @@ status: complete
 type: session
 session: 2
 ---
-# Session 02: The Road to Aquitaine
-
 The party loots the goblin cave, takes an escort job, and travels a long way west with two young women and a prophecy.
 
 ## The cave

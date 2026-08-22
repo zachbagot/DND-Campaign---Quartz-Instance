@@ -3,8 +3,6 @@ status: complete
 type: session
 session: 5
 ---
-# Session 05: The Caravan
-
 A week on the road with a forced march of orcs, a burglary, a prophecy, and a warhorn at the end of it.
 
 ## The march

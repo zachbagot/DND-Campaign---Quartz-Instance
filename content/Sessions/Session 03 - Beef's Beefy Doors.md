@@ -3,8 +3,6 @@ status: complete
 type: session
 session: 3
 ---
-# Session 03: Beef's Beefy Doors
-
 The party comes to collect a dowry, gets pulled into [[Aquitaine]]'s criminal underworld instead, and robs a shop for a tiefling who sells doors.
 
 ## The Duke has no money today

@@ -3,8 +3,6 @@ type: npc
 faction: The Mages
 status: at large
 ---
-# Seraveth
-
 The mage who oversaw the orc caravan in [[Session 05 - The Caravan]]. Tall and narrow, pale, white-blonde, somewhat ambiguous in every direction.
 
 Four mages answered to him on the march: Orvyn, [[Liss]], Cabel, and Mourne, plus three apprentices, Pip, Hara, and Voss.

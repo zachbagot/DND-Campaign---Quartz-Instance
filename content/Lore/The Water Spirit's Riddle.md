@@ -1,8 +1,6 @@
 ---
 type: lore
 ---
-# The Water Spirit's Riddle
-
 Spoken by a water spirit that rose from the river and flooded the bridge on the approach to [[Aquitaine]] in [[Session 02 - The Road to Aquitaine]].
 
 > *When moonlight crowns the child of none*

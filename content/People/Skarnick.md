@@ -1,8 +1,6 @@
 ---
 type: npc
 ---
-# Skarnick
-
 The goblin prince who kidnapped [[Celeste Hawthorne]] in [[Session 01 - The Burning of Briarwood]].
 
 The party found his hideout and decapitated him.

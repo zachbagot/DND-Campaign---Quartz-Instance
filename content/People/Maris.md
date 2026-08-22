@@ -2,8 +2,6 @@
 type: npc
 location: Briarwood
 ---
-# Maris
-
 An alchemist in [[Briarwood]], and mother of [[Seraphine]].
 
 Older, with long grey hair and beautiful violet eyes. A woman who has clearly seen better days. She has a cat named Tobby, who is very attached to her.

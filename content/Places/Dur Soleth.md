@@ -1,8 +1,6 @@
 ---
 type: place
 ---
-# Dur Soleth
-
 The city that governs the plains, and the destination the caravan was marching toward in [[Session 05 - The Caravan]].
 
 **The party has never been there.** They turned on the caravan at the ford in [[Session 06 - Blood Gulch Ridge]] and went east to [[Ghol Uzhak]] instead.

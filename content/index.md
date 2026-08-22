@@ -2,8 +2,6 @@
 title: The Campaign
 type: index
 ---
-# The Campaign
-
 A living record of the campaign, kept for the people at the table.
 
 Six sessions played. The party is currently standing at the lake outside [[Ghol Uzhak]], freshly branded, ready to travel.

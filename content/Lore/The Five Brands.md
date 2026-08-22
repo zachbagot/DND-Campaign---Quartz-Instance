@@ -1,8 +1,6 @@
 ---
 type: lore
 ---
-# The Five Brands
-
 The marks given to the party at the fire in [[Ghol Uzhak]] during [[Session 06 - Blood Gulch Ridge]], performed by [[Yagra Emberveil]].
 
 ## How it works

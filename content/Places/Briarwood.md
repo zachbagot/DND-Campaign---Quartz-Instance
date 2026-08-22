@@ -2,8 +2,6 @@
 type: place
 status: destroyed
 ---
-# Briarwood
-
 A quiet town with an inn called the **Rusty Tankard**, run by [[Tobin]]. It is where the campaign started and it no longer exists.
 
 In [[Session 01 - The Burning of Briarwood]] a gigantic red dragon tore the roof off the inn, looked around as though searching for something, dropped a horde of goblins and a single werewolf, and left. The town was destroyed in the fighting that followed.
