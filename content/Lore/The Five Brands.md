@@ -37,6 +37,10 @@ A four-pointed star gripped tight in a clenched hand, light leaking between the 
 
 *Yagra looked away from the mark and directly into her eyes for an uncomfortably long beat. "Hold tight, little fire." Nothing more.*
 
+## What it does
+
+Each brand grants **+1 to Charisma rolls with orcs**. That is the whole of the mechanical effect. Everything else the mark carries is standing, not numbers.
+
 ## What it means
 
 > *"Hear what you now are. Any hearth of the people is your hearth. Any orc who sees this mark owes you shade, water, and truth, and you owe the same, so do not make me regret you. You did not join the tribe tonight. Understand this. The tribe is not a thing you join. The fire simply stopped pretending you were strangers."*

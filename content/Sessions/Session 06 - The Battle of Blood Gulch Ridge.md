@@ -64,7 +64,7 @@ Then the oxen.
 
 The party got a team of draft animals panicked and pointed, and drove them straight through the guards' backup lines, right past where Elder Mara Duskstone was trying to get the orc civilians moving. An entire squad of human archers went under the hooves and did not get up.
 
-Up on the ridge, an orc sorcerer worked out what was happening at the bottom of the hill. She had been throwing fire at the caravan. She started throwing it **for** the party instead, dropping power down onto five humans wrecking a human column from the inside.
+Up on the ridge, an orc sorcerer worked out what was happening at the bottom of the hill. She had been throwing fire at the caravan. She started throwing it **for** the party instead, dropping power down onto five people wrecking a human column from the inside.
 
 Then [[Kael Sorra]] came off the ridge into the melee, pressed a pouch into a hand, and said the line the table has not forgotten:
 
@@ -198,7 +198,7 @@ Before any ceremony, the party got invited into what the children of Ghol Uzhak 
 
 You run the scaffolding to the top. You jump. You reach up and touch the underside of the water that is the sky. Then you fall, and the netting catches you.
 
-All five did it, each with their own flourish, in front of a village that had never had a human standing in it.
+All five did it, each with their own flourish, in front of a village that had never had an outsider standing in it.
 
 They got applause.
 
@@ -242,7 +242,7 @@ She had also said, earlier, that the fire had been expecting them.
 
 What follows the branding is the quietest stretch of the campaign so far, and coming off Blood Gulch Ridge that is not a complaint.
 
-They stayed. They ate with the orcs and then they drank with them, and it went the way that goes. Everyone got thoroughly drunk. They slept it off inside a village no human had slept in for ten thousand years, and then they did much the same again.
+They stayed. They ate with the orcs and then they drank with them, and it went the way that goes. Everyone got thoroughly drunk. They slept it off inside a village no outsider had slept in for ten thousand years, and then they did much the same again.
 
 Nothing was decided. No revelation arrived. The fire did not explain itself, [[Yagra Emberveil]] did not elaborate on anything, and nobody came to fetch them.
 

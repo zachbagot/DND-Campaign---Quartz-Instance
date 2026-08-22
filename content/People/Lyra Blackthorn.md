@@ -6,7 +6,7 @@ A sarcastic half-elf rogue with short silver hair and amber eyes, confident and 
 
 In [[Session 02 - The Road to Aquitaine]] the trio ambushed the party as bandits, trying to take [[Celeste Hawthorne]]. Lyra surrendered peacefully and was the only one taken captive.
 
-[[Throkk]] argued she should be spared the stockades, and Mayor Aldric agreed. Her older brother [[Rylan]] remembered that, and it is the reason the party got a hearing with [[Beef the Bard]].
+[[Throkk]] argued she should be spared the stockades, and [[Mayor Aldric Hawthorne]] agreed. Her older brother [[Rylan]] remembered that, and it is the reason the party got a hearing with [[Beef the Bard]].
 
 ## Why they were waiting
 

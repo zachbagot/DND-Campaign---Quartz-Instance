@@ -16,7 +16,7 @@ Six sessions played. The party is currently standing at the lake outside [[Ghol 
 | 3 | 22 Mar 2026 | [[Session 03 - Beef's Beefy Doors]] | A broken door puts the party in debt to a thieves guild, and they rob a shop to clear it |
 | 4 | 30 May 2026 | [[Session 04 - The Iron Net]] | [[Polly]] gropes a dignitary, the Duke sentences them to an escort job, and they cross the water |
 | 5 | 27 Jun 2026 | [[Session 05 - The Caravan]] | A week walking with a forced march, a burglary, three pages of prophecy, and a battle that starts and does not finish |
-| 6 | 11 Jul 2026 | [[Session 06 - The Battle of Blood Gulch Ridge]] | The battle concludes, a captain is traded for a mage, and five humans are branded at a fire older than the world |
+| 6 | 11 Jul 2026 | [[Session 06 - The Battle of Blood Gulch Ridge]] | The battle concludes, a captain is traded for a mage, and all five are branded at a fire older than the world |
 
 ## The party
 

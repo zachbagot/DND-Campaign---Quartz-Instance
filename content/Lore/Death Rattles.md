@@ -12,7 +12,7 @@ The mages call them death rattles. Nobody has explained where they come from or 
 
 > *"Two roads at the water. The one who chooses neither drowns anyway."*
 
-**All three copied pages have now been read aloud.**
+**Two have been read aloud at the table.** [[Polly]] copied three pages, so there is a third that has not been read out and is not recorded here.
 
 ## Worth noticing
 

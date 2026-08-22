@@ -9,4 +9,4 @@ A dignitary from [[Dur Soleth]], present at [[Duke Thalorien Tidelorn]]'s court 
 
 **He was killed at the Battle of Blood Gulch Ridge.**
 
-He was on the field with the caravan. [[Zaff]] slowed him, and [[Enya]] killed him inside the fog she had thrown across the battlefield. The man whose wounded pride sent the party to the plains died there, in the fighting his own complaint set in motion.
+He was on the field with the caravan. [[Zaff]] caught him and slowed him, and [[Enya]] killed him. The man whose wounded pride sent the party to the plains died there, in the fighting his own complaint set in motion, killed by the member of the party who had joined most recently.

@@ -6,7 +6,7 @@ real_date: 2025-11-16
 tags: [session]
 ---
 
-The campaign opens in [[Briarwood]], a quiet town with an inn called the Rusty Tankard, and ends with the town gone, one of the party dead and raised inside the same hour, and six people walking into the hills after a kidnapped girl.
+The campaign opens in [[Briarwood]], a quiet town with an inn called the Rusty Tankard, and ends with the town gone, one of the party dead and raised inside the same hour, and the party setting out into the hills after a kidnapped girl.
 
 ## The dragon
 
@@ -34,7 +34,7 @@ Her name is [[Maris]]. She was in the room when the dragon took the roof off.
 
 Three adventurers were drinking at the Rusty Tankard: [[Lyra Blackthorn]], a sarcastic half-elf rogue with silver hair and amber eyes, [[Garin]], a scarred human fighter loyal to her, and [[Viola]], an ambitious tiefling wizard.
 
-All three rejected [[St. Joseph]]'s advances, and the party and the trio have been hostile ever since. A dwarf named Blonk tried to talk to them and got nowhere.
+All three rejected [[St. Joseph]]'s advances, and the party and the trio have been hostile ever since. [[Blonk]] tried to talk to them and got nowhere.
 
 ## Who was there
 
@@ -89,6 +89,8 @@ This conversation happened outside the bar, in the open, at normal volume.
 ### Setting out
 
 The session ends with the party leaving for the hills after her.
+
+[[Gaia]] and [[Blonk]] are not with them when they reach the cave. Nobody has explained where the two of them went.
 
 What happens in that cave is [[Session 02 - The Road to Aquitaine]].
 

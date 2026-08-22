@@ -4,11 +4,11 @@ brand: The Star Held in a Fist
 tags: [pc]
 player: Victoria
 ---
-Sorcerer. The newest of the five. She joined during the caravan arc, shortly before the fighting started at the ford in [[Session 06 - The Battle of Blood Gulch Ridge]].
+Sorcerer. The newest of the five. She joined during the caravan arc in [[Session 05 - The Caravan]], shortly before the fighting started at the ford.
 
 Sorcery is power that lives in the blood rather than power that is studied or granted, which makes her different in kind from the mages the party has been walking beside.
 
-**[[Session 06 - The Battle of Blood Gulch Ridge]] was her arrival.** She dropped a cloud of fog between [[Seraveth]] and his own mages, cutting the most dangerous man on the field off from every person whose job was to keep him alive. They could not see him, reach him, or help him. Then she put an arcane orb into him and helped run the mage who had overseen the entire march down to a single hit point.
+**The battle was her arrival.** She dropped a cloud of fog between [[Seraveth]] and his own mages, cutting the most dangerous man on the field off from every person whose job was to keep him alive. They could not see him, reach him, or help him. Then she put an arcane orb into him and helped run the mage who had overseen the entire march down to a single hit point.
 
 She also killed [[Son Soleth]], after [[Zaff]] slowed him.
 

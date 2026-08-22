@@ -16,6 +16,8 @@ There is no shade out there and no water except what the column carries. By the 
 
 The party had been assigned as escorts. They spent the week learning the names of the people they were escorting.
 
+[[Enya]] joined them here, on the march, in time for what happened at the ford. She is the fifth and the newest, and the first battle she fought with this party is the one that turned the campaign.
+
 ## Throkk's tax collectors
 
 This came out on the road, and it recontextualises the entire march.
@@ -54,7 +56,7 @@ Before the expected ambush, the party went to find out what the mages were writi
 
 [[Polly]] broke into [[Liss]]'s tent and was nearly caught. His existing relationship with [[Liss]] saved him. He then broke into Mourne's tent and found two things: a journal, and a personal item of Mourne's that the table has not stopped talking about since.
 
-She copied three pages of the journal, all written in arcana, which nobody in the party could read.
+He copied three pages of the journal, all written in arcana, which nobody in the party could read.
 
 [[Zaff]] transformed into a kangaroo to help spring [[Throkk]], kicked a tree to create a distraction, rolled a 1, and had the tree fall on him. The guards and the children laughed and went back to ignoring them. [[Throkk]] eventually paid ten silver in bail with an expectation to appear at trial in [[Dur Soleth]].
 
