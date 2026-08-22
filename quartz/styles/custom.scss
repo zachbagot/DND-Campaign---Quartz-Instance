@@ -1,3 +1,21 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Graph view edge colour.
+//
+// The graph draws its links with --lightgray. The ITS theme sets --lightgray
+// to exactly the page background colour in both modes (#f8fbff on light,
+// #1a1e24 on dark), which it can do safely for its own borderless styling but
+// which renders every graph edge invisible. The nodes show, the connections do
+// not, so the map looks like unrelated dots.
+//
+// Restore a value that reads against the background in each mode. !important
+// is needed because the theme's :root:root[saved-theme="..."] rules load after
+// this file.
+:root,
+:root[saved-theme="light"] {
+  --lightgray: #c2ccd9 !important;
+}
+
+:root[saved-theme="dark"] {
+  --lightgray: #3d4654 !important;
+}
