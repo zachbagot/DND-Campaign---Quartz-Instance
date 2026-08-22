@@ -5,7 +5,6 @@ session: 1
 real_date: 2025-11-16
 tags: [session]
 ---
-# Session 01: The Burning of Briarwood
 
 The campaign opens in [[Briarwood]], a quiet town with an inn called the Rusty Tankard, and ends with the town gone, one of the party dead and raised inside the same hour, and six people walking into the hills after a kidnapped girl.
 

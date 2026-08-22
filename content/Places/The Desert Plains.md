@@ -2,9 +2,8 @@
 type: place
 tags: [place]
 ---
-# The Desert Plains
 
-Arid, dry country, and the setting of [[Session 05 - The Caravan]] and [[Session 06 - Blood Gulch Ridge]].
+Arid, dry country, and the setting of [[Session 05 - The Caravan]] and [[Session 06 - The Battle of Blood Gulch Ridge]].
 
 A separate region from the fertile plains that surround [[Aquitaine]]. The two run alongside each other and do not blend. You cross from one into the other.
 

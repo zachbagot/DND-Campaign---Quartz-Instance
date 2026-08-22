@@ -4,7 +4,6 @@ brand: The Broken Tusk Made Whole
 tags: [pc]
 player: Kyle
 ---
-# Throkk
 
 Orc. From a village that was relocated, which turned out to matter a great deal once the party reached the desert.
 
@@ -26,7 +25,7 @@ He also argued successfully that [[Lyra Blackthorn]] should be spared the stocka
 
 His father appeared during the caravan arc. [[Kael Sorra]] knew him as a boy.
 
-At [[Session 06 - Blood Gulch Ridge]] he charged a disciplined squad of human heavy infantry head on and alone. The formation closed and several of them beat him half to pieces before [[St. Joseph]] could get to him and put him back on his feet.
+At [[Session 06 - The Battle of Blood Gulch Ridge]] he charged a disciplined squad of human heavy infantry head on and alone. The formation closed and several of them beat him half to pieces before [[St. Joseph]] could get to him and put him back on his feet.
 
 ## Brand
 

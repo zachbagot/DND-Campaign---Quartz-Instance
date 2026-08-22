@@ -5,8 +5,6 @@ session: 2
 real_date: 2026-02-22
 tags: [session]
 ---
-# Session 02: The Road to Aquitaine
-
 The party loots the goblin cave, takes an escort job, and travels a long way west with two young women and a prophecy.
 
 ## Two of them are gone

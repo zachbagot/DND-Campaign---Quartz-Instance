@@ -5,7 +5,6 @@ session: 6
 real_date: 2026-07-11
 tags: [session]
 ---
-# Session 06: Blood Gulch Ridge
 
 Played **11 July 2026**. The session the campaign turns on.
 

@@ -5,7 +5,6 @@ session: 5
 real_date: 2026-06-27
 tags: [session]
 ---
-# Session 05: The Caravan
 
 A week in the desert with a forced march of orcs, a burglary, a prophecy, and a warhorn at the end of it.
 
@@ -79,7 +78,7 @@ The party was three rounds from the ridgeline, at the back of the caravan, with 
 
 They made it here. They chose the orcs and turned on the column from inside it, and the **Battle of Blood Gulch Ridge** started on this night.
 
-**It did not finish.** The fight was too large to resolve in one sitting, so the session ended mid-battle with the party inside a collapsing caravan and the outcome still open. It picks up in [[Session 06 - Blood Gulch Ridge]].
+**It did not finish.** The fight was too large to resolve in one sitting, so the session ended mid-battle with the party inside a collapsing caravan and the outcome still open. It picks up in [[Session 06 - The Battle of Blood Gulch Ridge]].
 
 ---
-*Previous: [[Session 04 - The Iron Net]] · Next: [[Session 06 - Blood Gulch Ridge]]*
+*Previous: [[Session 04 - The Iron Net]] · Next: [[Session 06 - The Battle of Blood Gulch Ridge]]*

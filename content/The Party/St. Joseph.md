@@ -4,8 +4,6 @@ brand: The Hearth With Two Shadows
 tags: [pc]
 player: Nick
 ---
-# St. Joseph
-
 Cleric. Also called Father Joseph. Acts first.
 
 In [[Session 01 - The Burning of Briarwood]] his advances were rejected by all three of [[Lyra Blackthorn]]'s crew, which is the origin of a hostility that later turned into an ambush on the road. He also levitated forty feet into the air during the fight.
@@ -16,7 +14,7 @@ In [[Session 03 - Beef's Beefy Doors]] he cast thaumaturgy to slam one of [[Beef
 
 In [[Session 04 - The Iron Net]] he disappeared for a while at the docks. He was found later.
 
-**His best session is [[Session 06 - Blood Gulch Ridge]].** He healed [[Throkk]] up off the ground after Throkk charged a heavy infantry formation alone and got taken apart by it. Then he called up a spiritual weapon and turned it loose in the human ranks, a blade with nobody holding it, and it carved through the guards for the rest of the battle. It found [[Seraveth]] too, in the fog, near the end.
+**His best session is [[Session 06 - The Battle of Blood Gulch Ridge]].** He healed [[Throkk]] up off the ground after Throkk charged a heavy infantry formation alone and got taken apart by it. Then he called up a spiritual weapon and turned it loose in the human ranks, a blade with nobody holding it, and it carved through the guards for the rest of the battle. It found [[Seraveth]] too, in the fog, near the end.
 
 ## Brand
 

@@ -2,7 +2,6 @@
 type: place
 tags: [place]
 ---
-# Aquitaine
 
 A large city built in concentric rings, ruled by [[Duke Thalorien Tidelorn]] with his son [[Prince Caelen Tidelorn]] as heir. Sometimes called Aqualune.
 

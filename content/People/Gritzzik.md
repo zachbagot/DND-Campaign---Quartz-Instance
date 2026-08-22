@@ -3,7 +3,6 @@ type: npc
 tags: [npc]
 location: Aquitaine
 ---
-# Gritzzik
 
 A goblin in [[Aquitaine]] who sells his goods off a sheet spread on the ground in the market.
 

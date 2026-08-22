@@ -4,8 +4,6 @@ brand: The Key of Smoke
 tags: [pc]
 player: Ben
 ---
-# Polly
-
 Gnome rogue, gay, he/him. Also called Poppy. The party's way into any room that is locked.
 
 **He has died once.** In [[Session 01 - The Burning of Briarwood]] a dwarf named Blonk rolled a natural 1 on a guiding bolt and killed him outright. What is now known, and was not known at the table, is that [[Blonk]] actually rolled an 8 and the gods read it as a 1.
