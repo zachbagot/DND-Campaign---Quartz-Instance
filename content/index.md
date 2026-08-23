@@ -25,6 +25,15 @@ Six sessions played. The party is currently standing at the lake outside [[Ghol 
 All five carry a mark from [[Ghol Uzhak]]. See [[The Five Brands]].
 
 **Retired.** [[Gaia]] the sorcerer and [[Blonk]] the dwarf cleric were both in the Rusty Tankard when the dragon came. Neither appears after [[Session 01 - The Burning of Briarwood]], and nobody has explained where they went.
+## Items
+
+Taken off the field at [[Session 06 - The Battle of Blood Gulch Ridge]].
+
+- [[Ashveil's Oathbreaker]]: [[Throkk]]'s greataxe, with a filed-off name still legible in the grooves
+- [[Cloak of the Fading Step]]: [[Polly]]'s cloak, off an assassin, made from three factions at once
+- [[Blessed Dawnwater]]: [[St. Joseph]]'s potion, which makes the drinker a lamp
+- [[Ring of the Blooming Vine]]: [[Zaff]]'s ring, off a medic who died saving an orc child
+- [[Seraveth's Lost Sceptre]]: [[Enya]]'s focus, which burned the last man to hold it and not her
 
 ## Lore
 
@@ -54,3 +63,6 @@ Things the party knows about and has not resolved.
 - [[Captain Aldric Renn]] is a prisoner on the lake shore.
 - Nobody has asked [[Polly]] what he saw while he was dead.
 - The relocation traces back to [[Throkk]] killing human tax collectors in his own village. Nobody knows, including [[Kael Sorra]], who grew up with him.
+- An **Ashveil** champion was pressed into the ambushers' service and his clan-marks were filed off his axe. Elder Bog Ashveil has not been asked about it. See [[Ashveil's Oathbreaker]].
+- There was an **assassin** on the field, kitted out by someone with reach across three factions, and nobody knows who they were sent for. See [[Cloak of the Fading Step]].
+- [[Seraveth]]'s sceptre **burned the war-mage who held it** and did not burn [[Enya]]. See [[Seraveth's Lost Sceptre]].

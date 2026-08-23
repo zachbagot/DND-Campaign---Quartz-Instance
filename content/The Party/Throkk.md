@@ -27,6 +27,8 @@ His father appeared during the caravan arc. [[Kael Sorra]] knew him as a boy.
 
 At [[Session 06 - The Battle of Blood Gulch Ridge]] he charged a disciplined squad of human heavy infantry head on and alone. The formation closed and several of them beat him half to pieces before [[St. Joseph]] could get to him and put him back on his feet.
 
+He carries [[Ashveil's Oathbreaker]], taken at Blood Gulch Ridge.
+
 ## Brand
 
 **The Broken Tusk Made Whole.** A tusk snapped in two, the halves bound by a ring of flame. Among orcs a broken tusk is the mark of shame and exile. A mended one exists in no tradition anyone knows. See [[The Five Brands]].

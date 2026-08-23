@@ -14,6 +14,9 @@ She also killed [[Son Soleth]], after [[Zaff]] slowed him.
 
 She bought petite light leather armour for 9 gold on the way out of [[Ghol Uzhak]].
 
+
+She carries [[Seraveth's Lost Sceptre]], taken at Blood Gulch Ridge.
+
 ## Brand
 
 **The Star Held in a Fist.** A four-pointed star gripped tight, light leaking between the fingers. The fire marked the containment rather than the power. When it appeared, [[Yagra Emberveil]] looked away from the mark and directly into her eyes for an uncomfortably long moment, and then said *"Hold tight, little fire."* Nothing more. See [[The Five Brands]].

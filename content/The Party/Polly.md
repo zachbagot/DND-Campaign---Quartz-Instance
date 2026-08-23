@@ -18,6 +18,9 @@ His best work is in [[Session 05 - The Caravan]]. He burgled two mage tents, cam
 
 He helped an orphanage in [[Aquitaine]] on an earlier visit, which is why [[Thrain Battleborn]] talked to him.
 
+
+He wears the [[Cloak of the Fading Step]], taken off an assassin at Blood Gulch Ridge.
+
 ## Brand
 
 **The Key of Smoke.** A skeleton key in curling smoke, its teeth dissolving at the edges. Not a mark of thievery. A mark of doors. See [[The Five Brands]].
