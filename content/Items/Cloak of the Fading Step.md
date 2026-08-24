@@ -21,5 +21,3 @@ Off an assassin's shoulders.
 Three sources, three factions, one garment. Whoever equipped that killer was buying from every side the caravan had touched, which means somebody with reach across all of them wanted a specific person dead.
 
 And it fits [[Polly]] as though it were cut for a gnome.
-
-Nobody has explained who the assassin was sent for.

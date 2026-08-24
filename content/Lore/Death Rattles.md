@@ -4,7 +4,7 @@ tags: [lore]
 ---
 Prophecies recorded by the mages travelling with the caravan. The party learned of them in [[Session 05 - The Caravan]], when [[Polly]] broke into Mourne's tent, copied three pages of arcana he could not read, and then tricked [[Liss]] into casting Comprehend Languages so he could.
 
-The mages call them death rattles. Nobody has explained where they come from or how they are collected.
+The mages call them death rattles. Where they come from, and how the mages collect them, the party never learned.
 
 ## What was read
 

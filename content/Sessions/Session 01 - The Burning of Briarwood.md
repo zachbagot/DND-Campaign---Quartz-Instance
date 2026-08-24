@@ -16,7 +16,7 @@ It did not attack immediately. It looked around, as though it were searching for
 
 By the end of it the entire town of [[Briarwood]] had been destroyed.
 
-A tall redheaded mage appeared briefly in the town that day and teleported away. Nobody has explained that either.
+A tall redheaded mage appeared briefly in the town that day and teleported away.
 
 ## The woman at the bar
 
@@ -27,8 +27,6 @@ Long grey hair and striking violet eyes. She had clearly been beautiful once, an
 She had a cat with her, called Tobby, and she was wearing an amulet.
 
 Her name is [[Maris]]. She was in the room when the dragon took the roof off.
-
-**Nobody in the party spoke to her.**
 
 ## The rival adventurers
 
@@ -88,18 +86,9 @@ This conversation happened outside the bar, in the open, at normal volume.
 
 ### Setting out
 
-The session ends with the party leaving for the hills after her.
-
-[[Gaia]] and [[Blonk]] are not with them when they reach the cave. Nobody has explained where the two of them went.
+The session ends with the party leaving for the hills after her. The road out of a burning town splits many ways, and it is four who make the half-day march into the hills: [[Throkk]], [[Polly]], [[Zaff]] and [[St. Joseph]], walking off the smoke with a dowry to earn.
 
 What happens in that cave is [[Session 02 - The Road to Aquitaine]].
-
-## Loose ends from this session
-
-- The dragon was searching for something and nobody knows what.
-- The redheaded mage in the ruins has never been identified.
-- [[Maris]] and her cat were never spoken to.
-- Nobody has asked [[Polly]] what he saw while he was dead.
 
 ---
 *Next: [[Session 02 - The Road to Aquitaine]]*

@@ -10,12 +10,19 @@ His wild shapes have a poor record. In [[Session 01 - The Burning of Briarwood]]
 
 On the road in [[Session 02 - The Road to Aquitaine]] he wild shaped into a wolf and bit [[Garin]] in the neck, then spared his life in exchange for an iron sword. He gave [[Junebug]] a slice of pie for nothing at all. He identified a trap as a snack and let [[Throkk]] eat it.
 
-He grows devil's lettuce, using magic to do it, and had 113 grams of it leaving [[Ghol Uzhak]].
+He grows devil's lettuce, using magic to do it, and had 113 grams of it leaving [[Ghol Uzhak]]. He wears the [[Ring of the Blooming Vine]], taken at Blood Gulch Ridge.
+
+## Rootfield
+
+He told the party his story on the road in [[Session 07 - Free Until Tomorrow]], and then walked into it. He was born in [[Rootfield]], a poor farming village in the eastern forest. His mother died birthing him and his father took it out on him until he was the village outcast. Goblins captured him as a child and used him as bait to draw out the village's defenders, then destroyed Rootfield and everyone in it, and left him alive. His father survived by being away, came back, blamed him for all of it, and disowned him. He is half blind from that day, one eye.
+
+The pixies raised him after that, led by [[Wix]], which is why a druid came out of a village that had no magic.
+
+The party crash-landed beside the ruin without knowing what it was. In his childhood home a woman's skeleton sat clutching his family's ledger, every debt in it owed to the initials WIV. A creature stole the ledger in the night and pinned it to the wall with a crude dagger, and when Zaff pulled the dagger free the ledger burned to nothing and the hilt seared his hand. He kept the dagger.
+
+At Seedfall he became a bird, called a second bird, and flew a net between them to take one of the great flower's seeds out of the sky.
 
 When [[Yagra Emberveil]] saw his brand appear she said *"The sky sent us a gardener. Good. The sky owes us."*
-
-
-He wears the [[Ring of the Blooming Vine]], taken at Blood Gulch Ridge.
 
 ## Brand
 

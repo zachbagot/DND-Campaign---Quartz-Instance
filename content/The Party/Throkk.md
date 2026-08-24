@@ -23,11 +23,13 @@ Throws himself at problems. In [[Session 01 - The Burning of Briarwood]] he char
 
 He also argued successfully that [[Lyra Blackthorn]] should be spared the stockades, which is the reason her brother [[Rylan]] later opened a door for the party in [[Aquitaine]].
 
-His father appeared during the caravan arc. [[Kael Sorra]] knew him as a boy.
+He carries [[Ashveil's Oathbreaker]], taken at Blood Gulch Ridge.
+
+His father is [[Eugene Johnson]], who fought at Blood Gulch on the ridge side and thought his son died there, until Throkk walked into [[Lord Forsythe]]'s bar in [[Session 07 - Free Until Tomorrow]]. Throkk left him ten gold and a message for his brother Stanley, who nobody has seen since the battle. [[Kael Sorra]] knew Eugene when Throkk was a boy.
+
+In the same session he refused to march on [[Varkesh]] until every person gave him their reason, then carved a day-long tunnel through the jungle for the party to walk through, took [[The Ember Sword]] from [[The Tomorrow Shop]] and dragged it behind him at full size for the rest of the day, and won the Seedfall by hurling himself off a tree and catching a seed in midair an arm's length in front of [[St. Joseph]].
 
 At [[Session 06 - The Battle of Blood Gulch Ridge]] he charged a disciplined squad of human heavy infantry head on and alone. The formation closed and several of them beat him half to pieces before [[St. Joseph]] could get to him and put him back on his feet.
-
-He carries [[Ashveil's Oathbreaker]], taken at Blood Gulch Ridge.
 
 ## Brand
 

@@ -14,9 +14,11 @@ In [[Session 03 - Beef's Beefy Doors]] he cast thaumaturgy to slam one of [[Beef
 
 In [[Session 04 - The Iron Net]] he disappeared for a while at the docks. He was found later.
 
-**His best session is [[Session 06 - The Battle of Blood Gulch Ridge]].** He healed [[Throkk]] up off the ground after Throkk charged a heavy infantry formation alone and got taken apart by it. Then he called up a spiritual weapon and turned it loose in the human ranks, a blade with nobody holding it, and it carved through the guards for the rest of the battle. It found [[Seraveth]] too, in the fog, near the end.
-
 He carries [[Blessed Dawnwater]], taken at Blood Gulch Ridge.
+
+In [[Session 07 - Free Until Tomorrow]] he announced the party's arrival at the shanty town by slamming every door and window in it with thaumaturgy at once, divined the party's heading by raising his cross to the wind and feeling God say east-ish, and cast sacred flame on a magical tree, which stood up out of the ground and demanded to know why. [[Zaff]] covered his mouth while [[Polly]] talked [[Scalybark]] back down. At Seedfall he levitated into a perfect catching position and watched [[Throkk]] snatch the seed out of the air in front of his face.
+
+**His best session is [[Session 06 - The Battle of Blood Gulch Ridge]].** He healed [[Throkk]] up off the ground after Throkk charged a heavy infantry formation alone and got taken apart by it. Then he called up a spiritual weapon and turned it loose in the human ranks, a blade with nobody holding it, and it carved through the guards for the rest of the battle. It found [[Seraveth]] too, in the fog, near the end.
 
 ## Brand
 

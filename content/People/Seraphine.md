@@ -11,6 +11,4 @@ She travelled with the party from [[Briarwood]] to [[Aquitaine]] in [[Session 02
 
 **When the party delivered the two women, both [[Duke Thalorien Tidelorn]] and [[Prince Caelen Tidelorn]] looked at them and assumed Seraphine was the bride.**
 
-Nobody has explained why.
-
 She remains in [[Aquitaine]] with [[Celeste Hawthorne]].

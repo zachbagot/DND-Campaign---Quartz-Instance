@@ -7,14 +7,6 @@ tags: [session]
 ---
 The party loots the goblin cave, takes an escort job, and travels a long way west with two young women and a prophecy.
 
-## Two of them are gone
-
-[[Gaia]] and [[Blonk]] do not appear in this session.
-
-Both were in the Rusty Tankard when the roof came off. [[Blonk]] killed [[Polly]] by accident. [[Gaia]] burned down four goblins on her own.
-
-Then the party set out for the hills and they were not with it. **Nobody has explained where they went.**
-
 ## The cave
 
 The four of them found the hideout and went in hard.
@@ -75,9 +67,7 @@ The city climbs in rings. Each walled circle sits inside the next and rises as i
 
 The route took them through the market, where they passed a goblin named [[Gritzzik]] selling his goods off a sheet spread on the ground. People were accusing him of stealing. He wants to open a shop and call it Gritzzik's Glorious Goods.
 
-Somewhere in that crowd a child bumped into [[Zaff]] and dropped a coin into his pocket, engraved **BB**.
-
-Nobody noticed until later.
+Somewhere in that crowd a child bumped into [[Zaff]] and dropped a coin into his pocket, engraved **BB**. The coin rode in that pocket, unnoticed, all the way into [[Session 03 - Beef's Beefy Doors]].
 
 ## Arrival
 
@@ -85,7 +75,7 @@ The party delivered [[Celeste Hawthorne]] and [[Seraphine]] to [[Duke Thalorien 
 
 Both men looked at the two young women and assumed [[Seraphine]] was the bride.
 
-Nobody corrected them at first, and nobody has explained why they got it wrong.
+Nobody corrected them at first.
 
 The Duke offered the party the stables to sleep in and free run of the keep for the rest of the day.
 

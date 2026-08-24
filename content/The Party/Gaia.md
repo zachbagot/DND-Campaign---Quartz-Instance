@@ -7,7 +7,7 @@ status: retired
 
 Sorcerer. Played by **Patrick**. One of the six who were in the Rusty Tankard when the dragon tore the roof off in [[Session 01 - The Burning of Briarwood]].
 
-**She does not appear after [[Session 01 - The Burning of Briarwood]].** She was in the inn when the dragon came, and when the party set out for the hills she was not with it. Nobody has explained where she went.
+**She does not appear after [[Session 01 - The Burning of Briarwood]].** She was in the inn when the dragon came, and when the party set out for the hills she was not with it.
 
 ## Briarwood
 

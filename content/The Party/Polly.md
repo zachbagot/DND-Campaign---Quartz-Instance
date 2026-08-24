@@ -10,16 +10,21 @@ Gnome rogue, gay, he/him. Also called Poppy. The party's way into any room that 
 
 He was brought back by a **resurrection scroll** the party found in the loot off a body they had killed. Not by a cleric, not by a god. By a piece of paper in a dead man's pocket.
 
-Nobody has asked him what happened in between.
-
 In [[Session 02 - The Road to Aquitaine]] he dismembered the goblin prince [[Skarnick]], cut out his heart, and drove it into the wall of the cave. A shudder ran through the cave when he did it, and it has never been explained. He also took [[Viola]]'s eye in the ambush on the road.
 
 His best work is in [[Session 05 - The Caravan]]. He burgled two mage tents, came out with a journal and three copied pages of arcana he could not read, and then tricked [[Liss]] into casting Comprehend Languages on him so he could. That is how the party learned about the [[Death Rattles]].
 
-He helped an orphanage in [[Aquitaine]] on an earlier visit, which is why [[Thrain Battleborn]] talked to him.
+He helped an orphanage in [[Aquitaine]] on an earlier visit, which is why [[Thrain Battleborn]] talked to him. He wears the [[Cloak of the Fading Step]], taken off an assassin at Blood Gulch Ridge.
 
+## Wallace
 
-He wears the [[Cloak of the Fading Step]], taken off an assassin at Blood Gulch Ridge.
+He was married. He and his husband Wallace made and traded toys, and goblins were among their customers, until one of the toys malfunctioned and exploded and the goblins came for them both. Polly fell, and he never saw Wallace again. That was sixteen years ago. He told the party in [[Session 07 - Free Until Tomorrow]], on the road to the goblin lands.
+
+## Session seven
+
+He won [[Eugene Johnson]]'s drinking game, took [[Lord Forsythe]]'s silver at three card monty with a card that flew like a boomerang, and sold [[The Dream Gardener]] a dream of children of every race playing with his toys. He also wove a net on the spot that [[Zaff]] flew between two birds to catch a Seedfall seed.
+
+At [[The Tomorrow Shop]] he left one of his toys rigged to explode, then moved it to the back room where no child could reach it, waited under his cloak for [[Tallow]], asked what the shop really does, and cut him across the chest for answering *"Don't we all die?"* Tallow fled the city and Polly locked the shop behind him. Maybe it's their shop now.
 
 ## Brand
 
