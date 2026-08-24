@@ -2,7 +2,7 @@
 type: npc
 tags: [npc]
 ---
-An awakened tree in the square of [[Rootfield]], met in [[Session 07 - Free Until Tomorrow]] when [[St. Joseph]] cast sacred flame at his base and he stood up out of the ground to ask why they had disturbed his slumber.
+An awakened tree in the square of [[Rootfield]], met in [[Session 07 - The Druid's Ruins]] when [[St. Joseph]] cast sacred flame at his base and he stood up out of the ground to ask why they had disturbed his slumber.
 
 [[Zaff]] covered the priest's mouth and [[Polly]] explained they had been burning a fungus off his bark, which Scalybark accepted before settling his roots back into the earth.
 

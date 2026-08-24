@@ -9,15 +9,13 @@ Seven sessions played. The party is inside [[Illyara]], the city in bloom, holdi
 
 ## The story so far
 
-| # | Date | Session | What happened |
-|---|---|---|---|
-| 1 | 16 Nov 2025 | [[Session 01 - The Burning of Briarwood]] | A red dragon destroys a town while looking for something. [[Polly]] dies and comes back inside the hour |
-| 2 | 22 Feb 2026 | [[Session 02 - The Road to Aquitaine]] | The cave, the long road west, a riddle in a river, and two young women delivered to the wrong assumptions |
-| 3 | 22 Mar 2026 | [[Session 03 - Beef's Beefy Doors]] | A broken door puts the party in debt to a thieves guild, and they rob a shop to clear it |
-| 4 | 30 May 2026 | [[Session 04 - The Iron Net]] | [[Polly]] gropes a dignitary, the Duke sentences them to an escort job, and they cross the water |
-| 5 | 27 Jun 2026 | [[Session 05 - The Caravan]] | A week walking with a forced march, a burglary, three pages of prophecy, and a battle that starts and does not finish |
-| 6 | 11 Jul 2026 | [[Session 06 - The Battle of Blood Gulch Ridge]] | The battle concludes, a captain is traded for a mage, and all five are branded at a fire older than the world |
-| 7 | 22 Aug 2026 | [[Session 07 - Free Until Tomorrow]] | A magical map, a father's one warning ignored, [[Zaff]]'s ruined home, and a shop in [[Illyara]] where everything is free until tomorrow |
+- **[[Session 01 - The Burning of Briarwood]]**. A red dragon destroys a town while looking for something, and [[Polly]] dies and comes back inside the hour.
+- **[[Session 02 - The Road to Aquitaine]]**. The cave, the long road west, a riddle in a river, and two young women delivered to the wrong assumptions.
+- **[[Session 03 - Beef's Beefy Doors]]**. A broken door puts the party in debt to a thieves guild, and they rob a shop to clear it.
+- **[[Session 04 - The Iron Net]]**. [[Polly]] gropes a dignitary, the Duke sentences the party to an escort job, and they cross the water.
+- **[[Session 05 - The Caravan]]**. A week walking beside a forced march, a burglary, three pages of prophecy, and a battle that starts and does not finish.
+- **[[Session 06 - The Battle of Blood Gulch Ridge]]**. The battle ends, a captain is traded for a mage, and all five are branded at a fire older than the world.
+- **[[Session 07 - The Druid's Ruins]]**. A magical map, a father's one warning ignored, [[Zaff]]'s ruined home, and a shop where everything is free until tomorrow.
 
 ## The party
 
@@ -47,7 +45,6 @@ Since [[Illyara]], [[Throkk]] also carries [[The Ember Sword]], which nobody has
 - [[The Adventurer's Journal]]: the book you are reading right now
 - [[The Ember Sword]]: as big as you want it to be, free until tomorrow
 - [[The Council of Boroughs]]: who rules [[Illyara]]
-
 
 ## Places
 

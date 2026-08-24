@@ -25,7 +25,7 @@ He also argued successfully that [[Lyra Blackthorn]] should be spared the stocka
 
 He carries [[Ashveil's Oathbreaker]], taken at Blood Gulch Ridge.
 
-His father is [[Eugene Johnson]], who fought at Blood Gulch on the ridge side and thought his son died there, until Throkk walked into [[Lord Forsythe]]'s bar in [[Session 07 - Free Until Tomorrow]]. Throkk left him ten gold and a message for his brother Stanley, who nobody has seen since the battle. [[Kael Sorra]] knew Eugene when Throkk was a boy.
+His father is [[Eugene Johnson]], who fought at Blood Gulch on the ridge side and thought his son died there, until Throkk walked into [[Lord Forsythe]]'s bar in [[Session 07 - The Druid's Ruins]]. Throkk left him ten gold and a message for his brother Stanley, who nobody has seen since the battle. [[Kael Sorra]] knew Eugene when Throkk was a boy.
 
 In the same session he refused to march on [[Varkesh]] until every person gave him their reason, then carved a day-long tunnel through the jungle for the party to walk through, took [[The Ember Sword]] from [[The Tomorrow Shop]] and dragged it behind him at full size for the rest of the day, and won the Seedfall by hurling himself off a tree and catching a seed in midair an arm's length in front of [[St. Joseph]].
 

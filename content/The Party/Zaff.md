@@ -14,7 +14,7 @@ He grows devil's lettuce, using magic to do it, and had 113 grams of it leaving 
 
 ## Rootfield
 
-He told the party his story on the road in [[Session 07 - Free Until Tomorrow]], and then walked into it. He was born in [[Rootfield]], a poor farming village in the eastern forest. His mother died birthing him and his father took it out on him until he was the village outcast. Goblins captured him as a child and used him as bait to draw out the village's defenders, then destroyed Rootfield and everyone in it, and left him alive. His father survived by being away, came back, blamed him for all of it, and disowned him. He is half blind from that day, one eye.
+He told the party his story on the road in [[Session 07 - The Druid's Ruins]], and then walked into it. He was born in [[Rootfield]], a poor farming village in the eastern forest. His mother died birthing him and his father took it out on him until he was the village outcast. Goblins captured him as a child and used him as bait to draw out the village's defenders, then destroyed Rootfield and everyone in it, and left him alive. His father survived by being away, came back, blamed him for all of it, and disowned him. He is half blind from that day, one eye.
 
 The pixies raised him after that, led by [[Wix]], which is why a druid came out of a village that had no magic.
 

@@ -2,7 +2,7 @@
 type: place
 tags: [place]
 ---
-The city in bloom, deep in the ancient forest east of the desert. The party reached it in [[Session 07 - Free Until Tomorrow]].
+The city in bloom, deep in the ancient forest east of the desert. The party reached it in [[Session 07 - The Druid's Ruins]].
 
 ## The flower
 

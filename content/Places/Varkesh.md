@@ -13,4 +13,4 @@ What they have been told, first by [[Eugene Johnson]] and then by [[Aster]] and 
 
 Legend says the old tribes, the goblins and the old races, once gave their greatest youth to cement a peace after the great goblin wars. The skeletons hanging in the eastern forest are dated to those wars.
 
-The party chose it as their destination in [[Session 07 - Free Until Tomorrow]] and made it as far as [[Illyara]], where they stopped to regroup.
+The party chose it as their destination in [[Session 07 - The Druid's Ruins]] and made it as far as [[Illyara]], where they stopped to regroup.

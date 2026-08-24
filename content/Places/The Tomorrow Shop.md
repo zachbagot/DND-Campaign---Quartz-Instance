@@ -2,7 +2,7 @@
 type: place
 tags: [place]
 ---
-A shop in a tree in [[Illyara]]'s market district, run until recently by the goblin [[Tallow]]. Visited in [[Session 07 - Free Until Tomorrow]].
+A shop in a tree in [[Illyara]]'s market district, run until recently by the goblin [[Tallow]]. Visited in [[Session 07 - The Druid's Ruins]].
 
 **Everything is free until tomorrow.** You take the item and pay later, in anything. Who decides what the payment is? Not Tallow. *"The item, or fate."*
 

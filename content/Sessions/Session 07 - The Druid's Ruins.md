@@ -35,7 +35,7 @@ Throkk summed up the expedition: *"So. Evil, traumatic backstory, traumatic back
 
 ## The jungle
 
-Days of desert, then a forest ancient and grown shut, vines like walls. [[Throkk]] spent the first day carving a tunnel the rest walked through. Old skeletons from the goblin wars hang in the trees, and [[Zaff]] read two by tasting the dust: humans, dead twenty and twenty-five years.
+Days of desert, then a forest ancient and grown shut, vines like walls. [[Throkk]] spent the first day carving a tunnel the rest walked through. Skeletons hang from the trees there. [[Enya]]'s magic put them at twenty to twenty-five years dead, old enough to belong to the great goblin wars.
 
 Something was watching. Throkk went to flush it out by chopping down trees in a screaming whirlwind, and [[Polly]], already stealthed in behind the watchers, found two pixies: [[Aster]] and his wife [[Sylvia]], scouts of [[The Council of Boroughs]]. [[Varkesh]] was peaceful for years, and in the last few months people are disappearing, the woods are more alive than ever, and the old magic is coming back. Walk in and the best outcome is prison.
 

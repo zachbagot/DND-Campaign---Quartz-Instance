@@ -18,7 +18,7 @@ He helped an orphanage in [[Aquitaine]] on an earlier visit, which is why [[Thra
 
 ## Wallace
 
-He was married. He and his husband Wallace made and traded toys, and goblins were among their customers, until one of the toys malfunctioned and exploded and the goblins came for them both. Polly fell, and he never saw Wallace again. That was sixteen years ago. He told the party in [[Session 07 - Free Until Tomorrow]], on the road to the goblin lands.
+He was married. He and his husband Wallace made and traded toys, and goblins were among their customers, until one of the toys malfunctioned and exploded and the goblins came for them both. Polly fell, and he never saw Wallace again. That was sixteen years ago. He told the party in [[Session 07 - The Druid's Ruins]], on the road to the goblin lands.
 
 ## Session seven
 

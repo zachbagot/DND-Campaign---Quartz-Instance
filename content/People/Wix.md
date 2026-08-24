@@ -6,4 +6,4 @@ The leader of the pixies who raised [[Zaff]] after [[Rootfield]] fell. He was a 
 
 She is [[Aster]]'s cousin. By his account she is "quite the character," and she keeps to the eastern wandering grove of [[Illyara]], though with her you never quite know.
 
-The party learned where to find her in [[Session 07 - Free Until Tomorrow]] and has not gone to her yet.
+The party learned where to find her in [[Session 07 - The Druid's Ruins]] and has not gone to her yet.
