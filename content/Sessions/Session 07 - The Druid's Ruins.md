@@ -37,13 +37,13 @@ Throkk summed up the expedition: *"So. Evil, traumatic backstory, traumatic back
 
 Days of desert, then a forest ancient and grown shut, vines like walls. [[Throkk]] spent the first day carving a tunnel the rest walked through. Skeletons hang from the trees there. [[Enya]]'s magic put them at twenty to twenty-five years dead, old enough to belong to the great goblin wars.
 
-Something was watching. Throkk went to flush it out by chopping down trees in a screaming whirlwind, and [[Polly]], already stealthed in behind the watchers, found two pixies: [[Aster]] and his wife [[Sylvia]], scouts of [[The Council of Boroughs]]. [[Varkesh]] was peaceful for years, and in the last few months people are disappearing, the woods are more alive than ever, and the old magic is coming back. Walk in and the best outcome is prison.
+Something was watching them. So [[Throkk]] made himself impossible to look away from, pulling his axe and going through the trees in a screaming whirlwind, chopping and throwing them, while [[Polly]] went the long way around behind whatever was out there. It worked. Polly came up on two pixies watching the show: [[Aster]] and his wife [[Sylvia]], scouts of [[The Council of Boroughs]]. [[Varkesh]] was peaceful for years, and in the last few months people are disappearing, the woods are more alive than ever, and the old magic is coming back. Walk in and the best outcome is prison.
 
 The party changed course for [[Illyara]]. [[Sylvia]] ran the pixie dust flight: *"We're gonna be your flight companions tonight! Everyone grab each other's hands, we're gonna make a chain!"* Mid-flight, [[Polly]] let go of the chain to take a hit off his pipe. [[Aster]] dove after him, Sylvia lost the rest, and the party came down beside a ruined town.
 
 ## Rootfield
 
-Burned roofs, scorch marks, weeds through every door. [[Aster]] gave the town its name, [[Rootfield]], and [[Zaff]] went quiet. He was born there. *"I saw everyone I've ever known die here."*
+Burned roofs, scorch marks, weeds through every door. [[Sylvia]] told them the name of the place, [[Rootfield]], and [[Zaff]] went quiet. He was born there. *"I saw everyone I've ever known die here."*
 
 The ruins do not tell the story Zaff knew. [[Throkk]]'s search turned up what goblin iron cannot do: blighted ground, fireball scorch marks, human silhouettes burned onto walls. Rootfield had no mages of its own. *"That's why we all died."* When [[Enya]] read the residue, the magic itself carried a reluctance.
 
@@ -67,11 +67,11 @@ Then Seedfall. Every few months the great flower cannons seeds into the sky, eac
 
 While the city chased seeds, [[Polly]] went back to [[The Tomorrow Shop]]. His toy owl, left on a shelf earlier and adjusted to explode when played with, got moved first to the back room where no child could reach it. Then he waited under his cloak for [[Tallow]], let his psychic dagger show, and asked what this shop actually does. An immediate need, for the people who need it, said Tallow. And in the long term? *"Don't we all die?"*
 
-Polly cut him across the chest. Tallow fled the city bleeding, protesting that the items were not his, that they cannot leave. Polly locked the doors and rejoined the party outside. *"Maybe it's our shop."*
+Polly opened him from shoulder to hip. Tallow fled the city bleeding, protesting that the items were not his, that they cannot leave. Polly locked the doors and rejoined the party outside. *"Maybe it's our shop."*
 
 ## Where they stand
 
-Inside [[Illyara]] with two seeds of the great flower, a sword that is free until tomorrow, a dream on credit, a goblin dagger that burned the only record of the debt it was pinned through, and the keys to a shop whose owner is running. [[Wix]] is somewhere in the eastern wandering grove. Tomorrow is coming.
+Inside [[Illyara]] with two seeds of the great flower, a sword that is free until tomorrow, a dream on credit, a goblin dagger that burned the only record of the debt it was pinned through, and the keys to a shop whose owner is running. [[Wix]] is somewhere in the eastern wandering grove.
 
 ---
 *Previous: [[Session 06 - The Battle of Blood Gulch Ridge]]*
