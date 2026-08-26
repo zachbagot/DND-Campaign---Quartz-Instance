@@ -2,7 +2,7 @@
 type: npc
 tags: [npc]
 ---
-A polished, fancy-looking goblin who ran [[The Tomorrow Shop]] in [[Illyara]] until [[Session 07 - The Druid's Ruins]]. His name was given to him by other goblins. "We name each other."
+A polished, fancy-looking goblin who ran [[The Tomorrow Shop]] in [[Ilyara]] until [[Session 07 - The Druid's Ruins]]. His name was given to him by other goblins. "We name each other."
 
 His pitch: everything in the shop is free until tomorrow. Payment comes later, in anything, and it is not his to decide what. The item decides, or fate. He handed [[Throkk]] [[The Ember Sword]] and mentioned he was the third person in a year to take one, without knowing what happened to the other two.
 

@@ -21,7 +21,7 @@ Inside, very drunk, sat [[Throkk]]'s father, [[Eugene Johnson]], Huge Johnson to
 
 Then a drinking game, fastest drink wins. [[Polly]] won it. "I've done it before. I'll do it again." [[Enya]] asked Eugene how it was hanging and charmed him so thoroughly he turned bright red and called her too young for him. Polly dealt [[Lord Forsythe]] three card monty and took the bartender's silver along with the stake. Throkk pressed ten gold on his father and left a greeting for his brother Stanley, unseen since the battle.
 
-Eugene named the two cities within reach, [[Caravelle]] of the mirrors north in the mountains and [[Illyara]] in bloom east in the forest, and asked one thing of his son: do not go to [[Varkesh]], the Weeping City, the goblin capital northeast between them. *"Just don't go there of all places. I love you too much."*
+Eugene named the two cities within reach, [[Caravelle]] of the mirrors north in the mountains and [[Ilyara]] in bloom east in the forest, and asked one thing of his son: do not go to [[Varkesh]], the Weeping City, the goblin capital northeast between them. *"Just don't go there of all places. I love you too much."*
 
 A crow flew into the bar, cawed once, and flew out. Throkk chased it until it turned south and lost him.
 
@@ -39,7 +39,7 @@ Days of desert, then a forest ancient and grown shut, vines like walls. [[Throkk
 
 Something was watching them. So [[Throkk]] made himself impossible to look away from, pulling his axe and going through the trees in a screaming whirlwind, chopping and throwing them, while [[Polly]] went the long way around behind whatever was out there. It worked. Polly came up on two pixies watching the show: [[Aster]] and his wife [[Sylvia]], scouts of [[The Council of Boroughs]]. [[Varkesh]] was peaceful for years, and in the last few months people are disappearing, the woods are more alive than ever, and the old magic is coming back. Walk in and the best outcome is prison.
 
-The party changed course for [[Illyara]]. [[Sylvia]] ran the pixie dust flight: *"We're gonna be your flight companions tonight! Everyone grab each other's hands, we're gonna make a chain!"* Mid-flight, [[Polly]] let go of the chain to take a hit off his pipe. [[Aster]] dove after him, Sylvia lost the rest, and the party came down beside a ruined town.
+The party changed course for [[Ilyara]]. [[Sylvia]] ran the pixie dust flight: *"We're gonna be your flight companions tonight! Everyone grab each other's hands, we're gonna make a chain!"* Mid-flight, [[Polly]] let go of the chain to take a hit off his pipe. [[Aster]] dove after him, Sylvia lost the rest, and the party came down beside a ruined town.
 
 ## Rootfield
 
@@ -53,7 +53,7 @@ In Zaff's childhood home a woman's skeleton sat clutching his family's ledger: p
 
 [[Throkk]] contributed by ransacking every house in the village and pissing on everything he could not carry.
 
-## Illyara
+## Ilyara
 
 The city in bloom is built around a flower half a mile wide, in trees that walk slow circles around it, so the city slowly rearranges itself. Gnomes, goblins, dryads, satyrs, pixies. Nothing over four feet tall, no king, and no orcs. [[Throkk]] walked the streets bent double. [[Zaff]] asked after [[Wix]], the pixie who raised him after Rootfield fell: she is [[Aster]]'s cousin and keeps to the eastern wandering grove. The party has not gone to her yet.
 
@@ -71,7 +71,7 @@ Polly opened him from shoulder to hip. Tallow fled the city bleeding, protesting
 
 ## Where they stand
 
-Inside [[Illyara]] with two seeds of the great flower, a sword that is free until tomorrow, a dream on credit, a goblin dagger that burned the only record of the debt it was pinned through, and the keys to a shop whose owner is running. [[Wix]] is somewhere in the eastern wandering grove.
+Inside [[Ilyara]] with two seeds of the great flower, a sword that is free until tomorrow, a dream on credit, a goblin dagger that burned the only record of the debt it was pinned through, and the keys to a shop whose owner is running. [[Wix]] is somewhere in the eastern wandering grove.
 
 ---
 *Previous: [[Session 06 - The Battle of Blood Gulch Ridge]]*

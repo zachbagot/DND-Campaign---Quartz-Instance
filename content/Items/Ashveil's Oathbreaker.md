@@ -23,4 +23,4 @@ Elder Bog Ashveil rode with the caravan. So did his daughter Grutha.
 
 Somebody took an Ashveil champion, put him in service, and then took the trouble to file his family off his weapon. They did not finish the job.
 
-[[Throkk]] carries the axe openly, and the elder it is named for walks the same road.
+Nobody has asked Bog Ashveil about it yet. [[Throkk]] carries the axe openly, and the elder it is named for walks the same road.

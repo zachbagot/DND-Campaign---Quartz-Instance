@@ -26,6 +26,9 @@ He won [[Eugene Johnson]]'s drinking game, took [[Lord Forsythe]]'s silver at th
 
 At [[The Tomorrow Shop]] he left one of his toys rigged to explode, then moved it to the back room where no child could reach it, waited under his cloak for [[Tallow]], asked what the shop really does, and opened him from shoulder to hip for answering *"Don't we all die?"* Tallow fled the city and Polly locked the shop behind him. Maybe it's their shop now.
 
+
+He wears the [[Cloak of the Fading Step]], taken off an assassin at Blood Gulch Ridge.
+
 ## Brand
 
 **The Key of Smoke.** A skeleton key in curling smoke, its teeth dissolving at the edges. Not a mark of thievery. A mark of doors. See [[The Five Brands]].

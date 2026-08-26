@@ -5,7 +5,7 @@ title: The Campaign
 
 A living record of the campaign, kept for the people at the table.
 
-Seven sessions played. The party is inside [[Illyara]], the city in bloom, holding two Seedfall seeds, an unpaid flaming sword, and the keys to a shop whose owner they drove out of town.
+Seven sessions played. The party is inside [[Ilyara]], the city in bloom, holding two Seedfall seeds, an unpaid flaming sword, and the keys to a shop whose owner they drove out of town.
 
 ## The story so far
 
@@ -35,7 +35,7 @@ Taken off the field at [[Session 06 - The Battle of Blood Gulch Ridge]].
 - [[Ring of the Blooming Vine]]: [[Zaff]]'s ring, off a medic who died saving an orc child
 - [[Seraveth's Lost Sceptre]]: [[Enya]]'s focus, which burned the last man to hold it and not her
 
-Since [[Illyara]], [[Throkk]] also carries [[The Ember Sword]], which nobody has paid for.
+Since [[Ilyara]], [[Throkk]] also carries [[The Ember Sword]], which nobody has paid for.
 
 ## Lore
 
@@ -44,11 +44,11 @@ Since [[Illyara]], [[Throkk]] also carries [[The Ember Sword]], which nobody has
 - [[The Water Spirit's Riddle]]: spoken on the road to [[Aquitaine]] and still unsolved
 - [[The Adventurer's Journal]]: the book you are reading right now
 - [[The Ember Sword]]: as big as you want it to be, free until tomorrow
-- [[The Council of Boroughs]]: who rules [[Illyara]]
+- [[The Council of Boroughs]]: who rules [[Ilyara]]
 
 ## Places
 
-[[Briarwood]] · [[Aquitaine]] · [[Dur Soleth]] · [[The Desert Plains]] · [[Ghol Uzhak]] · [[Rootfield]] · [[Illyara]] · [[Varkesh]] · [[Caravelle]]
+[[Briarwood]] · [[Aquitaine]] · [[Dur Soleth]] · [[The Desert Plains]] · [[Ghol Uzhak]] · [[Rootfield]] · [[Ilyara]] · [[Varkesh]] · [[Caravelle]]
 
 ## Open threads
 

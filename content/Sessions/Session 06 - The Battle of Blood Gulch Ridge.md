@@ -45,6 +45,16 @@ Five things came off the dead when the fighting stopped, and every one carries a
 - **[[Ring of the Blooming Vine]]**, to [[Zaff]]. Off a human field-medic who died dragging an orc child to cover. It blooms one white flower every dawn.
 - **[[Seraveth's Lost Sceptre]]**, to [[Enya]]. Found under a war-mage whose hands were burned where he had gripped it, and the make matches [[Seraveth]]'s own. In Enya's hand it did not burn. It settled.
 
+## What the field gave up
+
+Five things came off the dead when the fighting stopped, and every one of them carries a question the party has not answered.
+
+- **[[Ashveil's Oathbreaker]]**, to [[Throkk]]. A +2 greataxe pried off an orc champion who had been pressed into the ambushers' service. His clan-marks were filed off the blade and the job was not finished, so the grooves still hold the shape of the name **Ashveil**.
+- **[[Cloak of the Fading Step]]**, to [[Polly]]. Taken off an assassin. Elven weave, human dye, mage-work enchantment, which is three factions in one garment. It fits Polly as though it were cut for a gnome.
+- **[[Blessed Dawnwater]]**, to [[St. Joseph]]. A healing potion that turns the drinker into a lamp for an hour, brewed for medics who work at night.
+- **[[Ring of the Blooming Vine]]**, to [[Zaff]]. Off a human field-medic who died dragging an orc child to cover. It blooms one white flower every dawn.
+- **[[Seraveth's Lost Sceptre]]**, to [[Enya]]. Found under a dead war-mage whose hands were burned where he had gripped it. The make matches [[Seraveth]]'s own work. In Enya's hand it did not burn. It settled.
+
 ## The trade
 
 They took [[Captain Aldric Renn]] alive, and a captured human officer is worth a great deal to an orc resistance. [[Vorrak Stonebell]] wanted him. The party wanted [[Liss]], who had been decent to [[Polly]] on the march for no reason that served her, had covered for him when he broke into her tent, and was now in orc hands with a war just finished around her.

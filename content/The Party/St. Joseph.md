@@ -20,6 +20,8 @@ In [[Session 07 - The Druid's Ruins]] he announced the party's arrival at the sh
 
 **His best session is [[Session 06 - The Battle of Blood Gulch Ridge]].** He healed [[Throkk]] up off the ground after Throkk charged a heavy infantry formation alone and got taken apart by it. Then he called up a spiritual weapon and turned it loose in the human ranks, a blade with nobody holding it, and it carved through the guards for the rest of the battle. It found [[Seraveth]] too, in the fog, near the end.
 
+He carries [[Blessed Dawnwater]], taken at Blood Gulch Ridge.
+
 ## Brand
 
 **The Hearth With Two Shadows.** A hearthfire casting two shadows in opposite directions. A priest carries his god with him, so he never stands anywhere alone, and two lights compete to define him. See [[The Five Brands]].

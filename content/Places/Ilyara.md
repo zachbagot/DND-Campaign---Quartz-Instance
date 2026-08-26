@@ -6,7 +6,7 @@ The city in bloom, deep in the ancient forest east of the desert. The party reac
 
 ## The flower
 
-Illyara is built around a single flower over half a mile across, six petals, white and yellow and pink, each petal with its own colors. The center of the bloom alone is four hundred meters wide.
+Ilyara is built around a single flower over half a mile across, six petals, white and yellow and pink, each petal with its own colors. The center of the bloom alone is four hundred meters wide.
 
 The city's boroughs sit under the petals and take their colors from them. The buildings stand in trees, and the trees move, walking in slow concentric rings around the flower, so the whole city continuously rearranges itself. Residents dodge passing branches the way other cities dodge carts.
 
