@@ -3,7 +3,9 @@ type: npc
 location: Aquitaine
 tags: [npc]
 ---
-Ruler of [[Aquitaine]]. Composed and charismatic, with sea-blue eyes and long silver-streaked hair like cresting waves.
+![[Duke Thalorien Tidelorn.png]]
+
+Ruler of [[Aquitaine]]. **Human.** Composed and charismatic, with sea-blue eyes and long silver-streaked hair like cresting waves.
 
 Known for fairness and diplomacy, and for an almost intuitive bond with the old water-magic of his city. Beloved by his people. He carries a private worry about enemies that he does not discuss.
 

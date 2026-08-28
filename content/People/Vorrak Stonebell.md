@@ -3,6 +3,8 @@ type: npc
 faction: Ridge Orcs
 tags: [npc]
 ---
+![[Vorrak Stonebell.png]]
+
 Orc resistance leader. Mid forties, six foot seven.
 
 He planned the ambush at the ford that became the battle in [[Session 06 - The Battle of Blood Gulch Ridge]], and he watched the party choose a side from the ridge.

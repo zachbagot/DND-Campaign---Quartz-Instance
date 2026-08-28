@@ -3,6 +3,8 @@ type: npc
 faction: Aquitaine Thieves Guild
 tags: [npc]
 ---
+![[Beef the Bard.png]]
+
 Tiefling woman. She runs the thieves guild in [[Aquitaine]], which in practice means she runs [[Aquitaine]]. The city has a Duke. It answers to Beef.
 
 Her shop, **Beef's Beefy Doors**, is a front for a protection racket with an elegant structure. Her people break your door. Then they sell you protection so it does not happen again. Then they sell you the replacement door. You pay twice and you thank them.

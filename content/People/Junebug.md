@@ -2,6 +2,8 @@
 type: npc
 tags: [npc]
 ---
+![[Junebug.png]]
+
 A young tabaxi girl who walked into the party's camp one night on the road in [[Session 02 - The Road to Aquitaine]].
 
 She wears a grey cloak she says is a superhero cape and carries a stick she says is a magical sword. She can turn pebbles into fireflies.

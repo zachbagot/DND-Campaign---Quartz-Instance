@@ -2,6 +2,8 @@
 type: npc
 tags: [npc]
 ---
+![[Thrain Battleborn.png]]
+
 A dwarf working a door in [[Aquitaine]] as a bouncer, which is a strange job for a level eight or nine oathbreaker paladin.
 
 [[Polly]] aided him many years ago, when he was an orphan himself. He grew up in that orphanage and volunteers there still. In [[Session 03 - Beef's Beefy Doors]] he confirmed the BB coin came from Beef's Beefy Doors.

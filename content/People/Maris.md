@@ -3,6 +3,7 @@ type: npc
 location: Briarwood
 tags: [npc]
 ---
+![[Maris.png]]
 
 An old woman the party saw sitting in the Rusty Tankard in [[Briarwood]], in [[Session 01 - The Burning of Briarwood]], and never spoke to.
 

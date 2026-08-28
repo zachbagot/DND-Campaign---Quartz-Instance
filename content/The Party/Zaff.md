@@ -4,6 +4,8 @@ brand: The Seed in the Ash
 tags: [pc]
 player: Andrew
 ---
+![[Zaff.png]]
+
 Aasimar druid. Celestial descent, which makes his standing with the orcs at [[Ghol Uzhak]] an odd thing.
 
 His wild shapes have a poor record. In [[Session 01 - The Burning of Briarwood]] he turned into a wolf and immediately rolled a natural 1, biting his own tail. In [[Session 05 - The Caravan]] he turned into a kangaroo to spring [[Throkk]] from a jail wagon, kicked a tree to create a distraction, rolled a 1, and had the tree fall on him. The guards and the orc children laughed and went back to ignoring him.

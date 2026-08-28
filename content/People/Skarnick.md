@@ -3,6 +3,7 @@ type: npc
 status: dead
 tags: [npc]
 ---
+![[Skarnick.png]]
 
 A goblin prince with a reputation for debauchery that had travelled a good deal further than he ever did.
 

@@ -3,6 +3,7 @@ type: npc
 location: Aquitaine
 tags: [npc]
 ---
+![[Celeste Hawthorne.png]]
 
 Daughter of [[Mayor Aldric Hawthorne]] of [[Briarwood]], and the reason the party left home.
 

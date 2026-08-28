@@ -2,6 +2,8 @@
 type: npc
 tags: [npc]
 ---
+![[Wix.png]]
+
 The leader of the pixies who raised [[Zaff]] after [[Rootfield]] fell. He was a child when the goblins destroyed his village, and Wix is who he grew up with instead.
 
 She is [[Aster]]'s cousin. By his account she is "quite the character," and she keeps to the eastern wandering grove of [[Ilyara]], though with her you never quite know.

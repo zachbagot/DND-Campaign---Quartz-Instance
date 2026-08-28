@@ -3,6 +3,8 @@ type: npc
 location: Aquitaine
 tags: [npc]
 ---
+![[Seraphine.png]]
+
 Childhood friend of [[Celeste Hawthorne]], and the daughter of [[Maris]] the alchemist of [[Briarwood]].
 
 Quietly striking. Pale, moonlit skin and long obsidian hair with silver undertones. Deep blue eyes flecked with something like stars. She carries both innocence and an old sadness.
