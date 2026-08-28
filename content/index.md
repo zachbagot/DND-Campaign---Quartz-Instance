@@ -48,7 +48,7 @@ Since [[Ilyara]], [[Throkk]] also carries [[The Ember Sword]], which nobody has 
 
 ## Places
 
-[[Briarwood]] · [[Aquitaine]] · [[Dur Soleth]] · [[The Desert Plains]] · [[Ghol Uzhak]] · [[Rootfield]] · [[Ilyara]] · [[Varkesh]] · [[Caravelle]]
+[[Briarwood]] · [[Aquitaine]] · [[Dur Soleth]] · [[The Desert Plains]] · [[Ghol Uzhak]] · [[Rootfield]] · [[Ilyara]] · [[Varkesh]] · [[Kharavel]]
 
 ## Open threads
 

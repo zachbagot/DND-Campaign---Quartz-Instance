@@ -12,6 +12,6 @@ He goes by Huge Johnson, and the title grows with retelling. Corporal Huge Johns
 
 He toasted the party as the victors of Blood Gulch, challenged the room to a drinking game, and lost it to [[Polly]]. [[Enya]] charmed him so thoroughly he turned bright red and told her she was a little too young for him.
 
-He knew the region's cities from memory: [[Caravelle]] to the north, [[Ilyara]] to the east, and [[Varkesh]] between them to the northeast, the one place he begged his son not to go.
+He knew the region's cities from memory: [[Kharavel]] to the north, [[Ilyara]] to the east, and [[Varkesh]] between them to the northeast, the one place he begged his son not to go.
 
 Throkk left him ten gold and a message for his brother Stanley, who has not been seen since the battle.

@@ -21,7 +21,7 @@ Inside, very drunk, sat [[Throkk]]'s father, [[Eugene Johnson]], Huge Johnson to
 
 Then a drinking game, fastest drink wins. [[Polly]] won it. "I've done it before. I'll do it again." [[Enya]] asked Eugene how it was hanging and charmed him so thoroughly he turned bright red and called her too young for him. Polly dealt [[Lord Forsythe]] three card monty and took the bartender's silver along with the stake. Throkk pressed ten gold on his father and left a greeting for his brother Stanley, unseen since the battle.
 
-Eugene named the two cities within reach, [[Caravelle]] of the mirrors north in the mountains and [[Ilyara]] in bloom east in the forest, and asked one thing of his son: do not go to [[Varkesh]], the Weeping City, the goblin capital northeast between them. *"Just don't go there of all places. I love you too much."*
+Eugene named the two cities within reach, [[Kharavel]] of the mirrors north in the mountains and [[Ilyara]] in bloom east in the forest, and asked one thing of his son: do not go to [[Varkesh]], the Weeping City, the goblin capital northeast between them. *"Just don't go there of all places. I love you too much."*
 
 A crow flew into the bar, cawed once, and flew out. Throkk chased it until it turned south and lost him.
 
