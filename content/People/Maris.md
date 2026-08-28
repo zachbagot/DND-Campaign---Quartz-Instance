@@ -5,9 +5,9 @@ tags: [npc]
 ---
 ![[Maris.png]]
 
-An old woman the party saw sitting in the Rusty Tankard in [[Briarwood]], in [[Session 01 - The Burning of Briarwood]], and never spoke to.
+A middle aged woman the party saw sitting in the Rusty Tankard in [[Briarwood]], in [[Session 01 - The Burning of Briarwood]], and never spoke to.
 
-Long grey hair and striking violet eyes. She was clearly beautiful once and just as clearly has not had an easy time since.
+Past her prime and still handsome with it. Long hair going grey and striking violet eyes. She was clearly beautiful once and just as clearly has not had an easy time since.
 
 She has a cat called Tobby, who is very attached to her.
 

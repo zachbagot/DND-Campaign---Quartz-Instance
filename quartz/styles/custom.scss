@@ -52,3 +52,64 @@ article {
     a.internal, a.external { text-decoration: none; }
   }
 }
+
+// Character portraits, and the line length they fixed.
+//
+// Every People and The Party page now opens with a portrait. Rendered at full
+// column width it pushed the prose most of a screen down, so the picture and
+// the writing could never be read at the same time, which was the complaint.
+//
+// It also exposed a problem that was already there. The centre column runs
+// about 800px, which at this type size is roughly 100 characters per line.
+// WCAG 1.4.8 caps line length at 80, and the readability research puts the
+// comfortable band at 50 to 75 with 66 as the ideal: past that the eye
+// struggles to find where the next line starts, and readers disengage.
+//
+// Floating the portrait to the right at 320px solves both in one move. The
+// picture sits beside the opening paragraphs, and the text wrapping against it
+// measures around 57 characters, inside the optimal band. This is the same
+// reason an encyclopaedia puts its infobox top right rather than full bleed.
+//
+// Below 1000px the float is dropped and the portrait goes back to full width,
+// because a 320px column against a narrow viewport would squeeze the text
+// under 30 characters and be worse than stacking.
+
+article .markdown-rendered > p:first-child:has(> img) {
+  float: right;
+  width: min(320px, 42%);
+  margin: 0.2rem 0 1.1rem 1.75rem;
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+}
+
+// Headings start a new subject, so they should not begin halfway down the side
+// of a picture. Clearing them keeps each section starting on a clean full-width
+// line once the portrait has been passed.
+article .markdown-rendered > h2,
+article .markdown-rendered > h3 {
+  clear: right;
+}
+
+@media (max-width: 1000px) {
+  article .markdown-rendered > p:first-child:has(> img) {
+    float: none;
+    width: 100%;
+    margin: 0 0 1.25rem 0;
+  }
+}
+
+// Hide the properties table.
+//
+// Every page carries a single frontmatter tag, so the block spends a header,
+// a table and a row to tell the reader "npc" on a page that is plainly about a
+// person. It is noise above the fold on exactly the pages that now want their
+// space for the portrait. The tags still exist in the frontmatter and the tag
+// index pages still work, they are just not printed on the article.
+.note-properties {
+  display: none;
+}
