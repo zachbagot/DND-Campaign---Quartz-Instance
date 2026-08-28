@@ -1,6 +1,9 @@
 ---
 type: place
 tags: [place]
+aliases:
+  - Places/The Dream Gardener
+  - The Dream Gardener
 ---
 A shop in [[Ilyara]] run by an old wood gnome, visited in [[Session 07 - The Druid's Ruins]].
 

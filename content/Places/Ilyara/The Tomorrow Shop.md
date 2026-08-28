@@ -1,6 +1,9 @@
 ---
 type: place
 tags: [place]
+aliases:
+  - Places/The Tomorrow Shop
+  - The Tomorrow Shop
 ---
 A shop in a tree in [[Ilyara]]'s market district, run until recently by the goblin [[Tallow]]. Visited in [[Session 07 - The Druid's Ruins]].
 
