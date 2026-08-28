@@ -1,6 +1,8 @@
 ---
 type: place
 tags: [place]
+aliases:
+  - Ilyara
 ---
 The city in bloom, deep in the ancient forest east of the desert. The party reached it in [[Session 07 - The Druid's Ruins]].
 

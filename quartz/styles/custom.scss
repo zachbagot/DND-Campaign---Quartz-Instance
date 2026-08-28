@@ -113,3 +113,41 @@ article .markdown-rendered > h3 {
 .note-properties {
   display: none;
 }
+
+// Explorer section order.
+//
+// The explorer sorts folders alphabetically, which put Items first and The
+// Party last: exactly backwards for how the wiki is actually read. Zach's
+// order runs from the people at the table outward to reference material.
+//
+// The explorer tree is built client side from a template, so there is no
+// server-rendered markup to reorder and CSS cannot match on folder names. What
+// it can match on is `data-folderpath`, which the script stamps on every folder
+// container. Targeting that keeps the order explicit and readable rather than
+// depending on alphabetical position, so adding a folder later cannot silently
+// shuffle everything.
+//
+// The plugin does expose a sortFn, but only through a TypeScript override that
+// would mean rebuilding the whole left-hand layout to swap one component. This
+// is the smaller blast radius.
+
+.explorer-ul {
+  display: flex;
+  flex-direction: column;
+
+  // Anything not named below sorts after the known folders but before the
+  // overflow sentinel, so a new folder appears rather than vanishing.
+  > li {
+    order: 50;
+  }
+
+  > li:has(> [data-folderpath="the-party/index"]) { order: 1; }
+  > li:has(> [data-folderpath="sessions/index"])  { order: 2; }
+  > li:has(> [data-folderpath="places/index"])    { order: 3; }
+  > li:has(> [data-folderpath="people/index"])    { order: 4; }
+  > li:has(> [data-folderpath="lore/index"])      { order: 5; }
+  > li:has(> [data-folderpath="items/index"])     { order: 6; }
+
+  // The overflow sentinel the explorer uses to measure scrolling must stay last.
+  > li.overflow-end { order: 99; }
+}
