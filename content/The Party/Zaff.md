@@ -26,9 +26,6 @@ At Seedfall he became a bird, called a second bird, and flew a net between them 
 
 When [[Yagra Emberveil]] saw his brand appear she said *"The sky sent us a gardener. Good. The sky owes us."*
 
-
-He wears the [[Ring of the Blooming Vine]], taken at Blood Gulch Ridge.
-
 ## Brand
 
 **The Seed in the Ash.** A seed cracking open, its first root descending into a bed of ash. The first green thing after the fire passes. See [[The Five Brands]].

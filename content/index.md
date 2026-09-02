@@ -58,6 +58,7 @@ Things the party knows about and has not resolved.
 - A tall redheaded mage was in the ruins of Briarwood that day and teleported away.
 - [[Polly]] drove [[Skarnick]]'s heart into a cave wall and the whole cave shuddered.
 - The **BB coin** was planted on [[Zaff]] by a child before the party had ever heard of the guild.
+- [[Junebug]] has walked into the party's camp twice, on the road to [[Aquitaine]] and again after Blood Gulch Ridge, with a sea crossing between the two, and left both times as abruptly as she arrived.
 - [[The Water Spirit's Riddle]] has never been decoded.
 - The first of the [[Death Rattles]] has not come true yet.
 - [[Yagra Emberveil]] said the fire **had been expecting them** and never said what for.
