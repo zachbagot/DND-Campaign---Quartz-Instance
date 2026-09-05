@@ -14,11 +14,11 @@ Named to the party by [[Wix]] and met in [[Session 08 - The Two Thrones]].
 
 | Seat | Who holds it | What it carries |
 |---|---|---|
-| The Root | [[Maelis]], a treant of some five hundred years | Memory and tradition. She opens trials |
+| The Root | [[Maelis]], an elder forest treant of some five hundred years | Truth, history and the city's memory. She opens trials |
 | The Bloom | [[Lethiel]], a dryad of six hundred | Growth, healing, and the children |
 | The Thorn | [[Brindle]], a satyr | Defence, justice and punishment |
 | The Wing | [[Pipri]], a sprite | Secrets and information |
-| The Seed | [[Seln]], a young sorcerer | The city's future, and part of its guard |
+| The Seed | [[Seln]], a young forest gnome sorcerer | Power, magical growth, the city's future, and part of its guard |
 
 ## How Ilyara tries someone
 

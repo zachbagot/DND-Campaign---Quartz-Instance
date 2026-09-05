@@ -4,7 +4,7 @@ tags: [npc]
 ---
 The Seed, and the reason [[Polly]] was caught.
 
-A sorcerer, notably young for a seat on [[The Council of Boroughs]], who also heads up part of [[Ilyara]]'s guard. His concern is the future of the city, that magic keeps growing there, and that it stays under control.
+A forest gnome sorcerer, notably young for a seat on [[The Council of Boroughs]], who also heads up part of [[Ilyara]]'s guard. He is the only gnome on the bench, which he mentioned to [[Polly]] himself: *"I am a fellow gnome."* His concern is the future of the city, that magic keeps growing there, and that it stays under control.
 
 In [[Session 08 - The Two Thrones]] he sealed [[The Tomorrow Shop]] under a private sanctum that nothing could cross in either direction, physical or psychic, and then had his guards walk in throwing sacks of flour to find an invisible man. When [[Polly]] opened a psychic whisper to taunt him instead of running, Seln was unbothered.
 
