@@ -192,7 +192,5 @@ Zaff put a hand on his shoulder as he went.
 
 In a clearing in the middle of a forest that has stopped screaming, in front of fifty goblins and the man who burned [[Zaff]]'s village. Zaff is bound to the gnome throne with plant matter inside him and a god's title on him. [[Prince Krixen Ironfang]] is free and carries one too. So does [[St. Joseph]], who never asked. [[Polly]] carries a mark from [[Sein]] that nobody has explained and a voice in his head that will not go away. [[Liss]] travels with them now. All of them are hurt, and the exhaustion has stopped climbing but has not lifted.
 
-Nobody has asked the prince who killed [[Skarnick]].
-
 ---
 *Previous: [[Session 07 - The Druid's Ruins]]*

@@ -13,5 +13,3 @@ He had walked into the chair on his own feet, because his people were dying in t
 He knew more about what the seats want than anyone in [[Ilyara]] did. Asked what caused all this, he said the ancient contract was broken, and that goblin lore reads that break as a goblin or a gnome being desecrated.
 
 When [[Zaff]] took the facing throne, a god spoke over the forest in a boom and a blast of light that lit the whole forest, and named Krixen **prophet of the metals**. He was let go and stood up for the first time in three days, very weak, and his harem swarmed him.
-
-Nobody has told him who killed [[Skarnick]].
