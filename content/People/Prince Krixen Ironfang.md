@@ -4,7 +4,7 @@ tags: [npc]
 ---
 A prince of [[Varkesh]], and the first goblin royal the party has met who was not already dead.
 
-The party found him in [[Session 08 - The Two Thrones]] at the centre of a clearing deep in the forest north of [[Ilyara]], sitting a carved wooden throne and **entombed in vines up to his forehead**. He had been in that chair three days. His crown sat awkwardly on top of the growth, a woman was feeding him porridge a spoonful at a time, fifty goblins were camped around him with drums and torches, and several of the women were weeping.
+The party found him in [[Session 08 - The Two Thrones]] at the centre of a clearing deep in the forest north of [[Ilyara]], sitting a carved wooden throne and **entombed in vines up to his forehead**. He had been in that chair three days. His crown sat awkwardly on top of the growth and vines were pressed against his face and his arms. Fifty goblins were camped around him with torches and drummers keeping up music, and a **harem of women** attended him, one feeding him porridge a spoonful at a time while others wept. They were mourning him, because to them he was already dead.
 
 He had walked into the chair on his own feet, because his people were dying in the dark.
 
@@ -12,6 +12,6 @@ He had walked into the chair on his own feet, because his people were dying in t
 
 He knew more about what the seats want than anyone in [[Ilyara]] did. Asked what caused all this, he said the ancient contract was broken, and that goblin lore reads that break as a goblin or a gnome being desecrated.
 
-When [[Zaff]] took the facing throne, a god spoke over the forest and named Krixen **prophet of the metals**. He stood up for the first time in three days.
+When [[Zaff]] took the facing throne, a god spoke over the forest in a boom and a blast of light that lit the whole forest, and named Krixen **prophet of the metals**. He was let go and stood up for the first time in three days, very weak, and his harem swarmed him.
 
 Nobody has told him who killed [[Skarnick]].

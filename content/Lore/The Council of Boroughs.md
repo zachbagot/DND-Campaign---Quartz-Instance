@@ -18,7 +18,7 @@ Named to the party by [[Wix]] and met in [[Session 08 - The Two Thrones]].
 | The Bloom | [[Lethiel]], a dryad of six hundred | Growth, healing, and the children |
 | The Thorn | [[Brindle]], a satyr | Defence, justice and punishment |
 | The Wing | [[Pipri]], a sprite | Secrets and information |
-| The Seed | [[Seln]], a young forest gnome sorcerer | Power, magical growth, the city's future, and part of its guard |
+| The Seed | [[Sein]], a young forest gnome sorcerer | Power, magical growth, the city's future, and part of its guard |
 
 ## How Ilyara tries someone
 

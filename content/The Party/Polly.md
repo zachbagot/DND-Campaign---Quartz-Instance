@@ -30,13 +30,13 @@ At [[The Tomorrow Shop]] he left one of his toys rigged to explode, then moved i
 
 ## The trial
 
-Thirty seconds after opening [[Tallow]] in [[Session 07 - The Druid's Ruins]], the city came for him. [[Seln]] sealed [[The Tomorrow Shop]] under a barrier nothing could cross and sent guards in throwing sacks of flour to find an invisible man. Polly went out a window clean, then opened a psychic whisper into the councillor's head to argue about the shop's morals, which is how he ended up in dimensional shackles.
+Thirty seconds after opening [[Tallow]] in [[Session 07 - The Druid's Ruins]], the city came for him. [[Sein]] sealed [[The Tomorrow Shop]] under a barrier nothing could cross and sent guards in throwing sacks of flour to find an invisible man. Polly went out a window clean, then opened a psychic whisper into the councillor's head to argue about the shop's morals, which is how he ended up in dimensional shackles.
 
 He was charged with four murders, one attempted murder, and burning a hole in the canopy, and he had done exactly one of those things.
 
-His defence, in [[Session 08 - The Two Thrones]], was mostly other people. [[Throkk]] invented a philanthropist on the stand. [[St. Joseph]] testified that Polly abolished child labour in their town by becoming its designated chimney sweeper, **which is now simply true**, whatever Polly says about never having been to church. [[Liss]] walked in off the street and placed him a week's march away on the dates in question. And Polly himself carved a wooden dragon with a moving tail in front of the whole amphitheatre and won [[Seln]] over with it.
+His defence, in [[Session 08 - The Two Thrones]], was mostly other people. [[Throkk]] invented a philanthropist on the stand. [[St. Joseph]] testified that Polly abolished child labour in their town by becoming its designated chimney sweeper, **which is now simply true**, whatever Polly says about never having been to church. [[Liss]] walked in off the street and placed him a week's march away on the dates in question. And Polly himself carved a wooden dragon with a moving tail in front of the whole amphitheatre and won [[Sein]] over with it.
 
-He was not acquitted and not condemned. [[Maelis]] sent the party north to find out what is wrong with the forest, and [[Seln]] pressed a shining mark into his chest on the way out. **Nobody has said what it does.**
+He was not acquitted and not condemned. [[Maelis]] sent the party north to find out what is wrong with the forest, and [[Sein]] pressed a shining mark into his chest on the way out. **It is a brand, and it is a leash:** if he runs instead of settling the forest, Sein kills him. The shackles came off because the brand replaced them.
 
 [[Brindle]] handed [[Tallow]] a sword and Polly was put on his knees in front of him. Tallow dropped it.
 

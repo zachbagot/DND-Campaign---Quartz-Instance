@@ -11,13 +11,13 @@ tags: [session]
 
 ## The flour
 
-[[Polly]] never left [[The Tomorrow Shop]]. His cloak keeps him invisible even after he strikes from the shadows, so when the guards came they came blind, and they came prepared: [[Seln]] of the Council sealed the shop under a private sanctum that nothing physical or psychic could cross, then sent men in throwing **sacks of flour** through the air to find the shape of a man who was not there.
+[[Polly]] never left [[The Tomorrow Shop]]. His cloak keeps him invisible even after he strikes from the shadows, so when the guards came they came blind, and they came prepared: [[Sein]] of the Council sealed the shop under a private sanctum that nothing physical or psychic could cross, then sent men in throwing **sacks of flour** through the air to find the shape of a man who was not there.
 
-Polly went out a window on three clean rolls and opened a psychic whisper straight into Seln's head to tell him the shop was a bad place and he would not want it in his town.
+Polly went out a window on three clean rolls and opened a psychic whisper straight into Sein's head to tell him the shop was a bad place and he would not want it in his town.
 
 > *"I'm assuming you're the one who just assaulted our shopkeeper. It is not up to you to decide if someone is in our city or not, let alone harm them and mutilate them like this. We are going to find you and you will be arrested and tried for your actions."*
 
-Polly kept talking. Seln put dimensional shackles on him. [[Tallow]] was bleeding out in the street and a cleric got to him in time, and the first thing Tallow said when he could speak was *that's the guy.*
+Polly kept talking. Sein put dimensional shackles on him. [[Tallow]] was bleeding out in the street and a cleric got to him in time, and the first thing Tallow said when he could speak was *that's the guy.*
 
 A bell rang across [[Ilyara]], and the whole city turned toward it and said the same word. *A trial.* One of them added: *I love a good execution.*
 
@@ -53,7 +53,7 @@ The charges were four murders, one attempted murder, and damaging the canopy wit
 
 > *"Polly is an eccentric man, I'll say that. He's known to touch a few asses. You know, every day like it could be his last. He takes his time to help the children. He sponsors multiple orphanages. He's a proficient toy maker, well known throughout the land."*
 
-Asked to prove it, Polly produced a carved wooden dragon with a tail that moves. It was the best thing anyone in the amphitheatre had ever seen. [[Seln]] was won over on the spot.
+Asked to prove it, Polly produced a carved wooden dragon with a tail that moves. It was the best thing anyone in the amphitheatre had ever seen. [[Sein]] was won over on the spot.
 
 Then [[St. Joseph]] was called, and a child tugged his cloak and asked whether he was religious or a mage.
 
@@ -99,7 +99,7 @@ He looked Polly in the eyes. He dropped the sword. He walked out.
 
 Nobody explained it, and nobody has seen him since.
 
-[[Seln]] pressed a mark into Polly's chest, something like a tattoo that catches the light through an open shirt, and nobody said what it does. Then the shackles came off and the city sent them north.
+[[Sein]] pressed a mark into Polly's chest, something like a tattoo, visible as a glimmer through an open shirt. It is not decoration and it is not a mystery: **it is a brand, and it means Polly cannot run.** He goes north and settles what is wrong with the forest, or Sein kills him. The shackles came off because the brand replaced them.
 
 ## The voice
 
@@ -125,9 +125,11 @@ And then the forest went quiet, and there was firelight ahead.
 
 ## The two thrones
 
-Fifty goblins in a clearing. Torches, drums, and women weeping.
+Fifty goblins in a clearing, and it is not a camp so much as a vigil.
 
-At the centre, on a carved throne, sat a young goblin in a crown, **entombed in vines to the forehead**, being fed spoonfuls of porridge. He had been in that chair for three days and he had walked into it on his own feet.
+Torches. Drummers at the back keeping up music. An encampment thrown together around one chair, and around the chair a **harem of women**, some of them openly crying. At the centre of them, on a carved throne, a young goblin in a crown, **entombed in vines to the forehead**, vines pressed against his face and his arms, the crown sitting awkwardly on top of the growth. One of the women is feeding him porridge a spoonful at a time.
+
+He had been in that chair for three days, and he had walked into it on his own feet. They are mourning him because to them he is already dead.
 
 > *"It needs two. It always needed two. I sat because my people were dying in the dark, but the wood screams for the other half. If you run, little one, our children pay for our cowardice. Please sit with me and let the bleeding stop."*
 
@@ -143,7 +145,9 @@ They wrapped him, then burrowed into him, and his blood ran up into the green un
 
 ## The one true god
 
-Then a sound went across the sky like an explosion, and shook the trees, and was heard in [[Ilyara]] and in [[Varkesh]] both.
+Then the sky broke open.
+
+A great boom went across it like an explosion, sound waves shaking the trees themselves, **and with it a vast blast of light that lit the whole forest at once.** It was heard in [[Ilyara]] and in [[Varkesh]] both, and in Ilyara they saw it too, the forest to their north going white for a moment under a canopy that had been swallowing the full moon all night.
 
 > *"My child, you have willingly sacrificed yourself for the nature. I have watched you for your entire life. And time and time again you have proven yourself to be one with this earth. And so I call upon you, Zaff, to become the prophet of the earth."*
 >
@@ -159,7 +163,7 @@ Eight sessions. Nobody at the table had noticed, and it was true.
 
 [[St. Joseph]] said *I don't accept false deities*, and was told, patiently, that this was not a false deity, and then accepted. [[Zaff]] accepted too, and knew for certain the voice believed every word it said.
 
-Fifty goblins watched it happen. [[Prince Krixen Ironfang]] stood up for the first time in three days.
+Fifty goblins watched it happen. [[Prince Krixen Ironfang]] was let go, and stood up for the first time in three days, very weak. The harem that had been weeping over him swarmed him, hugging and kissing him.
 
 ## Xeraf
 
@@ -186,7 +190,7 @@ Zaff put a hand on his shoulder as he went.
 
 ## Where they stand
 
-In a clearing in the middle of a forest that has stopped screaming, in front of fifty goblins and the man who burned [[Zaff]]'s village. Zaff is bound to the gnome throne with plant matter inside him and a god's title on him. [[Prince Krixen Ironfang]] is free and carries one too. So does [[St. Joseph]], who never asked. [[Polly]] carries a mark from [[Seln]] that nobody has explained and a voice in his head that will not go away. [[Liss]] travels with them now. All of them are hurt, and the exhaustion has stopped climbing but has not lifted.
+In a clearing in the middle of a forest that has stopped screaming, in front of fifty goblins and the man who burned [[Zaff]]'s village. Zaff is bound to the gnome throne with plant matter inside him and a god's title on him. [[Prince Krixen Ironfang]] is free and carries one too. So does [[St. Joseph]], who never asked. [[Polly]] carries a mark from [[Sein]] that nobody has explained and a voice in his head that will not go away. [[Liss]] travels with them now. All of them are hurt, and the exhaustion has stopped climbing but has not lifted.
 
 Nobody has asked the prince who killed [[Skarnick]].
 
