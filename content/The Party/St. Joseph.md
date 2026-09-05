@@ -22,6 +22,20 @@ In [[Session 07 - The Druid's Ruins]] he announced the party's arrival at the sh
 
 He carries [[Blessed Dawnwater]], taken at Blood Gulch Ridge.
 
+## Prophet of the air and the sound
+
+In [[Session 08 - The Two Thrones]] a child in the gallery tugged his cloak and asked whether he was religious or a mage, and the answer he gave rewrote [[Polly]]'s history on the spot: tithes every Sunday, and child labour abolished in their town because Polly took the chimneys himself. It is true now.
+
+Outside the amphitheatre another boy asked him to say something nice to make him stronger. He said a Hail Mary over him and **the blessing landed on the whole party** for the next hour.
+
+In the forest he summoned the archangel Michael against two wood rot trolls, and levitated out of a floor of wooden spikes on two natural twenties. When [[Zaff]] walked glowing into the goblins' clearing, St. Joseph snuffed every torch in the place with a word so that the druid was the only thing left to look at.
+
+Then a god spoke over the forest and named him **prophet of the air and the sound**, for a reason nobody at the table had noticed and which turned out to be exactly true:
+
+> *"You have surprised me more than all. For time and time again, you could attack this world's creatures, but not once have you struck one down in all of your trials."*
+
+Eight sessions. He said *"I don't accept false deities"*, was told this was not one, and accepted.
+
 ## Brand
 
 **The Hearth With Two Shadows.** A hearthfire casting two shadows in opposite directions. A priest carries his god with him, so he never stands anywhere alone, and two lights compete to define him. See [[The Five Brands]].

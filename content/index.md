@@ -5,7 +5,7 @@ title: The Campaign
 
 A living record of the campaign, kept for the people at the table.
 
-Seven sessions played. The party is inside [[Ilyara]], the city in bloom, holding two Seedfall seeds, an unpaid flaming sword, and the keys to a shop whose owner they drove out of town.
+Eight sessions played. The party is in a clearing deep in the forest north of [[Ilyara]], in front of fifty goblins, with three prophets among them and a god's voice still ringing over the trees.
 
 ## The story so far
 
@@ -16,6 +16,7 @@ Seven sessions played. The party is inside [[Ilyara]], the city in bloom, holdin
 - **[[Session 05 - The Caravan]]**. A week walking beside a forced march, a burglary, three pages of prophecy, and a battle that starts and does not finish.
 - **[[Session 06 - The Battle of Blood Gulch Ridge]]**. The battle ends, a captain is traded for a mage, and all five are branded at a fire older than the world.
 - **[[Session 07 - The Druid's Ruins]]**. A magical map, a father's one warning ignored, [[Zaff]]'s ruined home, and a shop where everything is free until tomorrow.
+- **[[Session 08 - The Two Thrones]]**. [[Polly]] on trial for four murders he did not commit, a blade nobody would use, and two carved chairs in the dark that needed filling.
 
 ## The party
 
@@ -58,6 +59,7 @@ Things the party knows about and has not resolved.
 - A tall redheaded mage was in the ruins of Briarwood that day and teleported away.
 - [[Polly]] drove [[Skarnick]]'s heart into a cave wall and the whole cave shuddered.
 - The **BB coin** was planted on [[Zaff]] by a child before the party had ever heard of the guild.
+- [[Junebug]] has walked into the party's camp twice, on the road to [[Aquitaine]] and again after Blood Gulch Ridge, with a sea crossing between the two, and left both times as abruptly as she arrived.
 - [[The Water Spirit's Riddle]] has never been decoded.
 - The first of the [[Death Rattles]] has not come true yet.
 - [[Yagra Emberveil]] said the fire **had been expecting them** and never said what for.

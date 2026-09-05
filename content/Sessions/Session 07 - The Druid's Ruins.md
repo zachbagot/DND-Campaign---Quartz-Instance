@@ -37,9 +37,9 @@ Throkk summed up the expedition: *"So. Evil, traumatic backstory, traumatic back
 
 Days of desert, then a forest ancient and grown shut, vines like walls. [[Throkk]] spent the first day carving a tunnel the rest walked through. Skeletons hang from the trees there. [[Enya]]'s magic put them at twenty to twenty-five years dead, old enough to belong to the great goblin wars.
 
-Something was watching them. So [[Throkk]] made himself impossible to look away from, pulling his axe and going through the trees in a screaming whirlwind, chopping and throwing them, while [[Polly]] went the long way around behind whatever was out there. It worked. Polly came up on two pixies watching the show: [[Aster]] and his wife [[Sylvia]], scouts of [[The Council of Boroughs]]. [[Varkesh]] was peaceful for years, and in the last few months people are disappearing, the woods are more alive than ever, and the old magic is coming back. Walk in and the best outcome is prison.
+Something was watching them. So [[Throkk]] made himself impossible to look away from, pulling his axe and going through the trees in a screaming whirlwind, chopping and throwing them, while [[Polly]] went the long way around behind whatever was out there. It worked. Polly came up on two sprites watching the show: [[Aster]] and his wife [[Sylvia]], scouts of [[The Council of Boroughs]]. [[Varkesh]] was peaceful for years, and in the last few months people are disappearing, the woods are more alive than ever, and the old magic is coming back. Walk in and the best outcome is prison.
 
-The party changed course for [[Ilyara]]. [[Sylvia]] ran the pixie dust flight: *"We're gonna be your flight companions tonight! Everyone grab each other's hands, we're gonna make a chain!"* Mid-flight, [[Polly]] let go of the chain to take a hit off his pipe. [[Aster]] dove after him, Sylvia lost the rest, and the party came down beside a ruined town.
+The party changed course for [[Ilyara]]. [[Sylvia]] ran the sprite dust flight: *"We're gonna be your flight companions tonight! Everyone grab each other's hands, we're gonna make a chain!"* Mid-flight, [[Polly]] let go of the chain to take a hit off his pipe. [[Aster]] dove after him, Sylvia lost the rest, and the party came down beside a ruined town.
 
 ## Rootfield
 
@@ -55,7 +55,7 @@ In Zaff's childhood home a woman's skeleton sat clutching his family's ledger: p
 
 ## Ilyara
 
-The city in bloom is built around a flower half a mile wide, in trees that walk slow circles around it, so the city slowly rearranges itself. Gnomes, goblins, dryads, satyrs, pixies. Nothing over four feet tall, no king, and no orcs. [[Throkk]] walked the streets bent double. [[Zaff]] asked after [[Wix]], the pixie who raised him after Rootfield fell: she is [[Aster]]'s cousin and keeps to the eastern wandering grove. The party has not gone to her yet.
+The city in bloom is built around a flower half a mile wide, in trees that walk slow circles around it, so the city slowly rearranges itself. Gnomes, goblins, dryads, satyrs, sprites. Nothing over four feet tall, no king, and no orcs. [[Throkk]] walked the streets bent double. [[Zaff]] asked after [[Wix]], the sprite who raised him after Rootfield fell: she is [[Aster]]'s cousin and keeps to the eastern wandering grove. The party has not gone to her yet.
 
 At [[The Tomorrow Shop]], a polished goblin named [[Tallow]] made his pitch: everything is free until tomorrow. Payment comes later, in what? *"Anything. It's not for me to decide. The item, or fate."* [[Throkk]] took [[The Ember Sword]], as big as you want it to be and not metal at any size, all flame. *"You're the third person in a year to take an ember sword,"* said Tallow, who did not know what happened to the other two. Throkk made it as big as he could hold and dragged it behind him for the rest of the day.
 

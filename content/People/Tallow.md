@@ -10,4 +10,12 @@ His pitch: everything in the shop is free until tomorrow. Payment comes later, i
 
 When [[Polly]] cornered him in the dark shop and asked what it actually does, his answers were that it provides an immediate need to the people who need it, and, on the long term, *"Don't we all die?"* Polly opened him from shoulder to hip with the psychic blade for that. Tallow fled the city bleeding, protesting that the items were not his and that they cannot leave.
 
-He is out there somewhere, scarred, and the shop is locked behind him.
+## The blade he would not take
+
+He survived. A cleric reached him in the street, and half an hour later he was on the witness stand in bandages describing his own guts coming out in front of him.
+
+At the end of [[Session 08 - The Two Thrones]], with the verdict in and the gallery chanting *eye for an eye*, [[Brindle]] drew his own sword and put it in Tallow's hands. A guard kicked [[Polly]] down to his knees in front of him.
+
+Tallow looked him in the eyes, dropped the sword, and walked out of the amphitheatre.
+
+Nobody has explained why, Tallow least of all, and nobody has seen him since.

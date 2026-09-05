@@ -12,4 +12,6 @@ She asked every member of the party about their adventures and gave each of them
 
 [[Zaff]] gave her a slice of pie before she left.
 
+She came back in [[Session 06 - The Battle of Blood Gulch Ridge]], somewhere between the ridge and the marsh, in the days after the battle and before the party reached [[Ghol Uzhak]]. Same cloak, same stick, and a sea crossing away from where they met her. She went round all five of them one at a time and gave every one of them a new nickname, [[Enya]] included, who had not been with the party the first time. Then she left again.
+
 Nobody knows where she came from or where she went.

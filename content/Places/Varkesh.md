@@ -2,7 +2,7 @@
 type: place
 tags: [place]
 ---
-The goblin capital, northeast of the desert, between [[Kharavel]] and [[Ilyara]]. Called the Weeping City, and by the pixies the Hanging City. The party has not been there, and everyone they have asked has begged them not to go.
+The goblin capital, northeast of the desert, between [[Kharavel]] and [[Ilyara]]. Called the Weeping City, and by the sprites the Hanging City. The party has not been there, and everyone they have asked has begged them not to go.
 
 What they have been told, first by [[Eugene Johnson]] and then by [[Aster]] and [[Sylvia]]:
 

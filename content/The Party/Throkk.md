@@ -33,6 +33,14 @@ At [[Session 06 - The Battle of Blood Gulch Ridge]] he charged a disciplined squ
 
 He carries [[Ashveil's Oathbreaker]], taken at Blood Gulch Ridge.
 
+## Session eight
+
+He testified as a character witness at [[Polly]]'s trial in [[Session 08 - The Two Thrones]] and invented, under oath, a gnome who sponsors orphanages, feeds and trains children, and is a toy maker renowned throughout the land.
+
+When two braided cords of root came up out of the courtroom floor and went for [[Zaff]], Throkk caught them in his bare hands and held on, which is the only thing anybody did that night that [[Brindle]] respected.
+
+He carried the party through the forest. He ran straight through an exploding mushroom field rather than go around it, and finished the second wood rot troll at 12 hit points by dashing into its reach and attacking recklessly, on a natural twenty. He still has [[The Ember Sword]], which is still free until tomorrow.
+
 ## Brand
 
 **The Broken Tusk Made Whole.** A tusk snapped in two, the halves bound by a ring of flame. Among orcs a broken tusk is the mark of shame and exile. A mended one exists in no tradition anyone knows. See [[The Five Brands]].

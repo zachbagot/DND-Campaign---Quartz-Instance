@@ -14,13 +14,13 @@ The city's boroughs sit under the petals and take their colors from them. The bu
 
 ## Who lives there
 
-Forest gnomes, goblins, dryads, satyrs, pixies, at least one firbolg, and one centaur who barely fits between the trunks. The forest is so dense that only the small races have ever made a home in it, and nothing in the streets stands over four feet tall. There are no orcs. [[Throkk]] walks the city bent double.
+Forest gnomes, goblins, dryads, satyrs, sprites, at least one firbolg, and one centaur who barely fits between the trunks. The forest is so dense that only the small races have ever made a home in it, and nothing in the streets stands over four feet tall. There are no orcs. [[Throkk]] walks the city bent double.
 
-There is no king. [[The Council of Boroughs]] rules, and its pixie scouts patrol the forest approaches. Goblins live here as citizens, side by side with everyone else, which the party had not seen anywhere before.
+There is no king. [[The Council of Boroughs]] rules, and its sprite scouts patrol the forest approaches. Goblins live here as citizens, side by side with everyone else, which the party had not seen anywhere before.
 
 ## Seedfall
 
-Every few months the great flower blooms and cannons seeds into the sky, each one worth a fortune and each growing into a magical plant. The whole city launches itself after them, gnomes on tree-mounted slingshots, pixies swarming, paragliders, children chanting seed fall. At the Seedfall the party witnessed, eight seeds went up and the party caught two, a green and red one taken by [[Throkk]] in a flying leap, and a yellow one netted by [[Zaff]] and [[Polly]].
+Every few months the great flower blooms and cannons seeds into the sky, each one worth a fortune and each growing into a magical plant. The whole city launches itself after them, gnomes on tree-mounted slingshots, sprites swarming, paragliders, children chanting seed fall. At the Seedfall the party witnessed, eight seeds went up and the party caught two, a green and red one taken by [[Throkk]] in a flying leap, and a yellow one netted by [[Zaff]] and [[Polly]].
 
 ## Notable
 
