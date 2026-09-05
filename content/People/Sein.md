@@ -2,6 +2,7 @@
 type: npc
 tags: [npc]
 aliases:
+  - People/Seln
   - Seln
 ---
 The Seed, and the reason [[Polly]] was caught.
