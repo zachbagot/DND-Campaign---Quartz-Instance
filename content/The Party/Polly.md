@@ -28,9 +28,6 @@ He won [[Eugene Johnson]]'s drinking game, took [[Lord Forsythe]]'s silver at th
 
 At [[The Tomorrow Shop]] he left one of his toys rigged to explode, then moved it to the back room where no child could reach it, waited under his cloak for [[Tallow]], asked what the shop really does, and opened him from shoulder to hip for answering *"Don't we all die?"* Tallow fled the city and Polly locked the shop behind him. Maybe it's their shop now.
 
-
-He wears the [[Cloak of the Fading Step]], taken off an assassin at Blood Gulch Ridge.
-
 ## The trial
 
 Thirty seconds after opening [[Tallow]] in [[Session 07 - The Druid's Ruins]], the city came for him. [[Seln]] sealed [[The Tomorrow Shop]] under a barrier nothing could cross and sent guards in throwing sacks of flour to find an invisible man. Polly went out a window clean, then opened a psychic whisper into the councillor's head to argue about the shop's morals, which is how he ended up in dimensional shackles.
