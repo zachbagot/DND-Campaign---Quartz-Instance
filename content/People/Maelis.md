@@ -2,6 +2,7 @@
 type: npc
 tags: [npc]
 ---
+![[Maelis.png]]
 The Root, and the eldest voice on [[The Council of Boroughs]].
 
 Maelis is an elder forest treant. She is the enormous tree standing in the dead centre of [[Ilyara]]'s old amphitheatre, and she has been there roughly five hundred years, which means she is the keeper of the city's memory and the seat that carries the most tradition. When a trial is called she is the one who opens it, moving and speaking for the first time in front of whoever has been dragged in.

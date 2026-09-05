@@ -5,6 +5,7 @@ aliases:
   - People/Seln
   - Seln
 ---
+![[Sein.png]]
 The Seed, and the reason [[Polly]] was caught.
 
 A forest gnome sorcerer, notably young for a seat on [[The Council of Boroughs]], who also heads up part of [[Ilyara]]'s guard. He is the only gnome on the bench, which he mentioned to [[Polly]] himself: *"I am a fellow gnome."* His concern is the future of the city, that magic keeps growing there, and that it stays under control.

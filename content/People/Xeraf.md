@@ -2,6 +2,7 @@
 type: npc
 tags: [npc]
 ---
+![[Xeraf.png]]
 The goblin who destroyed [[Rootfield]].
 
 Thirteen or fourteen years ago Xeraf led the pack that killed a town of roughly a hundred people gathering food for the winter. They used the eight-year-old [[Zaff]] as bait to draw the defenders out, and when it was over they left him alive in the ruins without food or water. That is where his eye went, and it is the reason he came east at all.

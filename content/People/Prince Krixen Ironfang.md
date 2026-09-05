@@ -2,6 +2,7 @@
 type: npc
 tags: [npc]
 ---
+![[Prince Krixen Ironfang.png]]
 A prince of [[Varkesh]], and the first goblin royal the party has met who was not already dead.
 
 The party found him in [[Session 08 - The Two Thrones]] at the centre of a clearing deep in the forest north of [[Ilyara]], sitting a carved wooden throne and **entombed in vines up to his forehead**. He had been in that chair three days. His crown sat awkwardly on top of the growth and vines were pressed against his face and his arms. Fifty goblins were camped around him with torches and drummers keeping up music, and a **harem of women** attended him, one feeding him porridge a spoonful at a time while others wept. They were mourning him, because to them he was already dead.

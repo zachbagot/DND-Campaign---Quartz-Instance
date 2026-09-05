@@ -2,6 +2,7 @@
 type: npc
 tags: [npc]
 ---
+![[Lethiel.png]]
 The Bloom, and the strongest presence anyone in the party has stood next to.
 
 Lethiel is a dryad and a druid, six hundred years old, and she has slowed her own aging almost to a stop. She holds growth, healing, and the children of [[Ilyara]]. What the party could feel off her was not like any other creature they have met.

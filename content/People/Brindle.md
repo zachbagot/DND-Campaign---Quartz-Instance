@@ -2,6 +2,7 @@
 type: npc
 tags: [npc]
 ---
+![[Brindle.png]]
 The Thorn. He holds defence, justice and punishment for [[Ilyara]], and he prosecuted [[Polly]] in [[Session 08 - The Two Thrones]].
 
 A satyr, broad and scarred, with enormous curled horns. His rangers have been dying in the forest for months and nobody has answered for it, so when a stranger opened a shopkeeper in the market in the middle of the day he wanted a death, and the gallery chanted with him.
