@@ -18,7 +18,7 @@ Legend says the old tribes, the goblins and the old races, once gave their great
 The party chose it as their destination in [[Session 07 - The Druid's Ruins]] and made it as far as [[Ilyara]], where they stopped to regroup.
 
 ![[Varkesh woods.png]]
-*The woods outside Varkesh.*
+*The Red Boughs, the woods outside Varkesh.*
 
 ![[Varkesh metal district.png]]
 *The metal district.*
