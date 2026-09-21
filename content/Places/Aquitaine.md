@@ -2,8 +2,9 @@
 type: place
 tags: [place]
 ---
-
 A large city built in concentric rings, ruled by [[Duke Thalorien Tidelorn]] with his son [[Prince Caelen Tidelorn]] as heir. Sometimes called Aqualune.
+
+![[Aquitaine.png]]
 
 It is a long way west of [[Briarwood]], and the party spent most of [[Session 02 - The Road to Aquitaine]] getting there.
 

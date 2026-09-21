@@ -34,7 +34,7 @@ Thirty seconds after opening [[Tallow]] in [[Session 07 - The Druid's Ruins]], t
 
 He was charged with four murders, one attempted murder, and burning a hole in the canopy, and he had done exactly one of those things.
 
-His defence, in [[Session 08 - The Two Thrones]], was mostly other people. [[Throkk]] invented a philanthropist on the stand. [[St. Joseph]] testified that Polly abolished child labour in their town by becoming its designated chimney sweeper, **which is now simply true**, whatever Polly says about never having been to church. [[Liss]] walked in off the street and placed him a week's march away on the dates in question. And Polly himself carved a wooden dragon with a moving tail in front of the whole amphitheatre and won [[Sein]] over with it.
+His defence, in [[Session 08 - The Two Thrones]], was mostly other people. [[Zaff]] invented a philanthropist on the stand. [[St. Joseph]] testified that Polly abolished child labour in their town by becoming its designated chimney sweeper, **which is now simply true**, whatever Polly says about never having been to church. [[Liss]] walked in off the street and placed him a week's march away on the dates in question. And Polly himself carved a wooden dragon with a moving tail in front of the whole amphitheatre and won [[Sein]] over with it.
 
 He was not acquitted and not condemned. [[Maelis]] sent the party north to find out what is wrong with the forest, and [[Sein]] pressed a shining mark into his chest on the way out. **It is a brand, and it is a leash:** if he runs instead of settling the forest, Sein kills him. The shackles came off because the brand replaced them.
 

@@ -49,7 +49,7 @@ That is how justice works here. The accused does not argue that he did not do it
 
 The charges were four murders, one attempted murder, and damaging the canopy with a burning sword. Polly had done exactly one of those things.
 
-[[Tallow]] testified from under his bandages. Then [[Throkk]] took the stand as a character witness and invented a saint:
+[[Tallow]] testified from under his bandages. Then [[Zaff]] took the stand as a character witness and invented a saint:
 
 > *"Polly is an eccentric man, I'll say that. He's known to touch a few asses. You know, every day like it could be his last. He takes his time to help the children. He sponsors multiple orphanages. He's a proficient toy maker, well known throughout the land."*
 

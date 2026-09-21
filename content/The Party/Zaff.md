@@ -30,6 +30,8 @@ When [[Yagra Emberveil]] saw his brand appear she said *"The sky sent us a garde
 
 In [[Session 08 - The Two Thrones]] he finally met [[Wix]], who told him the thing he had built his whole revenge on was incomplete: **it wasn't just the goblins** at [[Rootfield]], and the only way to find out who else was there is to go to the goblins anyway.
 
+At [[Polly]]'s trial he took the stand as a character witness and invented, under oath, a gnome who sponsors orphanages, feeds and trains children, and is a toy maker renowned throughout the land. "He's known to touch a few asses" made it into the testimony too.
+
 Mid-trial, the roots of the amphitheatre floor braided themselves into two cords and went for him specifically while three of the five councillors watched and did nothing. He went to cast at them and **the vines felt what he intended and backed off before he finished.**
 
 Deep in the forest he walked into a clearing of fifty goblins in his starry form with the moonlight on him, and [[St. Joseph]] put out every torch in the place so he was the only thing left to see. Facing [[Prince Krixen Ironfang]], who had been sitting the other throne entombed in vines for three days, he sat down in the empty one **willingly**. The vines took him, burrowed in, and pulled his blood up into the green.

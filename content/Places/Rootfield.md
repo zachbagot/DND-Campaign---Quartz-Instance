@@ -4,6 +4,8 @@ tags: [place]
 ---
 A ruined farming village in the eastern forest, and [[Zaff]]'s birthplace. The party crash-landed beside it in [[Session 07 - The Druid's Ruins]] and he recognized where he was standing.
 
+![[Rootfield.png]]
+
 It was a poor village with no mages of its own. Goblins destroyed it when Zaff was a child, using him as bait to draw out the defenders, and killed everyone he knew. He was left alive.
 
 The ruins hold more than goblin work. [[Throkk]]'s search turned up blighted ground where nothing grows, fireball scorch marks, and human silhouettes burned onto walls where the blast caught them standing. Goblins do not cast fireballs. [[Enya]] read the residue and found a reluctance in the magic, as if whoever cast it did not want to.

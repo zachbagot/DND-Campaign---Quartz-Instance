@@ -4,6 +4,8 @@ brand: The Hearth With Two Shadows
 tags: [pc]
 player: Nick
 ---
+![[Saint Joseph.png]]
+
 Cleric. Also called Father Joseph. Acts first.
 
 In [[Session 01 - The Burning of Briarwood]] his advances were rejected by all three of [[Lyra Blackthorn]]'s crew, which is the origin of a hostility that later turned into an ambush on the road. He also levitated forty feet into the air during the fight.

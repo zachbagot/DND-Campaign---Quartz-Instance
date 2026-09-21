@@ -6,6 +6,8 @@ aliases:
 ---
 The city in bloom, deep in the ancient forest east of the desert. The party reached it in [[Session 07 - The Druid's Ruins]].
 
+![[Ilyara.png]]
+
 ## The flower
 
 Ilyara is built around a single flower over half a mile across, six petals, white and yellow and pink, each petal with its own colors. The center of the bloom alone is four hundred meters wide.
