@@ -2,6 +2,9 @@
 type: npc
 tags: [npc]
 ---
+![[Reddy Riz.png]]
+*The Rizzler in Ilyara, with his butter knife and Polly's caterpillar.*
+
 A goblin child from [[Prince Krixen Ironfang]]'s camp in the forest north of [[Ilyara]]. His friends call him **the Rizzler**.
 
 In [[Session 09 - It's in God's Hands]] he watched [[Zaff]] get named a prophet and could not stop staring at him afterward, grinning. His friend slipped the party a note, and then he introduced himself.
