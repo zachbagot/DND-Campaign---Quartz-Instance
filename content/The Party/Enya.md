@@ -29,6 +29,10 @@ She was not there. [[Session 08 - The Two Thrones]] happened without her, and th
 
 They missed her badly in the forest. Two wood rot trolls came close to killing three of them, and the consensus afterward was that Enya plus one more troll would have been a better fight than four of them without her.
 
+## Session nine
+
+She walked out of the brothel as the party came back into [[Ilyara]] in [[Session 09 - It's in God's Hands]]. *"I was obviously a customer. My gold is gone."* Her hand then turned up in [[Zaff]]'s pocket. She read a hollow turtle shell for St. Joseph, took in two hundred miles of maps in one frantic read, took the biggest bed in the inn and earned heroic inspiration for it, and studied [[Cassian Vane]]'s teleportation circle until she began to understand it. Cassian recognised her sceptre. At the gnome court she introduced herself: *"I'm Enya, and I'm here for fun."*
+
 ## Brand
 
 **The Star Held in a Fist.** A four-pointed star gripped tight, light leaking between the fingers. The fire marked the containment rather than the power. When it appeared, [[Yagra Emberveil]] looked away from the mark and directly into her eyes for an uncomfortably long moment, and then said *"Hold tight, little fire."* Nothing more. See [[The Five Brands]].

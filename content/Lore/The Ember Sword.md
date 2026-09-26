@@ -8,4 +8,8 @@ A sword taken by [[Throkk]] from [[The Tomorrow Shop]] in [[Session 07 - The Dru
 
 What is known about its history comes from [[Tallow]]: Throkk is the third person in a year to take an ember sword, and Tallow does not know what happened to the other two.
 
-Nothing has been paid for it yet.
+## The bill
+
+It came due the morning after [[Session 08 - The Two Thrones]], in [[Session 09 - It's in God's Hands]]. The sword takes payment from its wielder's life every time it lights. Throkk had lit it fourteen times and never used it to kill, and it took four points of his Constitution for a day, the energy draining visibly out of him and into the hilt until it burned bright again. Had he killed with it, it would have taken far more, and it might have taken him. Throkk still carries it.
+
+[[Maelis]] of [[The Council of Boroughs]] does not allow it lit in her presence, and says so with a root across the hand.

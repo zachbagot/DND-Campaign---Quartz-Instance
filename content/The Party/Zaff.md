@@ -46,6 +46,12 @@ Minutes later, [[Xeraf]] walked up to him: the goblin who burned [[Rootfield]], 
 
 Zaff caught his shoulder as he went: *"This will be the last time this is a peaceful attempt at communication."*
 
+## Session nine
+
+The vines left him feeling jacked, and he found he could pass what was running through him along: in [[Session 09 - It's in God's Hands]] he lifted the exhaustion off [[Throkk]] and [[Polly]] with his hands. A twist of luck that comes to him after every rest caught [[Enya]]'s hand in his pocket.
+
+He asked [[Prince Krixen Ironfang]] about a town ransacked some fifteen years ago, and learned [[Varkesh]] keeps a library of every conquest it has made. Then he said goodbye to [[Wix]], who wished he could grow past it. *"I'm not sure I'm ready for it quite yet."* At the gnome court he corrected the record that [[Ilyara]] is in ruins, and drew the line on St. Joseph's plan: *"We will not have any child warriors on my battlefield."*
+
 ## Brand
 
 **The Seed in the Ash.** A seed cracking open, its first root descending into a bed of ash. The first green thing after the fire passes. See [[The Five Brands]].

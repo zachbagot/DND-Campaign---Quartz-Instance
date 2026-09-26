@@ -18,4 +18,12 @@ At the end of [[Session 08 - The Two Thrones]], with the verdict in and the gall
 
 Tallow looked him in the eyes, dropped the sword, and walked out of the amphitheatre.
 
-Nobody has explained why, Tallow least of all, and nobody has seen him since.
+He walked out of the amphitheatre without a word, and reopened [[The Tomorrow Shop]] with a very large dwarf standing beside the counter.
+
+## Why
+
+In [[Session 09 - It's in God's Hands]] [[Throkk]] kicked in his door to ask why he had not been warned what the sword costs. *"Well, you didn't ask."* Then Throkk asked him why he dropped the sword at the trial.
+
+> *"Because my reputation of goodwill matters more to me than retribution."*
+
+He sold [[St. Joseph]] a hollow double turtle shell that a strange band of priests once swore was magic, for 500 gold.

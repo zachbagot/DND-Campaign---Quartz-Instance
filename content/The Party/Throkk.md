@@ -38,6 +38,14 @@ At [[Polly]]'s trial in [[Session 08 - The Two Thrones]], when two braided cords
 
 He carried the party through the forest. He ran straight through an exploding mushroom field rather than go around it, and finished the second wood rot troll at 12 hit points by dashing into its reach and attacking recklessly, on a natural twenty. He still has [[The Ember Sword]], which is still free until tomorrow.
 
+## Session nine
+
+In [[Session 09 - It's in God's Hands]] [[The Ember Sword]] sent its bill. Fourteen lightings and not one kill cost him four points of Constitution for a day, and he watched the life drain out of him into the hilt. He kicked in [[Tallow]]'s door over it, tripped mid-threat and bloodied his nose on the counter, and kept the sword anyway. He signed a seed partnership with [[Fennel Underleaf]] with a flat line, and bought a pogo stick that jumps a hundred feet. He raged and screamed at a crowd of children to stop them following St. Joseph through a teleportation circle, and four went anyway.
+
+At the gnome king's court:
+
+> *"I'm Throkk. I used to be a farmer, and now I'm a murderer."*
+
 ## Brand
 
 **The Broken Tusk Made Whole.** A tusk snapped in two, the halves bound by a ring of flame. Among orcs a broken tusk is the mark of shame and exile. A mended one exists in no tradition anyone knows. See [[The Five Brands]].

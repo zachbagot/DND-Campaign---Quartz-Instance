@@ -17,3 +17,11 @@ In [[Session 08 - The Two Thrones]] he sealed [[The Tomorrow Shop]] under a priv
 He is also, apparently, a soft touch for craftsmanship: the wooden dragon [[Polly]] carved on the witness stand won him over completely.
 
 At the end of the trial he pressed a mark into [[Polly]]'s chest, something like a tattoo that catches the light through an open shirt. **It is a brand, and its purpose is plain: Polly cannot run.** The council sent the party north to settle what is wrong with the forest, and the brand is what makes that an order rather than a request. If Polly runs, Sein kills him. It is also why the dimensional shackles came off, because they were no longer needed.
+
+## Released
+
+In [[Session 09 - It's in God's Hands]], with the forest quiet, Sein took Polly aside and thanked him.
+
+> *"There's moments in our lives where we look back and we realize that with just a few seconds of a different thought or different action, our lives would never be the same. And the moment when you spoke into my mind with your telepathy, I think that was one of the biggest impacts that this village has ever seen."*
+
+He tapped Polly's chest, and the brand was gone.

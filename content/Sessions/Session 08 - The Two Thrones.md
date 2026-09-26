@@ -97,7 +97,7 @@ A guard kicked [[Polly]]'s legs out so he was kneeling. Tallow came and stood ov
 
 He looked Polly in the eyes. He dropped the sword. He walked out.
 
-Nobody explained it, and nobody has seen him since.
+He did not say why.
 
 [[Sein]] pressed a mark into Polly's chest, something like a tattoo, visible as a glimmer through an open shirt. It is not decoration and it is not a mystery: **it is a brand, and it means Polly cannot run.** He goes north and settles what is wrong with the forest, or Sein kills him. The shackles came off because the brand replaced them.
 
@@ -190,7 +190,7 @@ Zaff put a hand on his shoulder as he went.
 
 ## Where they stand
 
-In a clearing in the middle of a forest that has stopped screaming, in front of fifty goblins and the man who burned [[Zaff]]'s village. Zaff is bound to the gnome throne with plant matter inside him and a god's title on him. [[Prince Krixen Ironfang]] is free and carries one too. So does [[St. Joseph]], who never asked. [[Polly]] carries a mark from [[Sein]] that nobody has explained and a voice in his head that will not go away. [[Liss]] travels with them now. All of them are hurt, and the exhaustion has stopped climbing but has not lifted.
+In a clearing in the middle of a forest that has stopped screaming, in front of fifty goblins and the man who burned [[Zaff]]'s village. Zaff is bound to the gnome throne with plant matter inside him and a god's title on him. [[Prince Krixen Ironfang]] is free and carries one too. So does [[St. Joseph]], who never asked. [[Polly]] carries a mark from [[Sein]] that keeps him from running and a voice in his head that will not go away. [[Liss]] travels with them now. All of them are hurt, and the exhaustion has stopped climbing but has not lifted.
 
 ---
-*Previous: [[Session 07 - The Druid's Ruins]]*
+*Previous: [[Session 07 - The Druid's Ruins]] · Next: [[Session 09 - It's in God's Hands]]*

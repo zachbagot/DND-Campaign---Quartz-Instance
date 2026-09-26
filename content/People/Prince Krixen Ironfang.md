@@ -14,3 +14,11 @@ He had walked into the chair on his own feet, because his people were dying in t
 He knew more about what the seats want than anyone in [[Ilyara]] did. Asked what caused all this, he said the ancient contract was broken, and that goblin lore reads that break as a goblin or a gnome being desecrated.
 
 When [[Zaff]] took the facing throne, a god spoke over the forest in a boom and a blast of light that lit the whole forest, and named Krixen **prophet of the metals**. He was let go and stood up for the first time in three days, very weak, and his harem swarmed him.
+
+## The coup
+
+He turned his back on [[St. Joseph]] in the clearing when St. Joseph shouted to ask why God had blessed him. The next midnight he was waiting under a hood at the [[Petal and Pitcher]] beside [[Cassian Vane]], in [[Session 09 - It's in God's Hands]].
+
+> *"Look, I sat there for three days. My father, my brothers, they could care less. I'm done with this and I need some help."*
+
+He is the third son and now the eldest. His father, the Sovereign of [[Varkesh]], throws his children away on a whim and lives to enrich himself, and Krixen means to take the throne from him and rule Varkesh for Varkesh. He has about fifty loyal men and connections in the city guard. He offered the party the armoury, and seats on his council as foreign dignitaries. He told [[Zaff]] Varkesh keeps a library of every conquest it has ever made.

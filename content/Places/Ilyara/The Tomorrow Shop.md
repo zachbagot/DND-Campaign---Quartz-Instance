@@ -19,4 +19,4 @@ The stock reads a strange mixture under arcana, some auras very good and some ve
 
 Tallow's parting fact about the sword: Throkk is the third person in a year to take one, and Tallow does not know what happened to the other two. "They always come back."
 
-The shop is currently locked. [[Polly]] opened Tallow from shoulder to hip and drove him out of the city, and the party holds the keys. Tallow's last words on the stock: the items are not his, and they cannot leave.
+[[Polly]] opened Tallow from shoulder to hip and drove him out of the city, and for a while the shop stood locked. By [[Session 09 - It's in God's Hands]] Tallow was back behind the counter in bandages with a very large dwarf beside him, and not everything is free: he sold [[St. Joseph]] a hollow double turtle shell for 500 gold, and there is a pile of scrolls, each with its own price.

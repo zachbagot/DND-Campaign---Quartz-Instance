@@ -22,4 +22,3 @@ Three sources, three factions, one garment. Whoever equipped that killer was buy
 
 And it fits [[Polly]] as though it were cut for a gnome.
 
-Nobody has explained who the assassin was sent for.

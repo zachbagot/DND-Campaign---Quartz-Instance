@@ -36,6 +36,14 @@ Then a god spoke over the forest and named him **prophet of the air and the soun
 
 Eight sessions. He said *"I don't accept false deities"*, was told this was not one, and accepted.
 
+## The disciples
+
+Being named a prophet lifted St. Joseph out of the fifth level of exhaustion on the spot. In [[Session 09 - It's in God's Hands]] he gathered the children who followed the party through [[Ilyara]] and told them God was asking them to reach their small hands into the pockets of the town. They brought back 350 gold. One little girl, [[Maria]], came back cut, and he healed her. He spent 500 gold on a hollow double turtle shell from [[The Tomorrow Shop]], selling his broom of flying to afford it. When the party tried to leave the children behind, four of them, led by [[Reddy Riz]], followed him to [[Kharavel]].
+
+At the gnome king's court he proposed them as a distraction for the siege, and as hostages.
+
+> *"God needs a distraction, and sometimes we have to use resources accordingly."*
+
 ## Brand
 
 **The Hearth With Two Shadows.** A hearthfire casting two shadows in opposite directions. A priest carries his god with him, so he never stands anywhere alone, and two lights compete to define him. See [[The Five Brands]].

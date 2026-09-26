@@ -17,6 +17,7 @@ Eight sessions played. The party is in a clearing deep in the forest north of [[
 - **[[Session 06 - The Battle of Blood Gulch Ridge]]**. The battle ends, a captain is traded for a mage, and all five are branded at a fire older than the world.
 - **[[Session 07 - The Druid's Ruins]]**. A magical map, a father's one warning ignored, [[Zaff]]'s ruined home, and a shop where everything is free until tomorrow.
 - **[[Session 08 - The Two Thrones]]**. [[Polly]] on trial for four murders he did not commit, a blade nobody would use, and two carved chairs in the dark that needed filling.
+- **[[Session 09 - It's in God's Hands]]**. The bills come due, a goblin prince hires the party to take his father's throne, and [[St. Joseph]] recruits a gang of child pickpockets who will not go home.
 
 ## The party
 

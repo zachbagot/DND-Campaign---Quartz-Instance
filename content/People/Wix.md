@@ -27,3 +27,9 @@ She also warned him about the forest, which she has lived beside for two centuri
 > *"Zaff, the woods are alive, more than ever. And I don't know what's caused it. But now is not the time to make a fire."*
 
 She named the five seats of [[The Council of Boroughs]] and marked where each of them lives on the party's map, minutes before the trial bells started ringing.
+
+## Goodbye
+
+[[Zaff]] came to say goodbye before the party left for [[Kharavel]] in [[Session 09 - It's in God's Hands]], and she poked his belly like he was still eight.
+
+> *"If I could have any wish, it's for you to be able to grow past this, like the trees of our forest, whose bark becomes new every year."*

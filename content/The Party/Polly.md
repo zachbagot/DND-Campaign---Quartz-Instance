@@ -50,6 +50,14 @@ It came back twice more that night, and it enjoys itself. He could not tell whet
 
 **It knows about Wallace.**
 
+## Session nine
+
+In [[Session 09 - It's in God's Hands]] [[Sein]] thanked Polly for the moment he spoke into Sein's mind, and lifted the brand. A beat later the other voice: *"There. He took his hand off your leash, and you thanked him for it. Mine was never on you, little spark. I don't need one. You'll come to me."* It spoke again at midnight, while [[Cassian Vane]] and [[Prince Krixen Ironfang]] made their pitch: *"They want your blade, but what else do they want?"*
+
+He went looking for someone who might understand it, and found [[Bracken]], a satyr warlock who pays his patron in love and lust. Outside the bar Polly held out his hand and thought very hard, and a small fart came out. Then the little wooden dragon on his belt began to move on its own. [[Enya]] read something in it older and deeper than magic, and told him less than she felt.
+
+In [[Kharavel]] his old friend [[Master Cobble Whistle-Gear|Tick]] asked after Wallace. *"Maybe we met a good one."*
+
 ## Brand
 
 **The Key of Smoke.** A skeleton key in curling smoke, its teeth dissolving at the edges. Not a mark of thievery. A mark of doors. See [[The Five Brands]].
