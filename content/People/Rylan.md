@@ -3,6 +3,7 @@ type: npc
 tags: [npc]
 ---
 ![[Rylan.png]]
+*Rylan on the canals of Aquitaine.*
 
 Older brother of [[Lyra Blackthorn]]. A brooding half-elf ranger in a dark cloak with a permanent five-o-clock shadow.
 

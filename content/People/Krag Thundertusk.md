@@ -3,6 +3,7 @@ type: npc
 tags: [npc]
 ---
 ![[Krag Thundertusk.png]]
+*Krag standing guard among the doors in Beef's shop.*
 
 Goliath, eight feet tall, lean rather than bulky. Ritual tattoos cover every inch of his grey skin. Completely hairless, with a surprisingly high-pitched voice.
 

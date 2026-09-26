@@ -4,6 +4,7 @@ location: Aquitaine
 tags: [npc]
 ---
 ![[Prince Caelen Tidelorn.png]]
+*Prince Caelen in the keep at Aquitaine.*
 
 Son of [[Duke Thalorien Tidelorn]] and heir to [[Aquitaine]]. **Human.** Sharp features, storm-blue eyes, and a cold calculating manner.
 

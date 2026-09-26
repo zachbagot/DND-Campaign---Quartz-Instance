@@ -3,6 +3,7 @@ type: npc
 tags: [npc]
 ---
 ![[Cassian Vane.png]]
+*Cassian Vane in his red cloak.*
 
 A tall, strikingly handsome human with a beautiful jawline and a smile he rarely puts away. A mage of the Mages Guild, and [[Prince Krixen Ironfang]]'s agent.
 

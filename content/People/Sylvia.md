@@ -3,6 +3,7 @@ type: npc
 tags: [npc]
 ---
 ![[Sylvia.png]]
+*Sylvia on the wing at the forest's edge.*
 
 A sprite scout of [[The Council of Boroughs]], pink-winged, married to [[Aster]]. She watched the party with him from the forest's edge in [[Session 07 - The Druid's Ruins]].
 

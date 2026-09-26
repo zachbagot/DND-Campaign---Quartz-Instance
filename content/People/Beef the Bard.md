@@ -4,6 +4,7 @@ faction: Aquitaine Thieves Guild
 tags: [npc]
 ---
 ![[Beef the Bard.png]]
+*Beef among the stacked doors of her shop in Aquitaine.*
 
 Tiefling woman. She runs the thieves guild in [[Aquitaine]], which in practice means she runs [[Aquitaine]]. The city has a Duke. It answers to Beef.
 

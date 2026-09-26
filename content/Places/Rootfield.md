@@ -5,6 +5,7 @@ tags: [place]
 A ruined farming village in the eastern forest, and [[Zaff]]'s birthplace. The party crash-landed beside it in [[Session 07 - The Druid's Ruins]] and he recognized where he was standing.
 
 ![[Rootfield.png]]
+*What is left of Rootfield.*
 
 It was a poor village with no mages of its own. Goblins destroyed it when Zaff was a child, using him as bait to draw out the defenders, and killed everyone he knew. He was left alive.
 

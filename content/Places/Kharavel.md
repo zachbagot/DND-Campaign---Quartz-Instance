@@ -7,6 +7,7 @@ aliases:
 The city of mirrors, north of the desert in the mountains. Named by [[Eugene Johnson]] in [[Session 07 - The Druid's Ruins]] as one of the two great cities within reach, the other being [[Ilyara]].
 
 ![[Kharavel.png]]
+*The city of mirrors, homes cut into the chasm walls all the way down.*
 
 The party arrived in [[Session 09 - It's in God's Hands]], teleported by [[Cassian Vane]], two weeks' walk covered in a moment. The air smells of graphite, sulphur and iron oil.
 

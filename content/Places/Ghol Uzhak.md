@@ -5,6 +5,7 @@ tags: [place]
 The old den. A pocket dimension reached through a lake in orc country, holding a village built around a single colossal tusk. No outsider had been brought inside in ten thousand years before [[Throkk]], [[Polly]], [[Zaff]], [[St. Joseph]] and [[Enya]] were brought in by [[Vorrak Stonebell]]. See [[Session 06 - The Battle of Blood Gulch Ridge]] for what happened there.
 
 ![[Ghol Uzhak.png]]
+*The great tusk rising through the valley, the lake overhead.*
 
 ## Getting in
 

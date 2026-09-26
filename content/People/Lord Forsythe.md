@@ -3,6 +3,7 @@ type: npc
 tags: [npc]
 ---
 ![[Lord Forsythe.png]]
+*Lord Forsythe behind the bar of his ale house on the lake shore.*
 
 A Scottish bartender who runs the ale house in the shanty town on the lake shore. Met in [[Session 07 - The Druid's Ruins]] when [[St. Joseph]]'s thaumaturgy blew his doors open and he came out shouting.
 

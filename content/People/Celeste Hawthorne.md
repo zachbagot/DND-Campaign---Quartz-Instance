@@ -4,6 +4,7 @@ location: Aquitaine
 tags: [npc]
 ---
 ![[Celeste Hawthorne.png]]
+*Celeste in the keep at Aquitaine, where she lives now.*
 
 Daughter of [[Mayor Aldric Hawthorne]] of [[Briarwood]], and the reason the party left home.
 

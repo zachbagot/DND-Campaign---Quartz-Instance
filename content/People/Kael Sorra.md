@@ -4,6 +4,7 @@ faction: Ridge Orcs
 tags: [npc]
 ---
 ![[Kael Sorra.png]]
+*Kael Sorra on the march with the caravan.*
 
 Orc scout and tracker, late twenties, five foot four. A childhood acquaintance of [[Throkk]].
 

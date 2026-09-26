@@ -4,6 +4,7 @@ tags: [npc]
 location: Aquitaine
 ---
 ![[Gritzzik.png]]
+*Gritzzik on the canals of Aquitaine.*
 
 A goblin in [[Aquitaine]] who sells his goods off a sheet spread on the ground in the market.
 

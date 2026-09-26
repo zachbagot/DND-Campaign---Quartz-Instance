@@ -3,6 +3,7 @@ type: npc
 tags: [npc]
 ---
 ![[Aster.png]]
+*Aster on the wing in the eastern forest.*
 
 A sprite scout of [[The Council of Boroughs]], yellow-winged, married to [[Sylvia]]. The pair shadowed the party from the moment they entered the eastern forest in [[Session 07 - The Druid's Ruins]], until [[Polly]] stealthed in behind them and startled the pollen off their wings.
 

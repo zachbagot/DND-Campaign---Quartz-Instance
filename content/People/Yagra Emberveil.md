@@ -4,6 +4,7 @@ faction: Ghol Uzhak
 tags: [npc]
 ---
 ![[Yagra Emberveil.png]]
+*Yagra at the fire at the base of the great tusk.*
 
 Shaman of [[Ghol Uzhak]] and keeper of the fire at the base of the great tusk.
 

@@ -5,6 +5,7 @@ status: prisoner
 tags: [npc]
 ---
 ![[Captain Aldric Renn.png]]
+*Captain Renn with his soldiers on the caravan's march.*
 
 Commanding officer of the soldiers escorting the caravan in [[Session 05 - The Caravan]]. Late forties, five foot ten, lean. Principled, and by most accounts slowly waking up to what he was part of.
 

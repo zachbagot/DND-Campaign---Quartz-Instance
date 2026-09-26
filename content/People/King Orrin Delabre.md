@@ -3,6 +3,7 @@ type: npc
 tags: [npc]
 ---
 ![[King Orrin Delabre.png]]
+*King Orrin in his palace in Kharavel.*
 
 The King of [[Kharavel]]. A very old rock gnome who carries himself like a soldier.
 

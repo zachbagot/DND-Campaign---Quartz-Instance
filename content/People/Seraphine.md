@@ -4,6 +4,7 @@ location: Aquitaine
 tags: [npc]
 ---
 ![[Seraphine.png]]
+*Seraphine in the keep at Aquitaine.*
 
 Childhood friend of [[Celeste Hawthorne]], and the daughter of [[Maris]] the alchemist of [[Briarwood]].
 

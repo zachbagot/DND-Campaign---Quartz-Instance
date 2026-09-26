@@ -3,6 +3,7 @@ type: npc
 tags: [npc]
 ---
 ![[Lyra Blackthorn.png]]
+*Lyra in the Rusty Tankard in Briarwood.*
 
 A sarcastic half-elf rogue with short silver hair and amber eyes, confident and cunning, quick to mock and quicker to strike. She led [[Garin]] and [[Viola]] as an adventuring trio drinking at the Rusty Tankard in [[Session 01 - The Burning of Briarwood]], where all three rejected [[St. Joseph]] and turned hostile.
 

@@ -4,6 +4,7 @@ status: dead
 tags: [npc]
 ---
 ![[Son Soleth.png]]
+*Son Soleth at the Duke's court in Aquitaine.*
 
 A dignitary from [[Dur Soleth]], present at [[Duke Thalorien Tidelorn]]'s court in [[Session 04 - The Iron Net]].
 

@@ -5,6 +5,7 @@ tags: [pc]
 player: Nick
 ---
 ![[Saint Joseph.png]]
+*St. Joseph of Cupertino in his friar's habit and chains.*
 
 Cleric. Also called Father Joseph. Acts first.
 

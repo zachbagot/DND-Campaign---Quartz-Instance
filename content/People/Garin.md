@@ -3,6 +3,7 @@ type: npc
 tags: [npc]
 ---
 ![[Garin.png]]
+*Garin on a warm country road.*
 
 Human fighter. Muscular, scarred, stoic, black buzz-cut hair. Fiercely loyal to [[Lyra Blackthorn]], though her recklessness grates on his discipline.
 

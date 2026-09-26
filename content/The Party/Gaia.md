@@ -5,6 +5,7 @@ player: Patrick
 status: retired
 ---
 ![[Gaia.png]]
+*Gaia by the fire at the Rusty Tankard.*
 
 Elf sorcerer. Played by **Patrick**. One of the six who were in the Rusty Tankard when the dragon tore the roof off in [[Session 01 - The Burning of Briarwood]].
 

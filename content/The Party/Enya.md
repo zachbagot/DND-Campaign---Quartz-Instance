@@ -5,6 +5,7 @@ tags: [pc]
 player: Victoria
 ---
 ![[Enya.png]]
+*Enya, a flame in her open palm.*
 
 Wood elf sorcerer. The newest of the five. She joined during the caravan arc in [[Session 05 - The Caravan]], shortly before the fighting started at the ford.
 

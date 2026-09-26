@@ -4,6 +4,7 @@ status: dead
 tags: [npc]
 ---
 ![[Skarnick.png]]
+*Skarnick in his torchlit cave.*
 
 A goblin prince with a reputation for debauchery that had travelled a good deal further than he ever did.
 

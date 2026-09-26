@@ -7,6 +7,7 @@ aliases:
 The city in bloom, deep in the ancient forest east of the desert. The party reached it in [[Session 07 - The Druid's Ruins]].
 
 ![[Ilyara.png]]
+*The great flower opening over the forest.*
 
 ## The flower
 

@@ -3,6 +3,7 @@ type: npc
 tags: [npc]
 ---
 ![[Junebug.png]]
+*Junebug by the party's campfire on the road.*
 
 A young tabaxi girl who walked into the party's camp one night on the road in [[Session 02 - The Road to Aquitaine]].
 

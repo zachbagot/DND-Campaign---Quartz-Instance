@@ -3,6 +3,7 @@ type: npc
 tags: [npc]
 ---
 ![[Prince Werrin Delabre.png]]
+*Prince Werrin in his armour, in the palace at Kharavel.*
 
 The heir of [[Kharavel]], son of [[King Orrin Delabre]].
 

@@ -5,6 +5,7 @@ tags: [place]
 The city that governs [[The Desert Plains]], and the destination the caravan was marching toward in [[Session 05 - The Caravan]].
 
 ![[Dur Soleth.png]]
+*Dur Soleth across the white salt, a caravan on the road in.*
 
 **The party has never been there.** They turned on the caravan at the ford in [[Session 06 - The Battle of Blood Gulch Ridge]] and went east to [[Ghol Uzhak]] instead.
 

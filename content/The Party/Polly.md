@@ -5,6 +5,7 @@ tags: [pc]
 player: Ben
 ---
 ![[Polly.png]]
+*Polly with his pipe and his toymaker's tools.*
 
 Gnome rogue, gay, he/him. Also called Poppy. The party's way into any room that is locked.
 

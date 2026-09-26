@@ -3,6 +3,7 @@ type: npc
 tags: [npc]
 ---
 ![[Tharin.png]]
+*Tharin in an alley in Aquitaine.*
 
 A vagrant in an alley in [[Aquitaine]] who spotted [[Throkk]] fleeing the Traveler's Trove robbery in [[Session 03 - Beef's Beefy Doors]].
 

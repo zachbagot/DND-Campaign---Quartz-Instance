@@ -3,6 +3,7 @@ type: npc
 tags: [npc]
 ---
 ![[Scalybark.png]]
+*Scalybark, awake in the square at Rootfield.*
 
 An awakened tree in the square of [[Rootfield]], met in [[Session 07 - The Druid's Ruins]] when [[St. Joseph]] cast sacred flame at his base and he stood up out of the ground to ask why they had disturbed his slumber.
 
