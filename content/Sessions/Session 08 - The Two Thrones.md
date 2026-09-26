@@ -3,6 +3,7 @@ status: complete
 type: session
 session: 8
 real_date: 2026-09-04
+modified: 2026-09-04
 tags: [session]
 ---
 [[Polly]] is arrested thirty seconds after opening a shopkeeper from shoulder to hip, and the city that has no king puts him on trial for four murders he did not commit. By the end of the night a god has spoken over the forest and named three prophets, and one of them is a goblin prince.

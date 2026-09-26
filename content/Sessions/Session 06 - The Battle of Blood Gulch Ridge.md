@@ -3,6 +3,7 @@ status: complete
 type: session
 session: 6
 real_date: 2026-07-11
+modified: 2026-07-11
 tags: [session]
 ---
 Played **11 July 2026**, the second half of a battle too big to finish in one night. It began on 27 June in [[Session 05 - The Caravan]] and is told here in one piece.

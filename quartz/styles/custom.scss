@@ -151,3 +151,25 @@ article .markdown-rendered > h3 {
   // The overflow sentinel the explorer uses to measure scrolling must stay last.
   > li.overflow-end { order: 99; }
 }
+
+// Image captions (Zach, 2026-09-26).
+//
+// Every wiki image is followed on the next line by one italic caption, so the
+// paragraph renders as img, br, em. The br is what opened the gap: the image
+// is display:block, so the break adds a whole empty line box beneath it before
+// the caption starts. Hiding the br closes the gap, and the caption is centred
+// under the picture with a small margin so it does not touch the image. The
+// selector only matches an em that directly follows an image in the same
+// paragraph, so italic text anywhere else is untouched.
+article .markdown-rendered p:has(> img) {
+  > img + br {
+    display: none;
+  }
+
+  > img + br + em,
+  > img + em {
+    display: block;
+    text-align: center;
+    margin-top: 0.4rem;
+  }
+}

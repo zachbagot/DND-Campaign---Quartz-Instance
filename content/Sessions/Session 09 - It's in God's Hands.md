@@ -3,6 +3,7 @@ status: complete
 type: session
 session: 9
 real_date: 2026-09-25
+modified: 2026-09-25
 tags: [session]
 ---
 The party walks out of the forest as heroes and spends one day in [[Ilyara]] paying what they owe. By the next midnight they have been hired to put a goblin prince on his father's throne, and [[St. Joseph]] has four children who will not go home.

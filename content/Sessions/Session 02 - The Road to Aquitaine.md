@@ -3,6 +3,7 @@ status: complete
 type: session
 session: 2
 real_date: 2026-02-22
+modified: 2026-02-22
 tags: [session]
 ---
 The party loots the goblin cave, takes an escort job, and travels a long way west with two young women and a prophecy.
