@@ -2,7 +2,10 @@
 type: npc
 tags: [npc]
 ---
-A deep gnome with white whiskers, a magnifying monocle and a leather apron full of tools, who talks in rapid bursts. He runs the Clockwork Cradle, a toymakers' and craftsmen's shop in [[Kharavel]]. Everyone calls him **Tick**.
+![[Master Cobble Whistle-Gear.png]]
+*Tick in the Clockwork Cradle with one of his mirror-light birds.*
+
+A deep gnome with white whiskers, a magnifying monocle and a leather apron full of tools, who talks in rapid bursts. He runs [[The Clockwork Cradle]], a toymakers' and craftsmen's shop in [[Kharavel]]. Everyone calls him **Tick**.
 
 He has known [[Polly]] for decades. In [[Session 09 - It's in God's Hands]] he asked the question nobody else had: *"So how's Wallace?"* Polly told him Wallace was dead, and that goblins did it, and Tick looked at the two goblin children in the back of his shop.
 
