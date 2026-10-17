@@ -8,6 +8,9 @@ tags: [session]
 ---
 The party walks out of the forest as heroes and spends one day in [[Ilyara]] paying what they owe. By the next midnight they have been hired to put a goblin prince on his father's throne, and [[St. Joseph]] has four children who will not go home.
 
+![[Kharavel Palace.png]]
+*The palace of Kharavel on the rim of the chasm, where the party took the contract.*
+
 ## Morning in the clearing
 
 The vines peeled off [[Zaff]] and left him jacked, like something strong had been pumped into his veins. He thought *I am so ready to kill some goblins*, and had the sense not to say it to fifty of them. Being named a prophet lifted [[St. Joseph]] from the fifth level of exhaustion to as spry as a newborn, and Zaff found he could pass what was running through him into [[Throkk]] and [[Polly]].

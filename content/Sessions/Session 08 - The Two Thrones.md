@@ -6,6 +6,9 @@ real_date: 2026-09-04
 modified: 2026-09-04
 tags: [session]
 ---
+![[Prince Krixen Ironfang.png]]
+*Prince Krixen on the vine throne, fed porridge by one of his women.*
+
 [[Polly]] is arrested thirty seconds after opening a shopkeeper from shoulder to hip, and the city that has no king puts him on trial for four murders he did not commit. By the end of the night a god has spoken over the forest and named three prophets, and one of them is a goblin prince.
 
 [[Enya]] was not with the party. She was at the brothel.

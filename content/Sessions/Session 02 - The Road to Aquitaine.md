@@ -8,6 +8,9 @@ tags: [session]
 ---
 The party loots the goblin cave, takes an escort job, and travels a long way west with two young women and a prophecy.
 
+![[Aquitaine.png]]
+*Aquitaine's rings rising out of the plains at the end of the road.*
+
 ## The cave
 
 The four of them found the hideout and went in hard.

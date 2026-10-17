@@ -9,6 +9,9 @@ tags: [session]
 
 A week in the desert with a forced march of orcs, a burglary, a prophecy, and a warhorn at the end of it.
 
+![[The Desert Plains.png]]
+*The caravan crossing the desert plains.*
+
 ## The march
 
 The caravan is a forced relocation. Orcs are being marched across [[The Desert Plains]] toward an internment quarter outside [[Dur Soleth]], guarded by [[Captain Aldric Renn]]'s soldiers and overseen by the mage [[Seraveth]] with four mages under him: Orvyn, [[Liss]], Cabel, and Mourne, plus three apprentices, Pip, Hara, and Voss.
