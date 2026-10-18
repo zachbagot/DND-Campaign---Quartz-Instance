@@ -2,7 +2,7 @@
 type: npc
 tags: [npc]
 ---
-![[Calico.png]]
+![[Calico.webp]]
 *Calico at the amphitheatre in Ilyara, where she testified at Polly's trial.*
 A satyr of [[Ilyara]] who testified against [[Polly]] at his trial in [[Session 08 - The Two Thrones]].
 

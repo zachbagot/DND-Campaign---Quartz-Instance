@@ -2,7 +2,7 @@
 type: npc
 tags: [npc]
 ---
-![[Fennel Underleaf.png]]
+![[Fennel Underleaf.webp]]
 *Fennel in the dream shop, a seed cupped in his hands.*
 
 An old forest gnome who keeps the dream shop in [[Ilyara]], among mounds of dirt, maps and cages. His name is on his name tag.

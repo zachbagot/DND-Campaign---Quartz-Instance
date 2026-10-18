@@ -9,7 +9,7 @@ tags: [session]
 
 A week in the desert with a forced march of orcs, a burglary, a prophecy, and a warhorn at the end of it.
 
-![[The Desert Plains.png]]
+![[The Desert Plains.webp]]
 *The caravan crossing the desert plains.*
 
 ## The march

@@ -4,7 +4,7 @@ faction: The Mages
 status: at large
 tags: [npc]
 ---
-![[Seraveth.png]]
+![[Seraveth.webp]]
 *Seraveth with the caravan, before Blood Gulch Ridge.*
 
 The mage who oversaw the orc caravan in [[Session 05 - The Caravan]]. Tall and narrow, pale, white-blonde, somewhat ambiguous in every direction.

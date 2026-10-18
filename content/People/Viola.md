@@ -2,7 +2,7 @@
 type: npc
 tags: [npc]
 ---
-![[Viola.png]]
+![[Viola.webp]]
 *Viola with fire in her hand.*
 
 Tiefling wizard. Red-skinned, golden-eyed, ambitious, with small curling horns and a dangerous curiosity. Brilliant but impulsive, and her fire magic flares with her temper.

@@ -3,7 +3,7 @@ type: npc
 location: Briarwood
 tags: [npc]
 ---
-![[Mayor Aldric Hawthorne.png]]
+![[Mayor Aldric Hawthorne.webp]]
 *Mayor Hawthorne in Briarwood's square on market day, before the dragon came.*
 
 Mayor of [[Briarwood]] before the dragon came, and father of [[Celeste Hawthorne]].

@@ -6,7 +6,7 @@ real_date: 2026-03-22
 modified: 2026-03-22
 tags: [session]
 ---
-![[Beef the Bard.png]]
+![[Beef the Bard.webp]]
 *Beef the Bard among the stacked doors of her shop.*
 
 The party comes to collect a dowry, gets pulled into [[Aquitaine]]'s criminal underworld instead, and robs a shop for a tiefling who sells doors.

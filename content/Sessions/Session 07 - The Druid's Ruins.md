@@ -8,7 +8,7 @@ tags: [session]
 ---
 The party leaves the lake with a magical journal and a map, gets pointed at two safe cities by Throkk's father, and picks the third direction, the one he begged them not to take. Two days later they own a flaming sword nobody has paid for and a shop nobody gave them.
 
-![[Rootfield.png]]
+![[Rootfield.webp]]
 *What is left of Rootfield, where Zaff was born.*
 
 ## The journal and the map

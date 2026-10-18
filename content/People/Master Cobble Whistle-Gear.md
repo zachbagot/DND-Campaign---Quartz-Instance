@@ -2,7 +2,7 @@
 type: npc
 tags: [npc]
 ---
-![[Master Cobble Whistle-Gear.png]]
+![[Master Cobble Whistle-Gear.webp]]
 *Tick in the Clockwork Cradle with one of his mirror-light birds.*
 
 A deep gnome with white whiskers, a magnifying monocle and a leather apron full of tools, who talks in rapid bursts. He runs [[The Clockwork Cradle]], a toymakers' and craftsmen's shop in [[Kharavel]]. Everyone calls him **Tick**.

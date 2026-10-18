@@ -4,7 +4,7 @@ brand: The Seed in the Ash
 tags: [pc]
 player: Andrew
 ---
-![[Zaff.png]]
+![[Zaff.webp]]
 *Zaff, the forest's magic curling around his hands.*
 
 Aasimar druid. Celestial descent, which makes his standing with the orcs at [[Ghol Uzhak]] an odd thing.

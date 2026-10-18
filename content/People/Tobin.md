@@ -2,7 +2,7 @@
 type: npc
 tags: [npc]
 ---
-![[Tobin.png]]
+![[Tobin.webp]]
 *Tobin behind the bar of the Rusty Tankard.*
 
 Innkeeper of the Rusty Tankard in [[Briarwood]]. A grizzled, balding old human with forearms capable of lifting a pig over his head.

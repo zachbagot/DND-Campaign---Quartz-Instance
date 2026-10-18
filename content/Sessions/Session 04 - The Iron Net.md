@@ -6,7 +6,7 @@ real_date: 2026-05-30
 modified: 2026-05-30
 tags: [session]
 ---
-![[Captain Brannick Holt.png]]
+![[Captain Brannick Holt.webp]]
 *Red Knuckles on the deck of the Iron Net.*
 
 [[Polly]] gropes a foreign dignitary, the party is sentenced to an escort job, and they cross the water on a ship called the Iron Net.

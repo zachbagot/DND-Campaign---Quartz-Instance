@@ -2,7 +2,7 @@
 type: npc
 tags: [npc]
 ---
-![[Bracken.png]]
+![[Bracken.webp]]
 *Bracken at the Root and Resin, a tankard in his tail and warlock light in his hand.*
 
 A satyr warlock of [[Ilyara]], and a regular at the [[Root and Resin]]. He does a lot of the city's exterminations. [[Lethiel]] blushed when she mentioned him.

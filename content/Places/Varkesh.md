@@ -4,7 +4,7 @@ tags: [place]
 ---
 The goblin capital, northeast of the desert, between [[Kharavel]] and [[Ilyara]]. Called the Weeping City, and by the sprites the Hanging City. The party has not been there, and everyone they have asked has begged them not to go.
 
-![[Varkesh.png]]
+![[Varkesh.webp]]
 *Varkesh from above, ringed by the Red Boughs.*
 
 What they have been told, first by [[Eugene Johnson]] and then by [[Aster]] and [[Sylvia]]:
@@ -18,8 +18,8 @@ Legend says the old tribes, the goblins and the old races, once gave their great
 
 The party chose it as their destination in [[Session 07 - The Druid's Ruins]] and made it as far as [[Ilyara]], where they stopped to regroup.
 
-![[Varkesh woods.png]]
+![[Varkesh woods.webp]]
 *The Red Boughs, the woods outside Varkesh.*
 
-![[Varkesh metal district.png]]
+![[Varkesh metal district.webp]]
 *The metal district.*

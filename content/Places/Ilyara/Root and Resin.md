@@ -2,7 +2,7 @@
 type: place
 tags: [place]
 ---
-![[Root and Resin.png]]
+![[Root and Resin.webp]]
 *The Root and Resin, down among the roots where no sunlight reaches.*
 
 The worst part of [[Ilyara]], down at the root of the great flower where no sunlight reaches, and the tavern that gives it its name. Home to the city's darkest and most criminal citizens.

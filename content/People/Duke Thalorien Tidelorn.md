@@ -3,7 +3,7 @@ type: npc
 location: Aquitaine
 tags: [npc]
 ---
-![[Duke Thalorien Tidelorn.png]]
+![[Duke Thalorien Tidelorn.webp]]
 *The Duke at his court in Aquitaine.*
 
 Ruler of [[Aquitaine]]. **Human.** Composed and charismatic, with sea-blue eyes and long silver-streaked hair like cresting waves.

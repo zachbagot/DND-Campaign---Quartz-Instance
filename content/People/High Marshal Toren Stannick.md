@@ -2,7 +2,7 @@
 type: npc
 tags: [npc]
 ---
-![[High Marshal Toren Stannick.png]]
+![[High Marshal Toren Stannick.webp]]
 *The High Marshal in the throne room at Kharavel.*
 
 High Marshal Toren "Brass-Sight" Stannick, commander of the armies of [[Kharavel]]. A rock gnome with one eye and a monocle, and a man who says *indubitably*.

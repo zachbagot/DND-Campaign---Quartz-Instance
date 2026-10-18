@@ -2,7 +2,7 @@
 type: npc
 tags: [npc]
 ---
-![[Wix.png]]
+![[Wix.webp]]
 *Wix in flight over the forest.*
 
 The sprite who raised [[Zaff]] after [[Rootfield]] fell. He was a child when the goblins destroyed his village, and Wix is who he grew up with instead.

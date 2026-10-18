@@ -2,7 +2,7 @@
 type: npc
 tags: [npc]
 ---
-![[Thrain Battleborn.png]]
+![[Thrain Battleborn.webp]]
 *Thrain working the door in Aquitaine.*
 
 A dwarf working a door in [[Aquitaine]] as a bouncer, which is a strange job for a level eight or nine oathbreaker paladin.

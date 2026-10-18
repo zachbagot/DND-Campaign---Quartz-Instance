@@ -4,7 +4,7 @@ brand: The Hearth With Two Shadows
 tags: [pc]
 player: Nick
 ---
-![[Saint Joseph.png]]
+![[Saint Joseph.webp]]
 *St. Joseph of Cupertino in his friar's habit and chains.*
 
 Cleric. Also called Father Joseph. Acts first.

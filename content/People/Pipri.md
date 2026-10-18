@@ -2,7 +2,7 @@
 type: npc
 tags: [npc]
 ---
-![[Pipri.png]]
+![[Pipri.webp]]
 *Pipri in flight over the council's amphitheatre.*
 The Wing. A sprite, and the seat on [[The Council of Boroughs]] that holds secrets and information.
 

@@ -2,7 +2,7 @@
 type: npc
 tags: [npc]
 ---
-![[Xeraf.png]]
+![[Xeraf.webp]]
 *Xeraf in the clearing, the night he walked away.*
 The goblin who destroyed [[Rootfield]].
 

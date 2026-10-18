@@ -2,7 +2,7 @@
 type: npc
 tags: [npc]
 ---
-![[Maelis.png]]
+![[Maelis.webp]]
 *Maelis, the great tree at the heart of the amphitheatre.*
 The Root, and the eldest voice on [[The Council of Boroughs]].
 

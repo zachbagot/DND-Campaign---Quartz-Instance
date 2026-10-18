@@ -4,7 +4,7 @@ faction: The Mages
 status: free
 tags: [npc]
 ---
-![[Liss.png]]
+![[Liss.webp]]
 *Liss on the caravan's march.*
 
 One of [[Seraveth]]'s mages on the caravan. Late twenties, slight, androgynous.

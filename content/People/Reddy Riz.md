@@ -2,7 +2,7 @@
 type: npc
 tags: [npc]
 ---
-![[Reddy Riz.png]]
+![[Reddy Riz.webp]]
 *The Rizzler in Ilyara, with his butter knife and Polly's caterpillar.*
 
 A goblin child from [[Prince Krixen Ironfang]]'s camp in the forest north of [[Ilyara]]. His friends call him **the Rizzler**.

@@ -4,7 +4,7 @@ brand: The Broken Tusk Made Whole
 tags: [pc]
 player: Kyle
 ---
-![[Throkk.png]]
+![[Throkk.webp]]
 *Throkk and his greataxe.*
 
 Orc. From a village that was relocated, which turned out to matter a great deal once the party reached the desert.

@@ -2,7 +2,7 @@
 type: npc
 tags: [npc]
 ---
-![[Prince Krixen Ironfang.png]]
+![[Prince Krixen Ironfang.webp]]
 *Krixen on the vine throne, fed porridge by one of his women.*
 A prince of [[Varkesh]], and the first goblin royal the party has met who was not already dead.
 

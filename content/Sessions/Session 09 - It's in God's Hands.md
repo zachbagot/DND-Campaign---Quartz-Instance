@@ -8,7 +8,7 @@ tags: [session]
 ---
 The party walks out of the forest as heroes and spends one day in [[Ilyara]] paying what they owe. By the next midnight they have been hired to put a goblin prince on his father's throne, and [[St. Joseph]] has four children who will not go home.
 
-![[Kharavel Palace.png]]
+![[Kharavel Palace.webp]]
 *The palace of Kharavel on the rim of the chasm, where the party took the contract.*
 
 ## Morning in the clearing

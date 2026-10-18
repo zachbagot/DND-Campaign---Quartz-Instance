@@ -2,7 +2,7 @@
 type: npc
 tags: [npc]
 ---
-![[Brindle.png]]
+![[Brindle.webp]]
 *Brindle in the council's amphitheatre in Ilyara.*
 The Thorn. He holds defence, justice and punishment for [[Ilyara]], and he prosecuted [[Polly]] in [[Session 08 - The Two Thrones]].
 

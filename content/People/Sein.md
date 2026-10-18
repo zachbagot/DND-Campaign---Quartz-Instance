@@ -5,7 +5,7 @@ aliases:
   - People/Seln
   - Seln
 ---
-![[Sein.png]]
+![[Sein.webp]]
 *Sein, the Seed, in Ilyara.*
 The Seed, and the reason [[Polly]] was caught.
 

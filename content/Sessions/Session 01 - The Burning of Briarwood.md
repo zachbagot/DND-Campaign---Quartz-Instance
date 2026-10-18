@@ -9,7 +9,7 @@ tags: [session]
 
 The campaign opens in [[Briarwood]], a quiet town with an inn called the Rusty Tankard, and ends with the town gone, one of the party dead and raised inside the same hour, and the party setting out into the hills after a kidnapped girl.
 
-![[Briarwood.png]]
+![[Briarwood.webp]]
 *Briarwood, before the dragon came.*
 
 ## The dragon

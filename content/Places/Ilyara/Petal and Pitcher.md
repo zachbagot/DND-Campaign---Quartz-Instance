@@ -2,7 +2,7 @@
 type: place
 tags: [place]
 ---
-![[Petal and Pitcher.png]]
+![[Petal and Pitcher.webp]]
 *The Petal and Pitcher in the morning mist.*
 
 An inn at the northern edge of [[Ilyara]], the first thing the party saw walking back in out of the forest. Run by [[Lola Greenling]]. Lively, full of every race in the city, with a lute when the night calls for one.

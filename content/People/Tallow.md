@@ -2,7 +2,7 @@
 type: npc
 tags: [npc]
 ---
-![[Tallow.png]]
+![[Tallow.webp]]
 *Tallow behind the counter of the Tomorrow Shop.*
 
 A polished, fancy-looking goblin who ran [[The Tomorrow Shop]] in [[Ilyara]] until [[Session 07 - The Druid's Ruins]]. His name was given to him by other goblins. "We name each other."

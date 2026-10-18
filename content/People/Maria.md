@@ -2,7 +2,7 @@
 type: npc
 tags: [npc]
 ---
-![[Maria.png]]
+![[Maria.webp]]
 *Maria in Ilyara, keeping close to St. Joseph.*
 
 A little girl of [[Ilyara]] and the smallest of [[St. Joseph]]'s disciples.

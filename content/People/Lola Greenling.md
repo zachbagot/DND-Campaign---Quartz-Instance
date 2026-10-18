@@ -2,7 +2,7 @@
 type: npc
 tags: [npc]
 ---
-![[Lola Greenling.png]]
+![[Lola Greenling.webp]]
 *Lola in the common room of the Petal and Pitcher, her birds of light at her shoulders.*
 
 An elf innkeeper, twenty-eight years old, who runs the [[Petal and Pitcher]] in [[Ilyara]]. She has magic of her own. No last name, like Enya, like Cher.

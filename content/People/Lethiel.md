@@ -2,7 +2,7 @@
 type: npc
 tags: [npc]
 ---
-![[Lethiel.png]]
+![[Lethiel.webp]]
 *Lethiel in the council's amphitheatre in Ilyara.*
 The Bloom, and the strongest presence anyone in the party has stood next to.
 

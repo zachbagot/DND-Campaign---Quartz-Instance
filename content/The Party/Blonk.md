@@ -4,7 +4,7 @@ tags: [pc, retired]
 player: Heath
 status: retired
 ---
-![[Blonk.png]]
+![[Blonk.webp]]
 *Blonk with a tankard at the Rusty Tankard.*
 
 Dwarf cleric. Played by **Heath**. One of the six who were in the Rusty Tankard when the roof came off in [[Session 01 - The Burning of Briarwood]].

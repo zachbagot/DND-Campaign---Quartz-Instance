@@ -4,7 +4,7 @@ tags: [place]
 aliases:
   - Clockwork Cradle
 ---
-![[Clockwork Cradle.png]]
+![[Clockwork Cradle.webp]]
 *The Clockwork Cradle, hanging off the chasm wall above a rope bridge.*
 
 A toymakers' and craftsmen's shop cut into the rock of [[Kharavel]]'s chasm, in the middle tier of the city. Run by [[Master Cobble Whistle-Gear]], whom everyone calls Tick, and full of clockwork birds, clocks and toys made of rock, wood and brass. [[Polly]] has known it for decades.

@@ -3,7 +3,7 @@ type: npc
 faction: Ridge Orcs
 tags: [npc]
 ---
-![[Vorrak Stonebell.png]]
+![[Vorrak Stonebell.webp]]
 *Vorrak on the ridge above the ford.*
 
 Orc resistance leader. Mid forties, six foot seven.
